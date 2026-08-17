@@ -14,7 +14,7 @@ capítulo metodológico, sin tener que confiar en la palabra de nadie.
 
 ## Por qué existe este repositorio
 
-Una revisión anterior asociada a este proyecto (Artículo 2, sometido a IBERAMIA 2026)
+Una revisión anterior asociada a este proyecto
 fue rechazada tras detectarse que 32 de 47 referencias citadas no existían o tenían
 metadatos inventados. Ese hallazgo obligó a reconstruir desde cero, con evidencia
 verificable en cada paso, el corpus bibliográfico que sustenta la taxonomía de
