@@ -1,0 +1,12 @@
+Query string literal, extraído directamente de la interfaz de Scopus
+(pestaña "Documents", "Advanced query" activado) el 2026-08-07:
+
+TITLE-ABS-KEY ( ( ( ( "investor*" OR "individual investor*" OR "retail investor*" OR "investment decision*" OR "portfolio" ) AND ( "risk tolerance" OR "risk profil*" OR "risk perception" OR "loss aversion" OR "financial self-efficacy" OR "ambiguity toleran*" OR "investment horizon" OR "emotional regulation" OR "social influence" ) AND ( "behavioral finance" OR "behavioural finance" OR "classification" OR "typology" OR "profiling" OR "segmentation" OR "taxonomy" ) ) ) AND PUBYEAR > 2018 AND PUBYEAR < 2028 AND PUBYEAR > 2018 AND PUBYEAR < 2028 )
+
+Nota: el filtro PUBYEAR aparece duplicado en el string (interfaz de Scopus
+concatena filtros de UI sin deduplicar visualmente); es funcionalmente
+idéntico a un único filtro PUBYEAR > 2018 AND PUBYEAR < 2028.
+
+Resultado en el momento de la captura: 438 documentos.
+searchId de Scopus (para referencia, no persistente indefinidamente):
+0a426050-f66b-4af9-b35b-bdaef0c68e37
