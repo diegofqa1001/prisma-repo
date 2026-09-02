@@ -43,6 +43,9 @@ archivos crudos.
 | Cribado título/resumen — incluidos (provisional) | 343 (61.3 %) |
 | Cribado título/resumen — excluidos (161 criterio + 48 inciertos + 10 validación) | 217 (38.8 %) |
 | Validación por muestreo del cribado (Kappa de Cohen, IA-IA) | 0.799 ("sustancial") |
+| Síntesis temática a nivel de resumen (`08-sintesis/`, 2026-09-02) — registros codificados | 343 |
+| Dimensiones candidatas codificadas → retenidas | 14 → 7 |
+| Acuerdo entre codificadores por dimensión (Kappa de Cohen, doble pasada) | 0.76–0.96 (149 adjudicaciones) |
 
 El cribado título/resumen (ver `07-cribado/`) ya se ejecutó, los 48 casos
 que la IA marcó inciertos fueron resueltos por el autor de la tesis
@@ -55,8 +58,18 @@ IA-IA, no reemplaza la doble revisión humana independiente que exige
 PRISMA 2020. Se recomienda que el autor revise una submuestra humana antes
 de reportar el número en el capítulo metodológico — ver
 `07-cribado/metodologia.md` y `07-cribado/validacion.md` para el detalle
-completo. La evaluación a texto completo (fase siguiente de PRISMA) aún no
-se ha ejecutado.
+completo.
+
+**Actualización 2026-09-02 — síntesis temática ejecutada.** La fase de
+extracción y síntesis sobre los 343 registros incluidos ya se ejecutó a nivel
+de resumen (ver `08-sintesis/`): catorce dimensiones conductuales candidatas
+codificadas registro por registro con doble pasada independiente (Kappa de
+Cohen por dimensión entre 0.76 y 0.96) y 149 desacuerdos adjudicados, de donde
+se derivan las siete dimensiones retenidas en el Capítulo 3 de la tesis
+(`08-sintesis/metodologia.md`, `08-sintesis/tabla_dimensiones_candidatas.csv`,
+`08-sintesis/matriz_evidencia.json`). La evaluación a texto completo con doble
+revisor humano (fase de elegibilidad de PRISMA 2020) sigue pendiente y se
+declara como tal en la tesis y en la Figura 3.4 (`08-sintesis/fig_3_4_prisma_flujo.png`).
 
 ## Estructura
 
@@ -68,6 +81,7 @@ se ha ejecutado.
 05-diagrama-flujo/       Diagrama de flujo PRISMA y conteos
 06-abstracts/            Abstracts (Scopus + WoS) + análisis exploratorio mínimo
 07-cribado/              Criterios de cribado y resultados título/resumen (preliminar, IA)
+08-sintesis/             Síntesis temática de los 343 incluidos: libro de códigos, doble codificación, Kappa, adjudicación, matriz de evidencia, Figura 3.4
 scripts/                 Copia consolidada de todos los scripts (reproducibilidad)
 PRISMA_master_final.csv  Lista maestra: 560 registros, con DOI, abstract, procedencia y cribado
 ```
