@@ -1,0 +1,4986 @@
+{
+ "D1": [
+  {
+   "rid": "R001",
+   "doi": "10.1007/s44202-026-00669-9",
+   "year": 2026,
+   "title": "Behavioural biases and investment decisions with mediating role of risk perception and moderating role of financial literacy"
+  },
+  {
+   "rid": "R002",
+   "doi": "10.1186/s40854-026-00930-z",
+   "year": 2026,
+   "title": "Behavioral portfolio decisions in a GARCH world"
+  },
+  {
+   "rid": "R004",
+   "doi": "10.31538/munaddhomah.v6i4.2298",
+   "year": 2026,
+   "title": "Islamic Values and Gen Z's Investment Behavior in the Sharia Stock Market: Beyond Rationality"
+  },
+  {
+   "rid": "R006",
+   "doi": "10.3390/jrfm19070467",
+   "year": 2026,
+   "title": "From Financial Literacy to Investment Intention: The Sequential Roles of Risk Perception and Trust"
+  },
+  {
+   "rid": "R008",
+   "doi": "10.1063/5.0318722",
+   "year": 2026,
+   "title": "Optimizing commodity investor decision-making: A metaheuristic approach to addressing behavioral biases in finance"
+  },
+  {
+   "rid": "R010",
+   "doi": "10.1007/s43546-026-01207-4",
+   "year": 2026,
+   "title": "Revisiting risk perception in goals-based equity investment: evidence from emerging investors in Bangalore"
+  },
+  {
+   "rid": "R011",
+   "doi": "10.1177/09721509221115001",
+   "year": 2026,
+   "title": "Understanding Impact Investment Intention Using the Extended Theory of Planned Behaviour"
+  },
+  {
+   "rid": "R012",
+   "doi": "10.1057/s41264-026-00368-5",
+   "year": 2026,
+   "title": "Political conservatism and investor risk tolerance: implications for suitability, profiling, and segmentation"
+  },
+  {
+   "rid": "R013",
+   "doi": "10.1016/j.intfin.2026.102326",
+   "year": 2026,
+   "title": "Two financial worlds and the bridge between them: profiling crypto, traditional, and dual investors"
+  },
+  {
+   "rid": "R014",
+   "doi": "10.1016/j.bir.2026.100800",
+   "year": 2026,
+   "title": "Machine learning for risk profiling: An analysis of pension fund participants"
+  },
+  {
+   "rid": "R015",
+   "doi": "10.1145/3772363.3798970",
+   "year": 2026,
+   "title": "Towards Understanding Financial Decision-Making in Equity Markets Among German and Indian Participants: Survey-based Findings"
+  },
+  {
+   "rid": "R018",
+   "doi": "10.1108/RBF-06-2025-0229",
+   "year": 2026,
+   "title": "How trading shocks shape risk preferences: nonlinear evidence from retail forex traders"
+  },
+  {
+   "rid": "R019",
+   "doi": "10.3390/jrfm19030205",
+   "year": 2026,
+   "title": "Investment Risk Appetite (IRA): Scale Development and Validation"
+  },
+  {
+   "rid": "R022",
+   "doi": "10.29121/shodhkosh.v7.i1s.2026.7194",
+   "year": 2026,
+   "title": "SUSTAINABILITY, ETHICAL CAPITAL, AND INVESTMENT BEHAVIOUR: EMPIRICAL EVIDENCE FROM ESG MUTUAL FUND PREFERENCES IN CULTURAL AND CREATIVE INDUSTRIES"
+  },
+  {
+   "rid": "R023",
+   "doi": "10.55493/5003.v16i2.6035",
+   "year": 2026,
+   "title": "How information overload and heuristics shape digital investment decisions"
+  },
+  {
+   "rid": "R024",
+   "doi": "10.3390/risks14020040",
+   "year": 2026,
+   "title": "How Framing Susceptibility Is Associated with Investment Grip: Evidence from Japanese Retail Investors"
+  },
+  {
+   "rid": "R027",
+   "doi": "10.3390/economies14020061",
+   "year": 2026,
+   "title": "Global Attention and Market Resilience: Evidence from the Gaza Conflict and Israeli Financial Assets"
+  },
+  {
+   "rid": "R031",
+   "doi": "10.1109/ccic68129.2026.11486171",
+   "year": 2026,
+   "title": "An AI-Driven Financial Advisory System with Dynamic Risk Profiling"
+  },
+  {
+   "rid": "R033",
+   "doi": "10.1002/9781394315048.ch7",
+   "year": 2026,
+   "title": "Investors’ Emotional Intelligence, Personality Traits, and Risk Tolerance: A Measure of Investment Decisions"
+  },
+  {
+   "rid": "R035",
+   "doi": "10.1109/iciptm69057.2026.11465506",
+   "year": 2026,
+   "title": "Machine Learning Modelling of Digitalization in Gen Z Decisions: Financial Literacy and Risk Tolerance"
+  },
+  {
+   "rid": "R036",
+   "doi": "10.1109/acdsa67686.2026.11468200",
+   "year": 2026,
+   "title": "Behavioral Financial Engineering: A Data-Driven Application of Cumulative Prospect Theory to Property Sector Portfolio Optimization"
+  },
+  {
+   "rid": "R037",
+   "doi": NaN,
+   "year": 2026,
+   "title": "Behavioral Biases in Financial Markets: Understanding the Impact of Cognitive Heuristic-Driven Biases and Emotional Biases in Shaping Investment Decisions"
+  },
+  {
+   "rid": "R038",
+   "doi": "10.1108/JIMA-12-2023-0393",
+   "year": 2026,
+   "title": "The brain behind the portfolio: the neurological foundations of investment decisions"
+  },
+  {
+   "rid": "R040",
+   "doi": "10.21511/imfi.23(2).2026.24",
+   "year": 2026,
+   "title": "Antecedents of investment decisions among retail investors: Mediating risk perception and moderating investment horizon"
+  },
+  {
+   "rid": "R041",
+   "doi": "10.1109/iciptm69057.2026.11466023",
+   "year": 2026,
+   "title": "AI-Based Predictive Modelling of Digitalization Effects on Investment Decisions of Gen Z Investors"
+  },
+  {
+   "rid": "R043",
+   "doi": "10.1504/aajfa.2024.10068605",
+   "year": 2026,
+   "title": "Deciphering risk and behavioural biases in investment decision-making"
+  },
+  {
+   "rid": "R046",
+   "doi": "10.1109/iitcee67948.2026.11394050",
+   "year": 2026,
+   "title": "AI Supported WealthTech Solutions for Personalized Financial Planning and Investment Decisions"
+  },
+  {
+   "rid": "R048",
+   "doi": NaN,
+   "year": 2026,
+   "title": "Analyzing the Investors Perception, Knowledge and Factors on Equity Fund in Stock Market Investment"
+  },
+  {
+   "rid": "R049",
+   "doi": "10.1016/j.frl.2025.109026",
+   "year": 2026,
+   "title": "Non-home biased individuals' investment choices: the role of the birthplace of investors"
+  },
+  {
+   "rid": "R050",
+   "doi": NaN,
+   "year": 2026,
+   "title": "Examining Diverse Factors Influencing Stock Market Investments of the Investors in South India"
+  },
+  {
+   "rid": "R053",
+   "doi": "10.32479/irmm.23221",
+   "year": 2026,
+   "title": "Impact of Investor Trust and Risk Perception on Mutual Fund Investment Intentions: The Mediating Role of Financial Literacy"
+  },
+  {
+   "rid": "R054",
+   "doi": "10.71086/iajse/v13i1/iajse1340",
+   "year": 2026,
+   "title": "ESG Investing and its Impact on Risk-Adjusted Portfolio Returns from a Behavioral Finance Perspective Using SEM"
+  },
+  {
+   "rid": "R056",
+   "doi": "10.1007/s10479-026-07135-8",
+   "year": 2026,
+   "title": "Behavioral personae, narrow framing, and stochastic dominance in the cryptocurrency market"
+  },
+  {
+   "rid": "R057",
+   "doi": "10.1080/15427560.2026.2651122",
+   "year": 2026,
+   "title": "When Confidence and Knowledge Diverge: Investor Calibration and Portfolio Behavior"
+  },
+  {
+   "rid": "R058",
+   "doi": "10.1007/978-3-032-11276-7_3",
+   "year": 2026,
+   "title": "Masculinity and Financial Behavior: Understanding Biases and Empowering Resilience"
+  },
+  {
+   "rid": "R059",
+   "doi": "10.1108/JIMA-08-2024-0350",
+   "year": 2026,
+   "title": "Analysis of Islamic Unit Trust Funds Investors in Malaysia using the Kohonen self-organizing maps"
+  },
+  {
+   "rid": "R060",
+   "doi": NaN,
+   "year": 2026,
+   "title": "Gender and the Brain on Finance: Are Men and Women Wired for Different Risks?"
+  },
+  {
+   "rid": "R063",
+   "doi": "10.64211/oidaijsd190302",
+   "year": 2026,
+   "title": "Crypto Investment Trends in the Digital Age: The Impact of Online Information on Risk Perception"
+  },
+  {
+   "rid": "R064",
+   "doi": "10.1108/IJBM-04-2025-0285",
+   "year": 2026,
+   "title": "Navigating crypto markets: financial literacy, behavior and information channels"
+  },
+  {
+   "rid": "R065",
+   "doi": "10.1108/GKMC-09-2023-0333",
+   "year": 2025,
+   "title": "Financial risk profiling of millennials"
+  },
+  {
+   "rid": "R068",
+   "doi": "10.1016/j.bir.2025.09.001",
+   "year": 2025,
+   "title": "A portfolio-focused behavioral model linking financial literacy and risk tolerance: Evidence from mutual fund investors in Türkiye"
+  },
+  {
+   "rid": "R069",
+   "doi": "10.1057/s41264-025-00321-y",
+   "year": 2025,
+   "title": "Sustainable investing through a gendered lens: the role of locus of control and risk perception"
+  },
+  {
+   "rid": "R072",
+   "doi": "10.1007/s43621-025-02243-0",
+   "year": 2025,
+   "title": "Mutual fund investment in Nepal and its dual analysis of economic impact and investor behavior"
+  },
+  {
+   "rid": "R073",
+   "doi": "10.1016/j.frl.2025.108102",
+   "year": 2025,
+   "title": "How good are LLMs in risk profiling?"
+  },
+  {
+   "rid": "R075",
+   "doi": "10.14419/bv72nr69",
+   "year": 2025,
+   "title": "Big Five Personality Traits and Financial Risk Tolerance among Retail Investors: A Systematic Literature Review"
+  },
+  {
+   "rid": "R078",
+   "doi": "10.1007/s10690-024-09481-8",
+   "year": 2025,
+   "title": "Risk Perception as a Predictor of Heuristic Biases: The Role of Sex and Age"
+  },
+  {
+   "rid": "R079",
+   "doi": "10.1177/18724981251346316",
+   "year": 2025,
+   "title": "Behavioural factors in risk perception and financial decision making"
+  },
+  {
+   "rid": "R081",
+   "doi": "10.1016/j.najef.2025.102491",
+   "year": 2025,
+   "title": "Happiness and stock market participation"
+  },
+  {
+   "rid": "R083",
+   "doi": "10.15187/adr.2025.08.38.3.149",
+   "year": 2025,
+   "title": "Optimizing Communication Design for Robo-Advisors: The Effects of Investor Types and Information Strategies on Trust and Engagement during Financial Losses"
+  },
+  {
+   "rid": "R084",
+   "doi": "10.2139/ssrn.5265809",
+   "year": 2025,
+   "title": "Psychological Factors and Investment Decision Making"
+  },
+  {
+   "rid": "R087",
+   "doi": "10.31893/multirev.2025233",
+   "year": 2025,
+   "title": "Bibliometric review of behavioral finance and risk: A scientometric analysis using biblioshiny"
+  },
+  {
+   "rid": "R088",
+   "doi": "10.1016/j.actpsy.2025.105048",
+   "year": 2025,
+   "title": "Cognitive biases, Robo advisor and investment decision psychology: An investor's perspective from New York stock exchange"
+  },
+  {
+   "rid": "R090",
+   "doi": "10.1016/j.actpsy.2025.104964",
+   "year": 2025,
+   "title": "Herding behavior, disposition effect, and investment decisions: A multi-mediation analysis of risk perception and dividend policy"
+  },
+  {
+   "rid": "R092",
+   "doi": "10.47857/irjms.2025.v06i02.03325",
+   "year": 2025,
+   "title": "Personality Traits as Moderator of Risk Perception and Investment Decision"
+  },
+  {
+   "rid": "R095",
+   "doi": "10.2478/eoik-2025-0003",
+   "year": 2025,
+   "title": "THE INVESTMENT PUZZLE: UNVEILING BEHAVIORAL FINANCE, RISK PERCEPTION, AND FINANCIAL LITERACY"
+  },
+  {
+   "rid": "R097",
+   "doi": "10.61190/fsr.v33i1.3974",
+   "year": 2025,
+   "title": "Crypto Investment: The Role of Investment Motivations, Investment Confidence, and Risk Perceptions"
+  },
+  {
+   "rid": "R098",
+   "doi": "10.3390/math13040680",
+   "year": 2025,
+   "title": "Smoothing the Subjective Financial Risk Tolerance: Volatility and Market Implications"
+  },
+  {
+   "rid": "R102",
+   "doi": "10.1108/IJSE-08-2023-0626",
+   "year": 2025,
+   "title": "Unveiling investment behavior: through emotional intelligence, social stigma, financial literacy and risk tolerance"
+  },
+  {
+   "rid": "R103",
+   "doi": "10.36334/modsim.2019.e5.phung",
+   "year": 2025,
+   "title": "Risk Tolerance in Investment Decisions"
+  },
+  {
+   "rid": "R104",
+   "doi": "10.1080/15427560.2023.2271108",
+   "year": 2025,
+   "title": "Reconciling Self-Assessed with Psychometric Risk Tolerance: A New Framework for Profiling Risk among Investors"
+  },
+  {
+   "rid": "R105",
+   "doi": "10.17549/gbfr.2025.30.8.19",
+   "year": 2025,
+   "title": "Analysis of Investor Profiling and Portfolio Recommendations by Robo-Advisors in Germany"
+  },
+  {
+   "rid": "R107",
+   "doi": "10.4337/9781035339723.00022",
+   "year": 2025,
+   "title": "Irrational investors"
+  },
+  {
+   "rid": "R110",
+   "doi": "10.21511/imfi.22(1).2025.33",
+   "year": 2025,
+   "title": "Heuristic bias and investment decision: Exploring the mediating role of investors' risk perceptions"
+  },
+  {
+   "rid": "R112",
+   "doi": "10.46585/sp33012242",
+   "year": 2025,
+   "title": "Herding Behavior, Risk Perception, and Investment Performance: A Serial Mediation Analysis"
+  },
+  {
+   "rid": "R114",
+   "doi": "10.2174/9798898810818125010015",
+   "year": 2025,
+   "title": "Behavioural Finance Factors and Investment Decisions: Risk Perception of Gender as a Mediating Factor"
+  },
+  {
+   "rid": "R119",
+   "doi": "10.62754/joe.v4i1.5977",
+   "year": 2025,
+   "title": "The Impact of Robo-Advisors and Risk Tolerance on Retail Investor Portfolio Performance"
+  },
+  {
+   "rid": "R122",
+   "doi": "10.1007/s10479-025-06630-8",
+   "year": 2025,
+   "title": "Measuring contextuality in investment preferences"
+  },
+  {
+   "rid": "R127",
+   "doi": "10.1108/CEMJ-02-2024-0047",
+   "year": 2025,
+   "title": "Assessing risk and loss aversion: COVID-19 and investor behavior in the Polish stock market"
+  },
+  {
+   "rid": "R135",
+   "doi": "10.18488/73.v13i1.4045",
+   "year": 2025,
+   "title": "The determinants of perceived risk: A moderating role of investor sophistication"
+  },
+  {
+   "rid": "R136",
+   "doi": "10.1109/eee-am66675.2025.11473895",
+   "year": 2025,
+   "title": "Artificial Intelligence and Digital Decision-Making: Personality Traits, Risk Aversion, and Investment Intentions in the Era of Digitalization"
+  },
+  {
+   "rid": "R138",
+   "doi": "10.1108/JABES-10-2024-0473",
+   "year": 2025,
+   "title": "The effect of investors’ emotional and depressive states on perceived returns and risk"
+  },
+  {
+   "rid": "R139",
+   "doi": "10.21003/ea.V212-09",
+   "year": 2024,
+   "title": "Economic and psychological determination in civil servants' investment decisions ahead of retirement: empirical evidence from Indonesia"
+  },
+  {
+   "rid": "R140",
+   "doi": "10.1108/SRJ-11-2023-0671",
+   "year": 2024,
+   "title": "Dissecting investment frequency: examining the role of social influence, investors’ perception of gender discrimination, involvement, access to information and risk tolerance"
+  },
+  {
+   "rid": "R142",
+   "doi": "10.1016/j.jbankfin.2024.107293",
+   "year": 2024,
+   "title": "Behavioral risk profiling: Measuring loss aversion of individual investors"
+  },
+  {
+   "rid": "R143",
+   "doi": "10.1108/prr-10-2021-0054",
+   "year": 2024,
+   "title": "Exploring the influence of behavioral aspects on stock investment decision-making: a study on Bangladeshi individual investors"
+  },
+  {
+   "rid": "R144",
+   "doi": "10.1007/s10479-022-05142-z",
+   "year": 2024,
+   "title": "The analysis of the impact of the framing effect on the choice of financial products: an analytical hierarchical process approach"
+  },
+  {
+   "rid": "R145",
+   "doi": "10.55643/fcaptp.5.58.2024.4451",
+   "year": 2024,
+   "title": "IMPACT OF BEHAVIOURAL FINANCE ON RISK PERCEPTION, PSYCHOLOGICAL BEHAVIOUR, AND FINANCIAL DECISIONS OF MOROCCAN INVESTORS"
+  },
+  {
+   "rid": "R147",
+   "doi": NaN,
+   "year": 2024,
+   "title": "Behavioural Biases Affecting Financial Risk Tolerance of Working Women Investors: Evidence from the Indian Stock Market"
+  },
+  {
+   "rid": "R148",
+   "doi": "10.1177/21582440241297065",
+   "year": 2024,
+   "title": "Does Risk Tolerance Mediates the Relationship Between Financial Literacy and Financial Wellbeing During COVID-19: Empirical Evidence From an Emerging Economy"
+  },
+  {
+   "rid": "R149",
+   "doi": "10.1002/bse.3743",
+   "year": 2024,
+   "title": "Investing in our planet: Examining retail investors' preference for green bond investment"
+  },
+  {
+   "rid": "R153",
+   "doi": "10.1057/s41260-024-00355-2",
+   "year": 2024,
+   "title": "A century of asset allocation crash risk"
+  },
+  {
+   "rid": "R156",
+   "doi": "10.1111/joes.12583",
+   "year": 2024,
+   "title": "Finance and intelligence: An overview of the literature"
+  },
+  {
+   "rid": "R158",
+   "doi": "10.3390/fintech3010007",
+   "year": 2024,
+   "title": "Robo Advising and Investor Profiling"
+  },
+  {
+   "rid": "R160",
+   "doi": "10.1051/e3sconf/202448303002",
+   "year": 2024,
+   "title": "Clustering Sukuk Using the K-Means Algorithm for Allocation of Investors Based on Investment Risk Profile"
+  },
+  {
+   "rid": "R161",
+   "doi": "10.1145/3675417.3675439",
+   "year": 2024,
+   "title": "Construction of Investor Profiles Based on Risk Tolerance Prediction"
+  },
+  {
+   "rid": "R163",
+   "doi": "10.26794/2587-5671-2024-28-4-136-143",
+   "year": 2024,
+   "title": "Method for Determining the Risk Profile of Investors based on the Relationship of two stock investing Problems"
+  },
+  {
+   "rid": "R164",
+   "doi": "10.1108/978-1-83753-608-520241020",
+   "year": 2024,
+   "title": "Demystifying Robo-Advisors: Benefits and Limitations"
+  },
+  {
+   "rid": "R165",
+   "doi": "10.1109/icccnt61001.2024.10725082",
+   "year": 2024,
+   "title": "Enhancing Investment Decision-making: Leveraging Smart Machine Learning Models for Risk Profiling and Portfolio Allocation"
+  },
+  {
+   "rid": "R166",
+   "doi": NaN,
+   "year": 2024,
+   "title": "Additive Determination of an Investor’s Risk Tolerance in Asset Allocation"
+  },
+  {
+   "rid": "R171",
+   "doi": "10.18267/j.pep.862",
+   "year": 2024,
+   "title": "Hidden Consequences of Consumer Protection on the Financial Market: Regulation-introduced Bias"
+  },
+  {
+   "rid": "R172",
+   "doi": NaN,
+   "year": 2024,
+   "title": "PERSONALITY, FINANCIAL LITERACY, AND FINANCIAL ADVICE-SEEKING IN THE MIDST OF A PANDEMIC"
+  },
+  {
+   "rid": "R174",
+   "doi": NaN,
+   "year": 2024,
+   "title": "The Influence of Emotions and Social Value Orientation on Risk Tolerance and Sustainable Investment Choices"
+  },
+  {
+   "rid": "R177",
+   "doi": "10.1007/978-3-031-51997-0_8",
+   "year": 2024,
+   "title": "Conceptual Framework: Understanding the Influence of Monetary and Fiscal Policies on Investor Behavior in China’s Renewable Energy Sector"
+  },
+  {
+   "rid": "R178",
+   "doi": NaN,
+   "year": 2024,
+   "title": "The Impact of Media News on Investors' Decision-Making According to their Degree of Risk-Taking"
+  },
+  {
+   "rid": "R179",
+   "doi": "10.24294/jipd.v8i9.6419",
+   "year": 2024,
+   "title": "Analysis of factors affecting investors’ decision towards cryptocurrency investments in Saudia Arabia: A moderating role of fear of missing out (FOMO) on decision-making"
+  },
+  {
+   "rid": "R181",
+   "doi": "10.1137/22m1496943",
+   "year": 2023,
+   "title": "Relative Growth Rate Optimization Under Behavioral Criterion"
+  },
+  {
+   "rid": "R183",
+   "doi": "10.1016/j.jbankfin.2022.106685",
+   "year": 2023,
+   "title": "Biased risk perceptions: Evidence from the laboratory and financial markets"
+  },
+  {
+   "rid": "R184",
+   "doi": "10.47750/QAS/24.196.22",
+   "year": 2023,
+   "title": "Driving Millennials To Be Investors: The Case Of Investment Decision Performance In Indonesian Capital Market"
+  },
+  {
+   "rid": "R185",
+   "doi": "10.1108/RBF-05-2021-0087",
+   "year": 2023,
+   "title": "Influence of bull and bear market phase on financial risk tolerance of urban individual investors in an emerging economy"
+  },
+  {
+   "rid": "R186",
+   "doi": "10.1063/5.0154194",
+   "year": 2023,
+   "title": "Behavioral biases of investors in the cryptocurrency market"
+  },
+  {
+   "rid": "R190",
+   "doi": "10.3390/bs13020115",
+   "year": 2023,
+   "title": "Effects of Investment Experience on the Stock Investment Task: The Mediating Role of Risk Perception"
+  },
+  {
+   "rid": "R191",
+   "doi": "10.1080/15427560.2021.1974444",
+   "year": 2023,
+   "title": "Risk Preference Elicitation and Financial Advice Taking"
+  },
+  {
+   "rid": "R192",
+   "doi": "10.4108/ew.4270",
+   "year": 2023,
+   "title": "Perception on Investing in Stocks with ESG Relevance: A Descriptive View on Influence of Key Demographic Variables and Risk Profiling of Investors"
+  },
+  {
+   "rid": "R193",
+   "doi": "10.1080/23322039.2023.2239032",
+   "year": 2023,
+   "title": "Behavioral finance factors and investment decisions: A mediating role of risk perception"
+  },
+  {
+   "rid": "R194",
+   "doi": "10.1177/09721509231192229",
+   "year": 2023,
+   "title": "The Behavioural Pattern of Investment in the Financial Market: A Study of the Individual Investors"
+  },
+  {
+   "rid": "R195",
+   "doi": "10.1007/978-3-031-43300-9_31",
+   "year": 2023,
+   "title": "Does Cognitive Bias and Risk Perception Impact Investment Decision? Women Investors’ Perspective"
+  },
+  {
+   "rid": "R196",
+   "doi": NaN,
+   "year": 2023,
+   "title": "The Factors Influencing Investor’s Decision towards Invest in Equity Shares in Tumkur District"
+  },
+  {
+   "rid": "R198",
+   "doi": "10.1080/03796205.2023.2218053",
+   "year": 2023,
+   "title": "Risk tolerance as mediating factor in individual financial investment decisions: a developing-country study"
+  },
+  {
+   "rid": "R199",
+   "doi": NaN,
+   "year": 2023,
+   "title": "The Analysis Level of Optimism that Influence Investor’s Risk Tolerance in Asset Allocation | Analisis Tahap Optimisme yang Mempengaruhi Toleransi Risiko Pelabur dalam Peruntukan Saham"
+  },
+  {
+   "rid": "R200",
+   "doi": "10.17549/gbfr.2023.28.2.1",
+   "year": 2023,
+   "title": "Investigating the Antecedents of Investment Intention and the Mediating Effect of Investment Self-efficacy among Young Adults in Shandong, China"
+  },
+  {
+   "rid": "R202",
+   "doi": "10.1109/bigdata59044.2023.10386644",
+   "year": 2023,
+   "title": "Harnessing Behavioral Traits to Enhance Financial Stock Recommender Systems: Tackling the User Cold Start Problem"
+  },
+  {
+   "rid": "R203",
+   "doi": "10.1561/105.00000177",
+   "year": 2023,
+   "title": "Financial Literacy and Heuristic Driven Biases: The Role of Risk Perception"
+  },
+  {
+   "rid": "R207",
+   "doi": NaN,
+   "year": 2023,
+   "title": "Investor Behavior during Periods of Crises: The Chinese Funds Market during the 2020 Pandemic"
+  },
+  {
+   "rid": "R209",
+   "doi": NaN,
+   "year": 2023,
+   "title": "Big Five Personality Traits and Financial Literacy: Effect on Risk Tolerance of Filipino Investors from Higher Education Institutions in Metro Manila"
+  },
+  {
+   "rid": "R210",
+   "doi": "10.1002/cfp2.1151",
+   "year": 2022,
+   "title": "Measuring the gap between elicited and revealed risk for investors: An empirical study"
+  },
+  {
+   "rid": "R211",
+   "doi": "10.1016/j.jbef.2022.100757",
+   "year": 2022,
+   "title": "Unsupervised machine learning to reveal South African risk behaviour archetypes in the domain of discretionary investment decisions"
+  },
+  {
+   "rid": "R212",
+   "doi": "10.47750/QAS/23.191.10",
+   "year": 2022,
+   "title": "The Influence of Social and Personal Factors in Individual Investment Decision Making"
+  },
+  {
+   "rid": "R214",
+   "doi": "10.3390/app121910066",
+   "year": 2022,
+   "title": "A Multimodal Affective Sensing Model for Constructing a Personality-Based Financial Advisor System"
+  },
+  {
+   "rid": "R219",
+   "doi": "10.1108/SAJBS-11-2019-0193",
+   "year": 2022,
+   "title": "Do sociodemographic factors have influence on risk tolerance level of stock market investors? An analysis from a developing country perspective"
+  },
+  {
+   "rid": "R220",
+   "doi": "10.3390/ijfs10010021",
+   "year": 2022,
+   "title": "Examining Risk Absorption Capacity as a Mediating Factor in the Relationship between Cognition and Neuroplasticity in Investors in Investment Decision Making"
+  },
+  {
+   "rid": "R221",
+   "doi": "10.1108/JEAS-07-2020-0116",
+   "year": 2022,
+   "title": "Overconfidence heuristic-driven bias in investment decision-making and performance: mediating effects of risk perception and moderating effects of financial literacy"
+  },
+  {
+   "rid": "R222",
+   "doi": "10.1080/23322039.2022.2111786",
+   "year": 2022,
+   "title": "What makes risk-averse investors tick? A practitioners guide"
+  },
+  {
+   "rid": "R223",
+   "doi": "10.1016/j.jbankfin.2021.106351",
+   "year": 2022,
+   "title": "History matters: How short-term price charts hurt investment performance"
+  },
+  {
+   "rid": "R224",
+   "doi": "10.1504/IJMFA.2023.127528",
+   "year": 2023,
+   "title": "Discriminants of risk tolerance among Indian investors: a dichotomous discriminant approach"
+  },
+  {
+   "rid": "R233",
+   "doi": "10.1590/1808-057x202111290",
+   "year": 2021,
+   "title": "Framing effects of information on investment risk perception"
+  },
+  {
+   "rid": "R234",
+   "doi": "10.3390/jrfm14030095",
+   "year": 2021,
+   "title": "The Compounding Effect of Investors’ Cognition and Risk Absorption Potential on Enhancing the Level of Interest towards Investment in the Domestic Capital Market"
+  },
+  {
+   "rid": "R235",
+   "doi": "10.3390/su13031306",
+   "year": 2021,
+   "title": "Robo-advising risk profiling through content analysis for sustainable development in the Hong Kong financial market"
+  },
+  {
+   "rid": "R236",
+   "doi": "10.3390/jrfm14020050",
+   "year": 2021,
+   "title": "Know Your Clients’ Behaviours: A Cluster Analysis of Financial Transactions"
+  },
+  {
+   "rid": "R237",
+   "doi": "10.1891/JFCP-19-00033",
+   "year": 2021,
+   "title": "Risk Tolerance Profiling Measure: Testing Its Reliability and Validities"
+  },
+  {
+   "rid": "R238",
+   "doi": "10.1504/aajfa.2021.111814",
+   "year": 2021,
+   "title": "What explains the investment decision-making behaviour? The role of financial literacy and financial risk tolerance"
+  },
+  {
+   "rid": "R241",
+   "doi": "10.1108/JIABR-06-2020-0194",
+   "year": 2022,
+   "title": "Market discipline in the behavioral finance perspective: a case of Sharia mutual funds in Indonesia"
+  },
+  {
+   "rid": "R244",
+   "doi": NaN,
+   "year": 2020,
+   "title": "Determination of Individual Investors' Financial Risk Tolerance by Machine Learning Methods | Bireysel Yatirimci Finansal Risk Toleransinin Makine Ogrenmesi Yontemleriyle Belirlenmesi"
+  },
+  {
+   "rid": "R246",
+   "doi": "10.3390/su12176912",
+   "year": 2020,
+   "title": "Risk-intolerant but risk-taking-towards a better understanding of inconsistent survey responses of the Euro area households"
+  },
+  {
+   "rid": "R248",
+   "doi": "10.17549/gbfr.2020.25.2.37",
+   "year": 2020,
+   "title": "An investigation of financial investment intention using covariance-based structural equation modelling"
+  },
+  {
+   "rid": "R250",
+   "doi": "10.3905/jwm.2019.1.089",
+   "year": 2020,
+   "title": "Do as i say, not as i do: An analysis of portfolio development recommendations made by financial advisors"
+  },
+  {
+   "rid": "R254",
+   "doi": "10.1016/j.jebo.2019.11.002",
+   "year": 2020,
+   "title": "What makes an investment risky? An analysis of price path characteristics"
+  },
+  {
+   "rid": "R255",
+   "doi": "10.1007/978-981-13-9282-5_65",
+   "year": 2020,
+   "title": "Predicting a Model for the Financial Risk Tolerance of Retail Investors of Durgapur City on Their Demographic Factors Using Multiple Discriminant Analysis"
+  },
+  {
+   "rid": "R256",
+   "doi": "10.2139/ssrn.3458976",
+   "year": 2020,
+   "title": "Affective portfolio analysis: Risk, ambiguity and (IR)rationality"
+  },
+  {
+   "rid": "R257",
+   "doi": "10.3905/joi.2019.1.098",
+   "year": 2019,
+   "title": "The efficient frontuzzle: What investment risk profiling still fails to solve"
+  },
+  {
+   "rid": "R259",
+   "doi": "10.1371/journal.pone.0214062",
+   "year": 2019,
+   "title": "Personality traits and investor profile analysis: A behavioral finance study"
+  },
+  {
+   "rid": "R260",
+   "doi": "10.1109/i2ct45611.2019.9033953",
+   "year": 2019,
+   "title": "Applying Utility Theory to Improve Performance of Fuzzy Decision Support Systems for Personal Financial Planning"
+  },
+  {
+   "rid": "R261",
+   "doi": "10.21314/JNTF.2019.053",
+   "year": 2019,
+   "title": "Scoring models for roboadvisory platforms: A network approach"
+  },
+  {
+   "rid": "R262",
+   "doi": "10.3390/ijfs7030042",
+   "year": 2019,
+   "title": "What are investors afraid of? Finding the big bad wolf"
+  },
+  {
+   "rid": "R263",
+   "doi": NaN,
+   "year": 2019,
+   "title": "Impact of behavioral finance on stock investment decisions applied study on a sample of investors at Amman Stock Exchange"
+  },
+  {
+   "rid": "R264",
+   "doi": NaN,
+   "year": 2019,
+   "title": "Study of traits of individual investors to determine their investment pattern"
+  },
+  {
+   "rid": "R267",
+   "doi": "10.35808/ijeba/319",
+   "year": 2019,
+   "title": "Factors explaining the market discipline of sharia mutual funds from a behavioural finance perspective: A theoretical approach"
+  },
+  {
+   "rid": "R269",
+   "doi": "10.1111/ijcs.70110",
+   "year": 2025,
+   "title": "Consumer Investment Behaviour: A Systematic Review Using TCM and ADO Frameworks"
+  },
+  {
+   "rid": "R271",
+   "doi": "10.1016/j.frl.2021.102146",
+   "year": 2022,
+   "title": "The Effect of Investment Literacy on the Likelihood of Retail Investor Margin Trading and Having a Margin Call"
+  },
+  {
+   "rid": "R272",
+   "doi": "10.1080/23322039.2020.1794493",
+   "year": 2020,
+   "title": "A model for female South African investors' financial risk tolerance"
+  },
+  {
+   "rid": "R273",
+   "doi": "10.1002/ijfe.2591",
+   "year": 2023,
+   "title": "The importance of staying positive: The impact of emotions on attitude to risk"
+  },
+  {
+   "rid": "R274",
+   "doi": "10.1111/joes.12706",
+   "year": 2026,
+   "title": "Interconnectedness of Emotions With Investment Decision-Making: A Conceptual Framework"
+  },
+  {
+   "rid": "R276",
+   "doi": "10.1080/00036846.2024.2356896",
+   "year": 2025,
+   "title": "Financial awareness, risk aversion and portfolio choice"
+  },
+  {
+   "rid": "R277",
+   "doi": "10.3233/JIFS-224517",
+   "year": 2023,
+   "title": "Multi-period portfolio optimization based on credibilistic lower and upper VaR ratios"
+  },
+  {
+   "rid": "R280",
+   "doi": "10.1137/22M1496943",
+   "year": 2023,
+   "title": "Relative Growth Rate Optimization Under Behavioral Criterion\\textbackslash{}ast"
+  },
+  {
+   "rid": "R283",
+   "doi": "10.17576/jsm-2023-5210-20",
+   "year": 2023,
+   "title": "The Analysis Level of Optimism that Influence Investor's Risk Tolerance in Asset Allocation"
+  },
+  {
+   "rid": "R284",
+   "doi": "10.3390/risks13080142",
+   "year": 2025,
+   "title": "Overconfidence and Investment Loss Tolerance: A Large-Scale Survey Analysis of Japanese Investors"
+  },
+  {
+   "rid": "R285",
+   "doi": "10.1016/j.jretconser.2019.102014",
+   "year": 2020,
+   "title": "The financial advice puzzle: The role of consumer heterogeneity in the advisor choice"
+  },
+  {
+   "rid": "R287",
+   "doi": "10.1111/ssqu.13493",
+   "year": 2025,
+   "title": "Early-Life Famine Experience and Households' Diversity of Financial Asset Portfolio: Evidence From China"
+  },
+  {
+   "rid": "R289",
+   "doi": "10.30784/epfad.1934878",
+   "year": 2026,
+   "title": "RISK PERCEPTION UNDER UNCERTAINTY: A BEHAVIORAL ANALYSIS OF SAFE-HAVEN ASSET RETURN RESPONSES"
+  },
+  {
+   "rid": "R292",
+   "doi": "10.1108/RBF-11-2023-0300",
+   "year": 2024,
+   "title": "Are women more risk averse in investments? Brazilian evidence"
+  },
+  {
+   "rid": "R294",
+   "doi": "10.1016/j.jbankfin.2018.10.014",
+   "year": 2019,
+   "title": "How persistent are the effects of experience sampling on investor behavior?"
+  },
+  {
+   "rid": "R295",
+   "doi": "10.1016/j.iref.2020.12.029",
+   "year": 2021,
+   "title": "Unusual investor behavior under tacit and endogenous market signals"
+  },
+  {
+   "rid": "R297",
+   "doi": "10.53908/NMMR.300215",
+   "year": 2022,
+   "title": "Does Your Personality Affect the Investment Risk You Take?"
+  },
+  {
+   "rid": "R300",
+   "doi": "10.1016/j.jcorpfin.2022.102199",
+   "year": 2022,
+   "title": "What are the benefits of attracting gambling investors? Evidence from stock splits in China"
+  },
+  {
+   "rid": "R301",
+   "doi": "10.1002/rfe.1032",
+   "year": 2019,
+   "title": "Increasing return response to changes in risk"
+  },
+  {
+   "rid": "R302",
+   "doi": "10.1108/RBF-05-2021-0088",
+   "year": 2023,
+   "title": "A new behavioral finance mean variance framework"
+  },
+  {
+   "rid": "R303",
+   "doi": "10.18137/cardiometry.2022.23.263271",
+   "year": 2022,
+   "title": "A study on stock market investors during COVID phase - prospect theory approach"
+  },
+  {
+   "rid": "R314",
+   "doi": "10.1016/j.iref.2025.104828",
+   "year": 2026,
+   "title": "Financial risk tolerance within couples of retail bank clients"
+  },
+  {
+   "rid": "R315",
+   "doi": "10.1108/RAMJ-12-2024-0328",
+   "year": 2025,
+   "title": "Impact of investors' demographic, behavior, attitudes and knowledge and skills on their risk tolerance levels in Bangladesh's emerging capital market"
+  },
+  {
+   "rid": "R316",
+   "doi": "10.4018/IJABE.2019010101",
+   "year": 2019,
+   "title": "Impact of Personality Traits on Risk Tolerance and Investors' Decision Making"
+  },
+  {
+   "rid": "R317",
+   "doi": "10.26650/ibr.2023.52.955732",
+   "year": 2023,
+   "title": "The Relationship between Behavioral Tendencies and Stock Market Participation: A Study for Accounting and Finance Academics"
+  },
+  {
+   "rid": "R318",
+   "doi": NaN,
+   "year": 2022,
+   "title": "Overconfidence and risky investment choices"
+  },
+  {
+   "rid": "R319",
+   "doi": "10.1016/j.iimb.2024.06.004",
+   "year": 2024,
+   "title": "Financial risk propensity and investment decisions: An empirical analysis using behavioural biases"
+  },
+  {
+   "rid": "R320",
+   "doi": "10.1016/j.irfa.2025.104291",
+   "year": 2025,
+   "title": "Household aging, commercial insurance participation, and risky asset allocation"
+  },
+  {
+   "rid": "R321",
+   "doi": "10.1504/IJICBM.2024.138994",
+   "year": 2024,
+   "title": "Impact of financial communication practices on investors' risk perception and decision-making"
+  },
+  {
+   "rid": "R322",
+   "doi": "10.55643/fcaptp.4.57.2024.4451",
+   "year": 2024,
+   "title": "IMPACT OF BEHAVIOURAL FINANCE ON RISK AND FINANCIAL DECISIONS OF MOROCCAN INVESTORS"
+  },
+  {
+   "rid": "R323",
+   "doi": "10.1108/JIABR-04-2025-0223",
+   "year": 2026,
+   "title": "Moderator effect of income on sharia stock investment decisions on the Stockbit"
+  },
+  {
+   "rid": "R324",
+   "doi": "10.1108/RAMJ-07-2025-0136",
+   "year": 2026,
+   "title": "What drives investment choices? A behavioral perspective from Gujarat state"
+  },
+  {
+   "rid": "R325",
+   "doi": "10.1108/JEAS-01-2023-0026",
+   "year": 2025,
+   "title": "Role of perceived COVID-19 disruption, personality traits and risk perception in determining the investment behavior of retail investors: a hybrid regression-neural network approach"
+  },
+  {
+   "rid": "R326",
+   "doi": "10.1016/j.obhdp.2022.104150",
+   "year": 2022,
+   "title": "Tangibility bias in investment risk judgments"
+  },
+  {
+   "rid": "R327",
+   "doi": "10.3389/fpsyg.2022.914649",
+   "year": 2022,
+   "title": "Mediating Role of Optimism Bias and Risk Perception Between Emotional Intelligence and Decision-Making: A Serial Mediation Model"
+  },
+  {
+   "rid": "R328",
+   "doi": "10.1080/15427560.2023.2257344",
+   "year": 2025,
+   "title": "Anxiety in Returns"
+  },
+  {
+   "rid": "R329",
+   "doi": "10.1016/j.irfa.2021.101712",
+   "year": 2021,
+   "title": "When do investors gamble in the stock market?"
+  },
+  {
+   "rid": "R330",
+   "doi": "10.5958/2321-2012.2020.00022.6",
+   "year": 2020,
+   "title": "A STUDY ON BEHAVIOURAL TRAITS OF RISK AVERSE INVESTORS : EVIDENCES FROM INDIA"
+  },
+  {
+   "rid": "R331",
+   "doi": "10.3934/jimo.2018105",
+   "year": 2019,
+   "title": "RISK MEASURE OPTIMIZATION: PERCEIVED RISK AND OVERCONFIDENCE OF STRUCTURED PRODUCT INVESTORS"
+  },
+  {
+   "rid": "R332",
+   "doi": "10.1111/1540-6229.12166",
+   "year": 2020,
+   "title": "Diversification Benefits of REIT Preferred and Common Stock: New Evidence from a Utility-based Framework"
+  },
+  {
+   "rid": "R333",
+   "doi": NaN,
+   "year": 2021,
+   "title": "Understanding the Psyche of Retail Investors in India and Their Reactions towards Market Highs and Lows While Making Investment Decisions during the Times of Covid-19"
+  },
+  {
+   "rid": "R338",
+   "doi": "10.1016/j.jempfin.2022.01.006",
+   "year": 2022,
+   "title": "Income, trading, and performance: Evidence from retail investors"
+  },
+  {
+   "rid": "R339",
+   "doi": "10.1108/K-05-2020-0278",
+   "year": 2021,
+   "title": "Moderation effect of pleasure seeking and loss aversion in the relationship between personality traits and risky investment intention"
+  }
+ ],
+ "D2": [
+  {
+   "rid": "R001",
+   "doi": "10.1007/s44202-026-00669-9",
+   "year": 2026,
+   "title": "Behavioural biases and investment decisions with mediating role of risk perception and moderating role of financial literacy"
+  },
+  {
+   "rid": "R004",
+   "doi": "10.31538/munaddhomah.v6i4.2298",
+   "year": 2026,
+   "title": "Islamic Values and Gen Z's Investment Behavior in the Sharia Stock Market: Beyond Rationality"
+  },
+  {
+   "rid": "R006",
+   "doi": "10.3390/jrfm19070467",
+   "year": 2026,
+   "title": "From Financial Literacy to Investment Intention: The Sequential Roles of Risk Perception and Trust"
+  },
+  {
+   "rid": "R009",
+   "doi": "10.3390/jrfm19060418",
+   "year": 2026,
+   "title": "A PRISMA-Based Systematic Review of Behavioral Biases and Demographic Moderators in Investment Decision-Making"
+  },
+  {
+   "rid": "R013",
+   "doi": "10.1016/j.intfin.2026.102326",
+   "year": 2026,
+   "title": "Two financial worlds and the bridge between them: profiling crypto, traditional, and dual investors"
+  },
+  {
+   "rid": "R020",
+   "doi": "10.1371/journal.pone.0345883",
+   "year": 2026,
+   "title": "Adaptability factors and behavioral biases of investors in frontier markets: An adaptive market hypothesis perspective"
+  },
+  {
+   "rid": "R024",
+   "doi": "10.3390/risks14020040",
+   "year": 2026,
+   "title": "How Framing Susceptibility Is Associated with Investment Grip: Evidence from Japanese Retail Investors"
+  },
+  {
+   "rid": "R035",
+   "doi": "10.1109/iciptm69057.2026.11465506",
+   "year": 2026,
+   "title": "Machine Learning Modelling of Digitalization in Gen Z Decisions: Financial Literacy and Risk Tolerance"
+  },
+  {
+   "rid": "R040",
+   "doi": "10.21511/imfi.23(2).2026.24",
+   "year": 2026,
+   "title": "Antecedents of investment decisions among retail investors: Mediating risk perception and moderating investment horizon"
+  },
+  {
+   "rid": "R048",
+   "doi": NaN,
+   "year": 2026,
+   "title": "Analyzing the Investors Perception, Knowledge and Factors on Equity Fund in Stock Market Investment"
+  },
+  {
+   "rid": "R051",
+   "doi": "10.1108/QRFM-03-2025-0064",
+   "year": 2026,
+   "title": "Understanding the disposition effect: a phenomenological study of investor experiences in Nepal"
+  },
+  {
+   "rid": "R053",
+   "doi": "10.32479/irmm.23221",
+   "year": 2026,
+   "title": "Impact of Investor Trust and Risk Perception on Mutual Fund Investment Intentions: The Mediating Role of Financial Literacy"
+  },
+  {
+   "rid": "R057",
+   "doi": "10.1080/15427560.2026.2651122",
+   "year": 2026,
+   "title": "When Confidence and Knowledge Diverge: Investor Calibration and Portfolio Behavior"
+  },
+  {
+   "rid": "R059",
+   "doi": "10.1108/JIMA-08-2024-0350",
+   "year": 2026,
+   "title": "Analysis of Islamic Unit Trust Funds Investors in Malaysia using the Kohonen self-organizing maps"
+  },
+  {
+   "rid": "R063",
+   "doi": "10.64211/oidaijsd190302",
+   "year": 2026,
+   "title": "Crypto Investment Trends in the Digital Age: The Impact of Online Information on Risk Perception"
+  },
+  {
+   "rid": "R064",
+   "doi": "10.1108/IJBM-04-2025-0285",
+   "year": 2026,
+   "title": "Navigating crypto markets: financial literacy, behavior and information channels"
+  },
+  {
+   "rid": "R068",
+   "doi": "10.1016/j.bir.2025.09.001",
+   "year": 2025,
+   "title": "A portfolio-focused behavioral model linking financial literacy and risk tolerance: Evidence from mutual fund investors in Türkiye"
+  },
+  {
+   "rid": "R069",
+   "doi": "10.1057/s41264-025-00321-y",
+   "year": 2025,
+   "title": "Sustainable investing through a gendered lens: the role of locus of control and risk perception"
+  },
+  {
+   "rid": "R070",
+   "doi": "10.1057/s41599-025-05478-4",
+   "year": 2025,
+   "title": "Unveiling the attitudinal factors: an integration of TPB and SCT in understanding investor intention towards equity investments"
+  },
+  {
+   "rid": "R072",
+   "doi": "10.1007/s43621-025-02243-0",
+   "year": 2025,
+   "title": "Mutual fund investment in Nepal and its dual analysis of economic impact and investor behavior"
+  },
+  {
+   "rid": "R081",
+   "doi": "10.1016/j.najef.2025.102491",
+   "year": 2025,
+   "title": "Happiness and stock market participation"
+  },
+  {
+   "rid": "R082",
+   "doi": "10.14419/jn051k29",
+   "year": 2025,
+   "title": "The Psychological and Behavioural Determinants of Mutual Fund Investment Decisions in Bengaluru: A Mixed-Method Approach"
+  },
+  {
+   "rid": "R084",
+   "doi": "10.2139/ssrn.5265809",
+   "year": 2025,
+   "title": "Psychological Factors and Investment Decision Making"
+  },
+  {
+   "rid": "R095",
+   "doi": "10.2478/eoik-2025-0003",
+   "year": 2025,
+   "title": "THE INVESTMENT PUZZLE: UNVEILING BEHAVIORAL FINANCE, RISK PERCEPTION, AND FINANCIAL LITERACY"
+  },
+  {
+   "rid": "R102",
+   "doi": "10.1108/IJSE-08-2023-0626",
+   "year": 2025,
+   "title": "Unveiling investment behavior: through emotional intelligence, social stigma, financial literacy and risk tolerance"
+  },
+  {
+   "rid": "R103",
+   "doi": "10.36334/modsim.2019.e5.phung",
+   "year": 2025,
+   "title": "Risk Tolerance in Investment Decisions"
+  },
+  {
+   "rid": "R106",
+   "doi": "10.1080/23322039.2025.2571403",
+   "year": 2025,
+   "title": "The role of robo-advisors in behavioural finance, shaping investment decisions"
+  },
+  {
+   "rid": "R113",
+   "doi": "10.1504/aajfa.2025.143504",
+   "year": 2025,
+   "title": "The impact of behavioural biases on the behaviours of informed and uninformed individual stock investors: case of the Egyptian Stock Exchange"
+  },
+  {
+   "rid": "R114",
+   "doi": "10.2174/9798898810818125010015",
+   "year": 2025,
+   "title": "Behavioural Finance Factors and Investment Decisions: Risk Perception of Gender as a Mediating Factor"
+  },
+  {
+   "rid": "R124",
+   "doi": "10.1109/icbiti65527.2025.11501156",
+   "year": 2025,
+   "title": "The Role of Digital Technology in Influencing Investor Psychology and Promoting Sustainable Investment in the Indian Financial Market"
+  },
+  {
+   "rid": "R126",
+   "doi": "10.1002/isd2.12346",
+   "year": 2025,
+   "title": "Portfolio management with the help of AI: What drives retail Indian investors to robo-advisors?"
+  },
+  {
+   "rid": "R148",
+   "doi": "10.1177/21582440241297065",
+   "year": 2024,
+   "title": "Does Risk Tolerance Mediates the Relationship Between Financial Literacy and Financial Wellbeing During COVID-19: Empirical Evidence From an Emerging Economy"
+  },
+  {
+   "rid": "R172",
+   "doi": NaN,
+   "year": 2024,
+   "title": "PERSONALITY, FINANCIAL LITERACY, AND FINANCIAL ADVICE-SEEKING IN THE MIDST OF A PANDEMIC"
+  },
+  {
+   "rid": "R175",
+   "doi": "10.1109/sibf63788.2024.10883828",
+   "year": 2024,
+   "title": "Robo Advisors Revolution: Transforming Landscape of Mutual Fund Investments"
+  },
+  {
+   "rid": "R176",
+   "doi": "10.3389/frbhe.2024.1489159",
+   "year": 2024,
+   "title": "Evaluating robo-advisors through behavioral finance: a critical review of technology potential, rationality, and investor expectations"
+  },
+  {
+   "rid": "R184",
+   "doi": "10.47750/QAS/24.196.22",
+   "year": 2023,
+   "title": "Driving Millennials To Be Investors: The Case Of Investment Decision Performance In Indonesian Capital Market"
+  },
+  {
+   "rid": "R196",
+   "doi": NaN,
+   "year": 2023,
+   "title": "The Factors Influencing Investor’s Decision towards Invest in Equity Shares in Tumkur District"
+  },
+  {
+   "rid": "R198",
+   "doi": "10.1080/03796205.2023.2218053",
+   "year": 2023,
+   "title": "Risk tolerance as mediating factor in individual financial investment decisions: a developing-country study"
+  },
+  {
+   "rid": "R200",
+   "doi": "10.17549/gbfr.2023.28.2.1",
+   "year": 2023,
+   "title": "Investigating the Antecedents of Investment Intention and the Mediating Effect of Investment Self-efficacy among Young Adults in Shandong, China"
+  },
+  {
+   "rid": "R203",
+   "doi": "10.1561/105.00000177",
+   "year": 2023,
+   "title": "Financial Literacy and Heuristic Driven Biases: The Role of Risk Perception"
+  },
+  {
+   "rid": "R209",
+   "doi": NaN,
+   "year": 2023,
+   "title": "Big Five Personality Traits and Financial Literacy: Effect on Risk Tolerance of Filipino Investors from Higher Education Institutions in Metro Manila"
+  },
+  {
+   "rid": "R212",
+   "doi": "10.47750/QAS/23.191.10",
+   "year": 2022,
+   "title": "The Influence of Social and Personal Factors in Individual Investment Decision Making"
+  },
+  {
+   "rid": "R221",
+   "doi": "10.1108/JEAS-07-2020-0116",
+   "year": 2022,
+   "title": "Overconfidence heuristic-driven bias in investment decision-making and performance: mediating effects of risk perception and moderating effects of financial literacy"
+  },
+  {
+   "rid": "R228",
+   "doi": "10.1108/QRFM-07-2020-0135",
+   "year": 2021,
+   "title": "Examining drivers and deterrents of individuals’ investment intentions: a qualitative multistage analysis"
+  },
+  {
+   "rid": "R238",
+   "doi": "10.1504/aajfa.2021.111814",
+   "year": 2021,
+   "title": "What explains the investment decision-making behaviour? The role of financial literacy and financial risk tolerance"
+  },
+  {
+   "rid": "R241",
+   "doi": "10.1108/JIABR-06-2020-0194",
+   "year": 2022,
+   "title": "Market discipline in the behavioral finance perspective: a case of Sharia mutual funds in Indonesia"
+  },
+  {
+   "rid": "R248",
+   "doi": "10.17549/gbfr.2020.25.2.37",
+   "year": 2020,
+   "title": "An investigation of financial investment intention using covariance-based structural equation modelling"
+  },
+  {
+   "rid": "R267",
+   "doi": "10.35808/ijeba/319",
+   "year": 2019,
+   "title": "Factors explaining the market discipline of sharia mutual funds from a behavioural finance perspective: A theoretical approach"
+  },
+  {
+   "rid": "R271",
+   "doi": "10.1016/j.frl.2021.102146",
+   "year": 2022,
+   "title": "The Effect of Investment Literacy on the Likelihood of Retail Investor Margin Trading and Having a Margin Call"
+  },
+  {
+   "rid": "R276",
+   "doi": "10.1080/00036846.2024.2356896",
+   "year": 2025,
+   "title": "Financial awareness, risk aversion and portfolio choice"
+  },
+  {
+   "rid": "R287",
+   "doi": "10.1111/ssqu.13493",
+   "year": 2025,
+   "title": "Early-Life Famine Experience and Households' Diversity of Financial Asset Portfolio: Evidence From China"
+  },
+  {
+   "rid": "R295",
+   "doi": "10.1016/j.iref.2020.12.029",
+   "year": 2021,
+   "title": "Unusual investor behavior under tacit and endogenous market signals"
+  },
+  {
+   "rid": "R304",
+   "doi": "10.1016/j.obhdp.2019.06.001",
+   "year": 2019,
+   "title": "Easy, breezy, risky: Lay investors fail to diversify because correlated assets feel more fluent and less risky"
+  },
+  {
+   "rid": "R305",
+   "doi": "10.1177/21582440231206900",
+   "year": 2023,
+   "title": "The Impact of Emotional Finance, and Market Knowledge and Investor Protection on Investment Performance in Stock and Real Estate Markets"
+  },
+  {
+   "rid": "R315",
+   "doi": "10.1108/RAMJ-12-2024-0328",
+   "year": 2025,
+   "title": "Impact of investors' demographic, behavior, attitudes and knowledge and skills on their risk tolerance levels in Bangladesh's emerging capital market"
+  },
+  {
+   "rid": "R320",
+   "doi": "10.1016/j.irfa.2025.104291",
+   "year": 2025,
+   "title": "Household aging, commercial insurance participation, and risky asset allocation"
+  },
+  {
+   "rid": "R323",
+   "doi": "10.1108/JIABR-04-2025-0223",
+   "year": 2026,
+   "title": "Moderator effect of income on sharia stock investment decisions on the Stockbit"
+  },
+  {
+   "rid": "R336",
+   "doi": "10.1108/IJOEM-07-2024-1110",
+   "year": 2025,
+   "title": "An insight of financial literacy and artificial intelligence to mitigate behavioral biases: a bibliometric and systematic review analysis using SPAR-4-SLR"
+  }
+ ],
+ "D3": [
+  {
+   "rid": "R003",
+   "doi": "10.1038/s41598-026-35902-x",
+   "year": 2026,
+   "title": "Behaviorally informed deep reinforcement learning for portfolio optimization with loss aversion and overconfidence"
+  },
+  {
+   "rid": "R005",
+   "doi": "10.1016/j.ribaf.2026.103562",
+   "year": 2026,
+   "title": "A cultural finance perspective on the low volatility anomaly"
+  },
+  {
+   "rid": "R007",
+   "doi": "10.3390/jrfm19070522",
+   "year": 2026,
+   "title": "Behavioral Biases and Investor Decision-Making in the Saudi Stock Market: The Moderating Roles of Overconfidence and Loss Aversion in an Islamic and Oil-Dependent Economy"
+  },
+  {
+   "rid": "R009",
+   "doi": "10.3390/jrfm19060418",
+   "year": 2026,
+   "title": "A PRISMA-Based Systematic Review of Behavioral Biases and Demographic Moderators in Investment Decision-Making"
+  },
+  {
+   "rid": "R020",
+   "doi": "10.1371/journal.pone.0345883",
+   "year": 2026,
+   "title": "Adaptability factors and behavioral biases of investors in frontier markets: An adaptive market hypothesis perspective"
+  },
+  {
+   "rid": "R028",
+   "doi": "10.4324/9781003716617-8",
+   "year": 2026,
+   "title": "Exploring the role of simulated learning on portfolio management: enhancing investment decisions by addressing behavioural biases"
+  },
+  {
+   "rid": "R029",
+   "doi": "10.1063/5.0298362",
+   "year": 2026,
+   "title": "Role of artificial intelligence (AI) in strengthening impact of behavioral factors on investment decision process of IT/ITES employee towards behavioral finance"
+  },
+  {
+   "rid": "R032",
+   "doi": "10.4324/9781003725084-10",
+   "year": 2026,
+   "title": "The role of behavioral biases in shaping investment decisions: an empirical analysis of the Indian investors"
+  },
+  {
+   "rid": "R034",
+   "doi": NaN,
+   "year": 2026,
+   "title": "Emotional Biases and Their Impact on Investment Decisions: A Behavioral Finance Perspective"
+  },
+  {
+   "rid": "R037",
+   "doi": NaN,
+   "year": 2026,
+   "title": "Behavioral Biases in Financial Markets: Understanding the Impact of Cognitive Heuristic-Driven Biases and Emotional Biases in Shaping Investment Decisions"
+  },
+  {
+   "rid": "R038",
+   "doi": "10.1108/JIMA-12-2023-0393",
+   "year": 2026,
+   "title": "The brain behind the portfolio: the neurological foundations of investment decisions"
+  },
+  {
+   "rid": "R039",
+   "doi": "10.1007/978-981-95-2872-1_27",
+   "year": 2026,
+   "title": "Robo-Advisors in Investment Decision-Making: An Empirical Investigation of Behavioral Biases"
+  },
+  {
+   "rid": "R042",
+   "doi": "10.1201/9781779641410-9",
+   "year": 2026,
+   "title": "Digital Transformation in Wealth Management: Exploring How Robo-Advisors Moderate Behavioral Biases and Shape Investment Decisions"
+  },
+  {
+   "rid": "R043",
+   "doi": "10.1504/aajfa.2024.10068605",
+   "year": 2026,
+   "title": "Deciphering risk and behavioural biases in investment decision-making"
+  },
+  {
+   "rid": "R044",
+   "doi": "10.2139/ssrn.5245968",
+   "year": 2026,
+   "title": "Behavioral Biases in Investment Decisions"
+  },
+  {
+   "rid": "R045",
+   "doi": NaN,
+   "year": 2026,
+   "title": "From Rationality to Reality: Taxonomy of Biases and Mitigation Strategies for Investors"
+  },
+  {
+   "rid": "R047",
+   "doi": NaN,
+   "year": 2026,
+   "title": "The Psychology of Investing: Case Studies in Behavioral Finance"
+  },
+  {
+   "rid": "R051",
+   "doi": "10.1108/QRFM-03-2025-0064",
+   "year": 2026,
+   "title": "Understanding the disposition effect: a phenomenological study of investor experiences in Nepal"
+  },
+  {
+   "rid": "R052",
+   "doi": "10.61093/bel.10(2).143-162.2026",
+   "year": 2026,
+   "title": "Business Leadership and Behavioral Economics: A Quantitative Assessment of Cognitive and Emotional Biases among Investors"
+  },
+  {
+   "rid": "R054",
+   "doi": "10.71086/iajse/v13i1/iajse1340",
+   "year": 2026,
+   "title": "ESG Investing and its Impact on Risk-Adjusted Portfolio Returns from a Behavioral Finance Perspective Using SEM"
+  },
+  {
+   "rid": "R055",
+   "doi": NaN,
+   "year": 2026,
+   "title": "Exploring the Landscape of Behavioral Finance: A Review"
+  },
+  {
+   "rid": "R057",
+   "doi": "10.1080/15427560.2026.2651122",
+   "year": 2026,
+   "title": "When Confidence and Knowledge Diverge: Investor Calibration and Portfolio Behavior"
+  },
+  {
+   "rid": "R058",
+   "doi": "10.1007/978-3-032-11276-7_3",
+   "year": 2026,
+   "title": "Masculinity and Financial Behavior: Understanding Biases and Empowering Resilience"
+  },
+  {
+   "rid": "R061",
+   "doi": "10.4018/979-8-2600-2233-7.ch006",
+   "year": 2026,
+   "title": "Financial Reporting, Investor Psychology and the Role of Data Governance in Equity Markets"
+  },
+  {
+   "rid": "R064",
+   "doi": "10.1108/IJBM-04-2025-0285",
+   "year": 2026,
+   "title": "Navigating crypto markets: financial literacy, behavior and information channels"
+  },
+  {
+   "rid": "R067",
+   "doi": "10.1007/s12232-025-00502-0",
+   "year": 2025,
+   "title": "The impact of behavioral biases on financial satisfaction: the mediating role of investment decisions"
+  },
+  {
+   "rid": "R071",
+   "doi": "10.1007/s43546-025-00986-6",
+   "year": 2025,
+   "title": "Artificial intelligence in behavioral finance: a global review of cognitive bias modeling in investor decision-making"
+  },
+  {
+   "rid": "R078",
+   "doi": "10.1007/s10690-024-09481-8",
+   "year": 2025,
+   "title": "Risk Perception as a Predictor of Heuristic Biases: The Role of Sex and Age"
+  },
+  {
+   "rid": "R079",
+   "doi": "10.1177/18724981251346316",
+   "year": 2025,
+   "title": "Behavioural factors in risk perception and financial decision making"
+  },
+  {
+   "rid": "R080",
+   "doi": "10.3390/jrfm18090493",
+   "year": 2025,
+   "title": "Investor Emotions and Cognitive Biases in a Bearish Market Simulation: A Qualitative Study"
+  },
+  {
+   "rid": "R082",
+   "doi": "10.14419/jn051k29",
+   "year": 2025,
+   "title": "The Psychological and Behavioural Determinants of Mutual Fund Investment Decisions in Bengaluru: A Mixed-Method Approach"
+  },
+  {
+   "rid": "R084",
+   "doi": "10.2139/ssrn.5265809",
+   "year": 2025,
+   "title": "Psychological Factors and Investment Decision Making"
+  },
+  {
+   "rid": "R085",
+   "doi": "10.4018/979-8-3373-1250-7.ch014",
+   "year": 2025,
+   "title": "Leveraging Generative AI to Address Behavioral Biases in the Investment Decisions of Gen Z and Millennials"
+  },
+  {
+   "rid": "R086",
+   "doi": "10.4018/979-8-3373-0613-1.ch006",
+   "year": 2025,
+   "title": "Optimization of sustainable portfolios considering behavioral biases: ESG risk management"
+  },
+  {
+   "rid": "R088",
+   "doi": "10.1016/j.actpsy.2025.105048",
+   "year": 2025,
+   "title": "Cognitive biases, Robo advisor and investment decision psychology: An investor's perspective from New York stock exchange"
+  },
+  {
+   "rid": "R089",
+   "doi": "10.4018/979-8-3693-8166-3.ch002",
+   "year": 2025,
+   "title": "The role of behavioral finance in shaping economic decision-making: Insights from AI and big data integration"
+  },
+  {
+   "rid": "R092",
+   "doi": "10.47857/irjms.2025.v06i02.03325",
+   "year": 2025,
+   "title": "Personality Traits as Moderator of Risk Perception and Investment Decision"
+  },
+  {
+   "rid": "R093",
+   "doi": "10.1108/IJOEM-02-2022-0263",
+   "year": 2025,
+   "title": "Gauging investors' investment decisions in the crypto market through the PRISM of behavioral biases: a fuzzy AHP approach"
+  },
+  {
+   "rid": "R094",
+   "doi": NaN,
+   "year": 2025,
+   "title": "Analyzes of common behavioral bias among Indo-Arabian investors and how to better manage them"
+  },
+  {
+   "rid": "R095",
+   "doi": "10.2478/eoik-2025-0003",
+   "year": 2025,
+   "title": "THE INVESTMENT PUZZLE: UNVEILING BEHAVIORAL FINANCE, RISK PERCEPTION, AND FINANCIAL LITERACY"
+  },
+  {
+   "rid": "R099",
+   "doi": "10.1108/VJIKMS-08-2022-0253",
+   "year": 2025,
+   "title": "Does cognitive biased knowledge influence investor decisions? An empirical investigation using machine learning and artificial neural network"
+  },
+  {
+   "rid": "R106",
+   "doi": "10.1080/23322039.2025.2571403",
+   "year": 2025,
+   "title": "The role of robo-advisors in behavioural finance, shaping investment decisions"
+  },
+  {
+   "rid": "R107",
+   "doi": "10.4337/9781035339723.00022",
+   "year": 2025,
+   "title": "Irrational investors"
+  },
+  {
+   "rid": "R108",
+   "doi": "10.1109/autocom64127.2025.10956259",
+   "year": 2025,
+   "title": "The Role of Behavioral Finance In Investment Decision-Making Using Machine Learning-Understanding the Psychology Behind Stock Market Trends"
+  },
+  {
+   "rid": "R110",
+   "doi": "10.21511/imfi.22(1).2025.33",
+   "year": 2025,
+   "title": "Heuristic bias and investment decision: Exploring the mediating role of investors' risk perceptions"
+  },
+  {
+   "rid": "R111",
+   "doi": "10.53555/jab.v11i4.365",
+   "year": 2025,
+   "title": "A Bibliometric Analysis on Behaviour Biases and Investment Decisions Among Retail Investors"
+  },
+  {
+   "rid": "R115",
+   "doi": "10.5256/f1000research.185331.r426000",
+   "year": 2025,
+   "title": "Unpacking Investor Psychology: A Systematic Review and Meta-Analysis of Behavioural Biases Shaping Investment Decisions*"
+  },
+  {
+   "rid": "R116",
+   "doi": "10.22495/rgcv15i4p9",
+   "year": 2025,
+   "title": "THE PSYCHOLOGY OF THE MARKET: ARE COGNITIVE ILLUSIONS DRIVING RISK-RELATED INVESTOR BEHAVIOUR?"
+  },
+  {
+   "rid": "R117",
+   "doi": "10.1201/9781003606185-15",
+   "year": 2025,
+   "title": "The influence of behavioral biases on the decisionmaking process about investments in the stock market"
+  },
+  {
+   "rid": "R118",
+   "doi": NaN,
+   "year": 2025,
+   "title": "Decoding Investor Sentiments in the Indian Stock Market: A Structural Equation Modelling Approach"
+  },
+  {
+   "rid": "R120",
+   "doi": "10.1007/978-981-96-6998-1_2",
+   "year": 2025,
+   "title": "Empirical Evidence of Behavioral Biases in Investment: Should We Be Looking for Financial Variables to Moderate Them?"
+  },
+  {
+   "rid": "R121",
+   "doi": "10.1108/JEAS-09-2024-0334",
+   "year": 2025,
+   "title": "Research marking and yield in behavioural finance literature review: observations from bibliometric analysis using R"
+  },
+  {
+   "rid": "R124",
+   "doi": "10.1109/icbiti65527.2025.11501156",
+   "year": 2025,
+   "title": "The Role of Digital Technology in Influencing Investor Psychology and Promoting Sustainable Investment in the Indian Financial Market"
+  },
+  {
+   "rid": "R129",
+   "doi": "10.1080/12460125.2025.2537076",
+   "year": 2025,
+   "title": "Artificial intelligence and behavioural finance biases: improving Lebanese investors decision-making"
+  },
+  {
+   "rid": "R131",
+   "doi": "10.31893/multirev.2025ss0322",
+   "year": 2025,
+   "title": "Systematic review of behavioral finance contributions to financial risk management strategies"
+  },
+  {
+   "rid": "R139",
+   "doi": "10.21003/ea.V212-09",
+   "year": 2024,
+   "title": "Economic and psychological determination in civil servants' investment decisions ahead of retirement: empirical evidence from Indonesia"
+  },
+  {
+   "rid": "R141",
+   "doi": "10.1108/JFRC-01-2024-0010",
+   "year": 2024,
+   "title": "All are interesting to invest, I fear of missing out (FOMO): a comparative study among self-employed and salaried investors"
+  },
+  {
+   "rid": "R145",
+   "doi": "10.55643/fcaptp.5.58.2024.4451",
+   "year": 2024,
+   "title": "IMPACT OF BEHAVIOURAL FINANCE ON RISK PERCEPTION, PSYCHOLOGICAL BEHAVIOUR, AND FINANCIAL DECISIONS OF MOROCCAN INVESTORS"
+  },
+  {
+   "rid": "R146",
+   "doi": "10.32479/ijefi.17098",
+   "year": 2024,
+   "title": "A Critical Review of Overconfidence in Investment Decisions: Bibliometric Analysis"
+  },
+  {
+   "rid": "R154",
+   "doi": "10.1108/QRFM-05-2022-0090",
+   "year": 2024,
+   "title": "Measuring behavioral biases in individual investors decision-making and sociodemographic correlations: a systematic review"
+  },
+  {
+   "rid": "R155",
+   "doi": "10.1007/s11135-023-01739-z",
+   "year": 2024,
+   "title": "“All are investing in Crypto, I fear of being missed out”: examining the influence of herding, loss aversion, and overconfidence in the cryptocurrency market with the mediating effect of FOMO"
+  },
+  {
+   "rid": "R157",
+   "doi": "10.1108/RBF-09-2022-0210",
+   "year": 2024,
+   "title": "Do heuristics affect Brazilian investors’ decision-making process?"
+  },
+  {
+   "rid": "R169",
+   "doi": "10.1007/s13198-024-02534-1",
+   "year": 2024,
+   "title": "Impact of gender, age, and education on investors’ behavior: An empirical study of Delhi-NCR"
+  },
+  {
+   "rid": "R170",
+   "doi": "10.1504/GBER.2024.139314",
+   "year": 2024,
+   "title": "Psychological biases and contextual factors as the determinants of financial satisfaction: an evidence-based study on individual investment decisions"
+  },
+  {
+   "rid": "R175",
+   "doi": "10.1109/sibf63788.2024.10883828",
+   "year": 2024,
+   "title": "Robo Advisors Revolution: Transforming Landscape of Mutual Fund Investments"
+  },
+  {
+   "rid": "R193",
+   "doi": "10.1080/23322039.2023.2239032",
+   "year": 2023,
+   "title": "Behavioral finance factors and investment decisions: A mediating role of risk perception"
+  },
+  {
+   "rid": "R194",
+   "doi": "10.1177/09721509231192229",
+   "year": 2023,
+   "title": "The Behavioural Pattern of Investment in the Financial Market: A Study of the Individual Investors"
+  },
+  {
+   "rid": "R197",
+   "doi": "10.21511/imfi.20(2).2023.13",
+   "year": 2023,
+   "title": "Behavioral biases affecting investment decisions of capital market investors in Bangladesh: A behavioral finance approach"
+  },
+  {
+   "rid": "R198",
+   "doi": "10.1080/03796205.2023.2218053",
+   "year": 2023,
+   "title": "Risk tolerance as mediating factor in individual financial investment decisions: a developing-country study"
+  },
+  {
+   "rid": "R201",
+   "doi": NaN,
+   "year": 2023,
+   "title": "Demography of Investors and Behavioral Biases - An Empirical Study"
+  },
+  {
+   "rid": "R203",
+   "doi": "10.1561/105.00000177",
+   "year": 2023,
+   "title": "Financial Literacy and Heuristic Driven Biases: The Role of Risk Perception"
+  },
+  {
+   "rid": "R204",
+   "doi": "10.22495/cbsrv4i2art1",
+   "year": 2023,
+   "title": "AN EMPIRICAL INVESTIGATION ON INVESTOR PSYCHOLOGICAL BIASES"
+  },
+  {
+   "rid": "R207",
+   "doi": NaN,
+   "year": 2023,
+   "title": "Investor Behavior during Periods of Crises: The Chinese Funds Market during the 2020 Pandemic"
+  },
+  {
+   "rid": "R217",
+   "doi": "10.3390/su141610072",
+   "year": 2022,
+   "title": "Do Investor Overconfidence and Loss Aversion Drive Saudi Firm Market Performance? The Moderating Effect of Corporate Governance"
+  },
+  {
+   "rid": "R218",
+   "doi": "10.1108/MRR-02-2021-0139",
+   "year": 2022,
+   "title": "Behavioural biases affecting investors’ decision-making process: a scale development approach"
+  },
+  {
+   "rid": "R221",
+   "doi": "10.1108/JEAS-07-2020-0116",
+   "year": 2022,
+   "title": "Overconfidence heuristic-driven bias in investment decision-making and performance: mediating effects of risk perception and moderating effects of financial literacy"
+  },
+  {
+   "rid": "R229",
+   "doi": "10.1002/mar.21550",
+   "year": 2021,
+   "title": "Why retail investors traded equity during the pandemic? An application of artificial neural networks to examine behavioral biases"
+  },
+  {
+   "rid": "R230",
+   "doi": "10.3390/app112210916",
+   "year": 2021,
+   "title": "Cognitive biases on the iran stock exchange: Unsupervised learning approach to examining feature bundles in investors’ portfolios"
+  },
+  {
+   "rid": "R231",
+   "doi": "10.17010/ijf/2021/v15i5-7/164491",
+   "year": 2021,
+   "title": "Experimental evidences for prospect theory in Vietnam"
+  },
+  {
+   "rid": "R239",
+   "doi": "10.13106/jafeb.2021.vol8.no3.1231",
+   "year": 2021,
+   "title": "Behavioral Biases on Investment Decision: A Case Study in Indonesia"
+  },
+  {
+   "rid": "R240",
+   "doi": "10.1007/978-3-030-58669-0_9",
+   "year": 2021,
+   "title": "The Impact of the Behavioral Factors on Investment Decision-Making: A Systemic Review on Financial Institutions"
+  },
+  {
+   "rid": "R243",
+   "doi": "10.3905/jwm.2021.1.128",
+   "year": 2021,
+   "title": "The behavior of the various personalities of secondary equity investors: Big five personality model"
+  },
+  {
+   "rid": "R245",
+   "doi": "10.1016/j.physa.2019.123909",
+   "year": 2020,
+   "title": "Loss aversion, overconfidence and their effects on a virtual stock exchange"
+  },
+  {
+   "rid": "R247",
+   "doi": "10.1108/RBF-03-2019-0044",
+   "year": 2020,
+   "title": "Evaluation of behavioral biases affecting investment decision making of individual equity investors by fuzzy analytic hierarchy process"
+  },
+  {
+   "rid": "R251",
+   "doi": NaN,
+   "year": 2020,
+   "title": "Role of emotional bias on investment decision from behavioural finance perspective"
+  },
+  {
+   "rid": "R263",
+   "doi": NaN,
+   "year": 2019,
+   "title": "Impact of behavioral finance on stock investment decisions applied study on a sample of investors at Amman Stock Exchange"
+  },
+  {
+   "rid": "R271",
+   "doi": "10.1016/j.frl.2021.102146",
+   "year": 2022,
+   "title": "The Effect of Investment Literacy on the Likelihood of Retail Investor Margin Trading and Having a Margin Call"
+  },
+  {
+   "rid": "R282",
+   "doi": "10.1108/JEAS-05-2021-0100",
+   "year": 2023,
+   "title": "Humanoid psychological sentiments and enigma of investment"
+  },
+  {
+   "rid": "R284",
+   "doi": "10.3390/risks13080142",
+   "year": 2025,
+   "title": "Overconfidence and Investment Loss Tolerance: A Large-Scale Survey Analysis of Japanese Investors"
+  },
+  {
+   "rid": "R298",
+   "doi": "10.1002/fut.22462",
+   "year": 2024,
+   "title": "Market-wide overconfidence and stock returns"
+  },
+  {
+   "rid": "R308",
+   "doi": "10.1016/j.actpsy.2024.104426",
+   "year": 2024,
+   "title": "The influence of emotional intelligence and behavioural biases on mutual fund churning frequency: Evidence from India"
+  },
+  {
+   "rid": "R311",
+   "doi": NaN,
+   "year": 2019,
+   "title": "Impact of Psychological Biases and Personality Traits on Investor Trading Behavior"
+  },
+  {
+   "rid": "R317",
+   "doi": "10.26650/ibr.2023.52.955732",
+   "year": 2023,
+   "title": "The Relationship between Behavioral Tendencies and Stock Market Participation: A Study for Accounting and Finance Academics"
+  },
+  {
+   "rid": "R318",
+   "doi": NaN,
+   "year": 2022,
+   "title": "Overconfidence and risky investment choices"
+  },
+  {
+   "rid": "R322",
+   "doi": "10.55643/fcaptp.4.57.2024.4451",
+   "year": 2024,
+   "title": "IMPACT OF BEHAVIOURAL FINANCE ON RISK AND FINANCIAL DECISIONS OF MOROCCAN INVESTORS"
+  },
+  {
+   "rid": "R324",
+   "doi": "10.1108/RAMJ-07-2025-0136",
+   "year": 2026,
+   "title": "What drives investment choices? A behavioral perspective from Gujarat state"
+  },
+  {
+   "rid": "R327",
+   "doi": "10.3389/fpsyg.2022.914649",
+   "year": 2022,
+   "title": "Mediating Role of Optimism Bias and Risk Perception Between Emotional Intelligence and Decision-Making: A Serial Mediation Model"
+  },
+  {
+   "rid": "R331",
+   "doi": "10.3934/jimo.2018105",
+   "year": 2019,
+   "title": "RISK MEASURE OPTIMIZATION: PERCEIVED RISK AND OVERCONFIDENCE OF STRUCTURED PRODUCT INVESTORS"
+  }
+ ],
+ "D4": [
+  {
+   "rid": "R030",
+   "doi": "10.1063/5.0298363",
+   "year": 2026,
+   "title": "Role of artificial intelligence in understanding psychological influences on investment decisions: A behavioral finance study among IT/ITES employees"
+  },
+  {
+   "rid": "R057",
+   "doi": "10.1080/15427560.2026.2651122",
+   "year": 2026,
+   "title": "When Confidence and Knowledge Diverge: Investor Calibration and Portfolio Behavior"
+  },
+  {
+   "rid": "R070",
+   "doi": "10.1057/s41599-025-05478-4",
+   "year": 2025,
+   "title": "Unveiling the attitudinal factors: an integration of TPB and SCT in understanding investor intention towards equity investments"
+  },
+  {
+   "rid": "R097",
+   "doi": "10.61190/fsr.v33i1.3974",
+   "year": 2025,
+   "title": "Crypto Investment: The Role of Investment Motivations, Investment Confidence, and Risk Perceptions"
+  },
+  {
+   "rid": "R200",
+   "doi": "10.17549/gbfr.2023.28.2.1",
+   "year": 2023,
+   "title": "Investigating the Antecedents of Investment Intention and the Mediating Effect of Investment Self-efficacy among Young Adults in Shandong, China"
+  },
+  {
+   "rid": "R206",
+   "doi": "10.21511/imfi.20(1).2023.03",
+   "year": 2023,
+   "title": "Predicting the financial behavior of Indian salaried-class individuals"
+  },
+  {
+   "rid": "R228",
+   "doi": "10.1108/QRFM-07-2020-0135",
+   "year": 2021,
+   "title": "Examining drivers and deterrents of individuals’ investment intentions: a qualitative multistage analysis"
+  },
+  {
+   "rid": "R285",
+   "doi": "10.1016/j.jretconser.2019.102014",
+   "year": 2020,
+   "title": "The financial advice puzzle: The role of consumer heterogeneity in the advisor choice"
+  },
+  {
+   "rid": "R334",
+   "doi": "10.1108/RBE-06-2025-0046",
+   "year": 2026,
+   "title": "Unraveling the role of personality in equity markets"
+  }
+ ],
+ "D5": [
+  {
+   "rid": "R002",
+   "doi": "10.1186/s40854-026-00930-z",
+   "year": 2026,
+   "title": "Behavioral portfolio decisions in a GARCH world"
+  },
+  {
+   "rid": "R003",
+   "doi": "10.1038/s41598-026-35902-x",
+   "year": 2026,
+   "title": "Behaviorally informed deep reinforcement learning for portfolio optimization with loss aversion and overconfidence"
+  },
+  {
+   "rid": "R005",
+   "doi": "10.1016/j.ribaf.2026.103562",
+   "year": 2026,
+   "title": "A cultural finance perspective on the low volatility anomaly"
+  },
+  {
+   "rid": "R007",
+   "doi": "10.3390/jrfm19070522",
+   "year": 2026,
+   "title": "Behavioral Biases and Investor Decision-Making in the Saudi Stock Market: The Moderating Roles of Overconfidence and Loss Aversion in an Islamic and Oil-Dependent Economy"
+  },
+  {
+   "rid": "R009",
+   "doi": "10.3390/jrfm19060418",
+   "year": 2026,
+   "title": "A PRISMA-Based Systematic Review of Behavioral Biases and Demographic Moderators in Investment Decision-Making"
+  },
+  {
+   "rid": "R017",
+   "doi": "10.3390/risks14040088",
+   "year": 2026,
+   "title": "The Flow–Performance Relationship and Behavioral Biases: Evidence from Spanish Mutual Fund Flows"
+  },
+  {
+   "rid": "R021",
+   "doi": "10.1016/j.jbef.2026.101155",
+   "year": 2026,
+   "title": "Loss aversion in investment: A bibliometric and network visualization analysis"
+  },
+  {
+   "rid": "R025",
+   "doi": "10.3390/math14040607",
+   "year": 2026,
+   "title": "Portfolio Construction Under Behavioral Distortions and Narrow Framing: A Machine Learning Approach"
+  },
+  {
+   "rid": "R026",
+   "doi": "10.1016/j.frl.2025.109349",
+   "year": 2026,
+   "title": "Do match surprises move fan token prices? Evidence from UEFA competitions"
+  },
+  {
+   "rid": "R028",
+   "doi": "10.4324/9781003716617-8",
+   "year": 2026,
+   "title": "Exploring the role of simulated learning on portfolio management: enhancing investment decisions by addressing behavioural biases"
+  },
+  {
+   "rid": "R029",
+   "doi": "10.1063/5.0298362",
+   "year": 2026,
+   "title": "Role of artificial intelligence (AI) in strengthening impact of behavioral factors on investment decision process of IT/ITES employee towards behavioral finance"
+  },
+  {
+   "rid": "R030",
+   "doi": "10.1063/5.0298363",
+   "year": 2026,
+   "title": "Role of artificial intelligence in understanding psychological influences on investment decisions: A behavioral finance study among IT/ITES employees"
+  },
+  {
+   "rid": "R032",
+   "doi": "10.4324/9781003725084-10",
+   "year": 2026,
+   "title": "The role of behavioral biases in shaping investment decisions: an empirical analysis of the Indian investors"
+  },
+  {
+   "rid": "R034",
+   "doi": NaN,
+   "year": 2026,
+   "title": "Emotional Biases and Their Impact on Investment Decisions: A Behavioral Finance Perspective"
+  },
+  {
+   "rid": "R036",
+   "doi": "10.1109/acdsa67686.2026.11468200",
+   "year": 2026,
+   "title": "Behavioral Financial Engineering: A Data-Driven Application of Cumulative Prospect Theory to Property Sector Portfolio Optimization"
+  },
+  {
+   "rid": "R037",
+   "doi": NaN,
+   "year": 2026,
+   "title": "Behavioral Biases in Financial Markets: Understanding the Impact of Cognitive Heuristic-Driven Biases and Emotional Biases in Shaping Investment Decisions"
+  },
+  {
+   "rid": "R039",
+   "doi": "10.1007/978-981-95-2872-1_27",
+   "year": 2026,
+   "title": "Robo-Advisors in Investment Decision-Making: An Empirical Investigation of Behavioral Biases"
+  },
+  {
+   "rid": "R042",
+   "doi": "10.1201/9781779641410-9",
+   "year": 2026,
+   "title": "Digital Transformation in Wealth Management: Exploring How Robo-Advisors Moderate Behavioral Biases and Shape Investment Decisions"
+  },
+  {
+   "rid": "R043",
+   "doi": "10.1504/aajfa.2024.10068605",
+   "year": 2026,
+   "title": "Deciphering risk and behavioural biases in investment decision-making"
+  },
+  {
+   "rid": "R044",
+   "doi": "10.2139/ssrn.5245968",
+   "year": 2026,
+   "title": "Behavioral Biases in Investment Decisions"
+  },
+  {
+   "rid": "R047",
+   "doi": NaN,
+   "year": 2026,
+   "title": "The Psychology of Investing: Case Studies in Behavioral Finance"
+  },
+  {
+   "rid": "R051",
+   "doi": "10.1108/QRFM-03-2025-0064",
+   "year": 2026,
+   "title": "Understanding the disposition effect: a phenomenological study of investor experiences in Nepal"
+  },
+  {
+   "rid": "R052",
+   "doi": "10.61093/bel.10(2).143-162.2026",
+   "year": 2026,
+   "title": "Business Leadership and Behavioral Economics: A Quantitative Assessment of Cognitive and Emotional Biases among Investors"
+  },
+  {
+   "rid": "R055",
+   "doi": NaN,
+   "year": 2026,
+   "title": "Exploring the Landscape of Behavioral Finance: A Review"
+  },
+  {
+   "rid": "R056",
+   "doi": "10.1007/s10479-026-07135-8",
+   "year": 2026,
+   "title": "Behavioral personae, narrow framing, and stochastic dominance in the cryptocurrency market"
+  },
+  {
+   "rid": "R058",
+   "doi": "10.1007/978-3-032-11276-7_3",
+   "year": 2026,
+   "title": "Masculinity and Financial Behavior: Understanding Biases and Empowering Resilience"
+  },
+  {
+   "rid": "R061",
+   "doi": "10.4018/979-8-2600-2233-7.ch006",
+   "year": 2026,
+   "title": "Financial Reporting, Investor Psychology and the Role of Data Governance in Equity Markets"
+  },
+  {
+   "rid": "R062",
+   "doi": "10.1007/978-3-032-13562-9_2",
+   "year": 2026,
+   "title": "Agent-Based Simulation of a Financial Market with Large Language Models"
+  },
+  {
+   "rid": "R066",
+   "doi": "10.32479/irmm.17502",
+   "year": 2025,
+   "title": "How Does Loss Aversion Mediate the Relationship Between Personality Traits and Efficiency of Skills in Investment Decision-Making?"
+  },
+  {
+   "rid": "R067",
+   "doi": "10.1007/s12232-025-00502-0",
+   "year": 2025,
+   "title": "The impact of behavioral biases on financial satisfaction: the mediating role of investment decisions"
+  },
+  {
+   "rid": "R071",
+   "doi": "10.1007/s43546-025-00986-6",
+   "year": 2025,
+   "title": "Artificial intelligence in behavioral finance: a global review of cognitive bias modeling in investor decision-making"
+  },
+  {
+   "rid": "R074",
+   "doi": "10.1016/j.intfin.2025.102224",
+   "year": 2025,
+   "title": "Anticipated psychological spreads: Cryptocurrencies’ hidden short-term monitors and implications for price forecasting"
+  },
+  {
+   "rid": "R076",
+   "doi": "10.3390/ijfs13030175",
+   "year": 2025,
+   "title": "The Role of Fear of Missing out (FOMO), Loss Aversion, and Herd Behavior in Gold Investment Decisions: A Study in the Vietnamese Market"
+  },
+  {
+   "rid": "R079",
+   "doi": "10.1177/18724981251346316",
+   "year": 2025,
+   "title": "Behavioural factors in risk perception and financial decision making"
+  },
+  {
+   "rid": "R080",
+   "doi": "10.3390/jrfm18090493",
+   "year": 2025,
+   "title": "Investor Emotions and Cognitive Biases in a Bearish Market Simulation: A Qualitative Study"
+  },
+  {
+   "rid": "R082",
+   "doi": "10.14419/jn051k29",
+   "year": 2025,
+   "title": "The Psychological and Behavioural Determinants of Mutual Fund Investment Decisions in Bengaluru: A Mixed-Method Approach"
+  },
+  {
+   "rid": "R084",
+   "doi": "10.2139/ssrn.5265809",
+   "year": 2025,
+   "title": "Psychological Factors and Investment Decision Making"
+  },
+  {
+   "rid": "R085",
+   "doi": "10.4018/979-8-3373-1250-7.ch014",
+   "year": 2025,
+   "title": "Leveraging Generative AI to Address Behavioral Biases in the Investment Decisions of Gen Z and Millennials"
+  },
+  {
+   "rid": "R086",
+   "doi": "10.4018/979-8-3373-0613-1.ch006",
+   "year": 2025,
+   "title": "Optimization of sustainable portfolios considering behavioral biases: ESG risk management"
+  },
+  {
+   "rid": "R088",
+   "doi": "10.1016/j.actpsy.2025.105048",
+   "year": 2025,
+   "title": "Cognitive biases, Robo advisor and investment decision psychology: An investor's perspective from New York stock exchange"
+  },
+  {
+   "rid": "R089",
+   "doi": "10.4018/979-8-3693-8166-3.ch002",
+   "year": 2025,
+   "title": "The role of behavioral finance in shaping economic decision-making: Insights from AI and big data integration"
+  },
+  {
+   "rid": "R090",
+   "doi": "10.1016/j.actpsy.2025.104964",
+   "year": 2025,
+   "title": "Herding behavior, disposition effect, and investment decisions: A multi-mediation analysis of risk perception and dividend policy"
+  },
+  {
+   "rid": "R091",
+   "doi": "10.1016/j.frl.2025.107154",
+   "year": 2025,
+   "title": "The market's implied loss aversion under power-log utility investor preferences"
+  },
+  {
+   "rid": "R092",
+   "doi": "10.47857/irjms.2025.v06i02.03325",
+   "year": 2025,
+   "title": "Personality Traits as Moderator of Risk Perception and Investment Decision"
+  },
+  {
+   "rid": "R093",
+   "doi": "10.1108/IJOEM-02-2022-0263",
+   "year": 2025,
+   "title": "Gauging investors' investment decisions in the crypto market through the PRISM of behavioral biases: a fuzzy AHP approach"
+  },
+  {
+   "rid": "R094",
+   "doi": NaN,
+   "year": 2025,
+   "title": "Analyzes of common behavioral bias among Indo-Arabian investors and how to better manage them"
+  },
+  {
+   "rid": "R095",
+   "doi": "10.2478/eoik-2025-0003",
+   "year": 2025,
+   "title": "THE INVESTMENT PUZZLE: UNVEILING BEHAVIORAL FINANCE, RISK PERCEPTION, AND FINANCIAL LITERACY"
+  },
+  {
+   "rid": "R096",
+   "doi": "10.1142/S1094406024500215",
+   "year": 2025,
+   "title": "Country-Level Loss Aversion and the Market Response to Earnings News"
+  },
+  {
+   "rid": "R099",
+   "doi": "10.1108/VJIKMS-08-2022-0253",
+   "year": 2025,
+   "title": "Does cognitive biased knowledge influence investor decisions? An empirical investigation using machine learning and artificial neural network"
+  },
+  {
+   "rid": "R100",
+   "doi": "10.1108/MF-10-2023-0628",
+   "year": 2025,
+   "title": "Asymmetric dependence between the prospect theory value and stock returns in India: a quantile regression approach"
+  },
+  {
+   "rid": "R101",
+   "doi": "10.1108/JRF-06-2024-0184",
+   "year": 2025,
+   "title": "Embedding behavioral biases into robo-advisory platforms-case of UAE investors"
+  },
+  {
+   "rid": "R106",
+   "doi": "10.1080/23322039.2025.2571403",
+   "year": 2025,
+   "title": "The role of robo-advisors in behavioural finance, shaping investment decisions"
+  },
+  {
+   "rid": "R107",
+   "doi": "10.4337/9781035339723.00022",
+   "year": 2025,
+   "title": "Irrational investors"
+  },
+  {
+   "rid": "R108",
+   "doi": "10.1109/autocom64127.2025.10956259",
+   "year": 2025,
+   "title": "The Role of Behavioral Finance In Investment Decision-Making Using Machine Learning-Understanding the Psychology Behind Stock Market Trends"
+  },
+  {
+   "rid": "R109",
+   "doi": "10.26794/2587-5671-2025-29-5-1456-01",
+   "year": 2025,
+   "title": "Impact of Anchoring, Herding and Loss-Aversion on Working Women’s Investment Decision-Making"
+  },
+  {
+   "rid": "R111",
+   "doi": "10.53555/jab.v11i4.365",
+   "year": 2025,
+   "title": "A Bibliometric Analysis on Behaviour Biases and Investment Decisions Among Retail Investors"
+  },
+  {
+   "rid": "R114",
+   "doi": "10.2174/9798898810818125010015",
+   "year": 2025,
+   "title": "Behavioural Finance Factors and Investment Decisions: Risk Perception of Gender as a Mediating Factor"
+  },
+  {
+   "rid": "R115",
+   "doi": "10.5256/f1000research.185331.r426000",
+   "year": 2025,
+   "title": "Unpacking Investor Psychology: A Systematic Review and Meta-Analysis of Behavioural Biases Shaping Investment Decisions*"
+  },
+  {
+   "rid": "R116",
+   "doi": "10.22495/rgcv15i4p9",
+   "year": 2025,
+   "title": "THE PSYCHOLOGY OF THE MARKET: ARE COGNITIVE ILLUSIONS DRIVING RISK-RELATED INVESTOR BEHAVIOUR?"
+  },
+  {
+   "rid": "R117",
+   "doi": "10.1201/9781003606185-15",
+   "year": 2025,
+   "title": "The influence of behavioral biases on the decisionmaking process about investments in the stock market"
+  },
+  {
+   "rid": "R120",
+   "doi": "10.1007/978-981-96-6998-1_2",
+   "year": 2025,
+   "title": "Empirical Evidence of Behavioral Biases in Investment: Should We Be Looking for Financial Variables to Moderate Them?"
+  },
+  {
+   "rid": "R121",
+   "doi": "10.1108/JEAS-09-2024-0334",
+   "year": 2025,
+   "title": "Research marking and yield in behavioural finance literature review: observations from bibliometric analysis using R"
+  },
+  {
+   "rid": "R123",
+   "doi": "10.1177/09722629251329995",
+   "year": 2025,
+   "title": "Decoding Investor’s Irrationality: A Fuzzy AHP Exploration of Behavioural Biases"
+  },
+  {
+   "rid": "R124",
+   "doi": "10.1109/icbiti65527.2025.11501156",
+   "year": 2025,
+   "title": "The Role of Digital Technology in Influencing Investor Psychology and Promoting Sustainable Investment in the Indian Financial Market"
+  },
+  {
+   "rid": "R125",
+   "doi": "10.1007/978-3-031-80656-8_36",
+   "year": 2025,
+   "title": "A Behavioral Finance Analysis of Short-Term Loss Aversion and Herd Mentality in Personal Investing"
+  },
+  {
+   "rid": "R127",
+   "doi": "10.1108/CEMJ-02-2024-0047",
+   "year": 2025,
+   "title": "Assessing risk and loss aversion: COVID-19 and investor behavior in the Polish stock market"
+  },
+  {
+   "rid": "R129",
+   "doi": "10.1080/12460125.2025.2537076",
+   "year": 2025,
+   "title": "Artificial intelligence and behavioural finance biases: improving Lebanese investors decision-making"
+  },
+  {
+   "rid": "R130",
+   "doi": "10.1080/1351847X.2024.2388776",
+   "year": 2025,
+   "title": "Portfolio choice with narrow framing and loss aversion: a simplified approach"
+  },
+  {
+   "rid": "R131",
+   "doi": "10.31893/multirev.2025ss0322",
+   "year": 2025,
+   "title": "Systematic review of behavioral finance contributions to financial risk management strategies"
+  },
+  {
+   "rid": "R133",
+   "doi": "10.1007/978-3-031-87584-7_170",
+   "year": 2025,
+   "title": "Influence of Behavioral Biases on Women Investor’s Portfolio Performance"
+  },
+  {
+   "rid": "R137",
+   "doi": "10.1108/RBF-06-2025-0239",
+   "year": 2026,
+   "title": "The Fe ar Z Function: modeling asymmetric volatility decay across market shock categories"
+  },
+  {
+   "rid": "R139",
+   "doi": "10.21003/ea.V212-09",
+   "year": 2024,
+   "title": "Economic and psychological determination in civil servants' investment decisions ahead of retirement: empirical evidence from Indonesia"
+  },
+  {
+   "rid": "R141",
+   "doi": "10.1108/JFRC-01-2024-0010",
+   "year": 2024,
+   "title": "All are interesting to invest, I fear of missing out (FOMO): a comparative study among self-employed and salaried investors"
+  },
+  {
+   "rid": "R142",
+   "doi": "10.1016/j.jbankfin.2024.107293",
+   "year": 2024,
+   "title": "Behavioral risk profiling: Measuring loss aversion of individual investors"
+  },
+  {
+   "rid": "R145",
+   "doi": "10.55643/fcaptp.5.58.2024.4451",
+   "year": 2024,
+   "title": "IMPACT OF BEHAVIOURAL FINANCE ON RISK PERCEPTION, PSYCHOLOGICAL BEHAVIOUR, AND FINANCIAL DECISIONS OF MOROCCAN INVESTORS"
+  },
+  {
+   "rid": "R147",
+   "doi": NaN,
+   "year": 2024,
+   "title": "Behavioural Biases Affecting Financial Risk Tolerance of Working Women Investors: Evidence from the Indian Stock Market"
+  },
+  {
+   "rid": "R150",
+   "doi": "10.1007/s10660-022-09612-1",
+   "year": 2024,
+   "title": "An empirical analysis of navigation behaviors across stock and cryptocurrency trading platforms: implications for targeting and segmentation strategies"
+  },
+  {
+   "rid": "R151",
+   "doi": "10.1016/j.cam.2024.115859",
+   "year": 2024,
+   "title": "An uncertainty theory based tri-objective behavioral portfolio selection model with loss aversion and reference level using a modified evolutionary root system growth algorithm"
+  },
+  {
+   "rid": "R152",
+   "doi": "10.1108/RBF-11-2023-0311",
+   "year": 2024,
+   "title": "Framing effect and disposition effect: investment decisions tools to understand bounded rationality"
+  },
+  {
+   "rid": "R154",
+   "doi": "10.1108/QRFM-05-2022-0090",
+   "year": 2024,
+   "title": "Measuring behavioral biases in individual investors decision-making and sociodemographic correlations: a systematic review"
+  },
+  {
+   "rid": "R155",
+   "doi": "10.1007/s11135-023-01739-z",
+   "year": 2024,
+   "title": "“All are investing in Crypto, I fear of being missed out”: examining the influence of herding, loss aversion, and overconfidence in the cryptocurrency market with the mediating effect of FOMO"
+  },
+  {
+   "rid": "R156",
+   "doi": "10.1111/joes.12583",
+   "year": 2024,
+   "title": "Finance and intelligence: An overview of the literature"
+  },
+  {
+   "rid": "R157",
+   "doi": "10.1108/RBF-09-2022-0210",
+   "year": 2024,
+   "title": "Do heuristics affect Brazilian investors’ decision-making process?"
+  },
+  {
+   "rid": "R159",
+   "doi": NaN,
+   "year": 2024,
+   "title": "Behavioral Finance Biases: A Comprehensive Review on Regret Approach Studies in Portfolio Optimization"
+  },
+  {
+   "rid": "R162",
+   "doi": "10.1108/QRFM-07-2022-0114",
+   "year": 2024,
+   "title": "Demystifying disposition effect: past, present and future"
+  },
+  {
+   "rid": "R168",
+   "doi": NaN,
+   "year": 2024,
+   "title": "Biases in Capital Market Instrument Investing Decisions: A Study from India"
+  },
+  {
+   "rid": "R169",
+   "doi": "10.1007/s13198-024-02534-1",
+   "year": 2024,
+   "title": "Impact of gender, age, and education on investors’ behavior: An empirical study of Delhi-NCR"
+  },
+  {
+   "rid": "R170",
+   "doi": "10.1504/GBER.2024.139314",
+   "year": 2024,
+   "title": "Psychological biases and contextual factors as the determinants of financial satisfaction: an evidence-based study on individual investment decisions"
+  },
+  {
+   "rid": "R172",
+   "doi": NaN,
+   "year": 2024,
+   "title": "PERSONALITY, FINANCIAL LITERACY, AND FINANCIAL ADVICE-SEEKING IN THE MIDST OF A PANDEMIC"
+  },
+  {
+   "rid": "R175",
+   "doi": "10.1109/sibf63788.2024.10883828",
+   "year": 2024,
+   "title": "Robo Advisors Revolution: Transforming Landscape of Mutual Fund Investments"
+  },
+  {
+   "rid": "R180",
+   "doi": "10.1109/TCSS.2022.3195816",
+   "year": 2023,
+   "title": "Loss Aversion Robust Optimization Model Under Distribution and Mean Return Ambiguity"
+  },
+  {
+   "rid": "R181",
+   "doi": "10.1137/22m1496943",
+   "year": 2023,
+   "title": "Relative Growth Rate Optimization Under Behavioral Criterion"
+  },
+  {
+   "rid": "R182",
+   "doi": "10.1016/j.jedc.2023.104751",
+   "year": 2023,
+   "title": "Optimal investment problem under behavioral setting: A Lagrange duality perspective"
+  },
+  {
+   "rid": "R187",
+   "doi": NaN,
+   "year": 2023,
+   "title": "Examining the Effect of Fear on Investment Decisions and Interpreting It with Psychological Factors: A Research on Türkiye | Korkunun Yatırım Kararları Üzerindeki Etkisinin İncelenmesi ve Psikolojik Faktörler ile Yorumlanması: Türkiye Üzerine Bir Araştırma"
+  },
+  {
+   "rid": "R188",
+   "doi": NaN,
+   "year": 2023,
+   "title": "Impact of Availability and Loss Aversion Bias on Investment Decision Making of Individual Investors in Tamil Nadu"
+  },
+  {
+   "rid": "R189",
+   "doi": "10.1016/j.bir.2022.11.012",
+   "year": 2023,
+   "title": "Exploring the Gaussian investor sentiment process"
+  },
+  {
+   "rid": "R193",
+   "doi": "10.1080/23322039.2023.2239032",
+   "year": 2023,
+   "title": "Behavioral finance factors and investment decisions: A mediating role of risk perception"
+  },
+  {
+   "rid": "R197",
+   "doi": "10.21511/imfi.20(2).2023.13",
+   "year": 2023,
+   "title": "Behavioral biases affecting investment decisions of capital market investors in Bangladesh: A behavioral finance approach"
+  },
+  {
+   "rid": "R201",
+   "doi": NaN,
+   "year": 2023,
+   "title": "Demography of Investors and Behavioral Biases - An Empirical Study"
+  },
+  {
+   "rid": "R204",
+   "doi": "10.22495/cbsrv4i2art1",
+   "year": 2023,
+   "title": "AN EMPIRICAL INVESTIGATION ON INVESTOR PSYCHOLOGICAL BIASES"
+  },
+  {
+   "rid": "R205",
+   "doi": "10.15728/bbr.2023.20.1.1.en",
+   "year": 2023,
+   "title": "Disposition Effect: Brazilian Investors' Behavior during the Covid-19 Pandemic"
+  },
+  {
+   "rid": "R207",
+   "doi": NaN,
+   "year": 2023,
+   "title": "Investor Behavior during Periods of Crises: The Chinese Funds Market during the 2020 Pandemic"
+  },
+  {
+   "rid": "R211",
+   "doi": "10.1016/j.jbef.2022.100757",
+   "year": 2022,
+   "title": "Unsupervised machine learning to reveal South African risk behaviour archetypes in the domain of discretionary investment decisions"
+  },
+  {
+   "rid": "R213",
+   "doi": NaN,
+   "year": 2022,
+   "title": "Behavioural Bias: Does it Affect an Investor's Rationality?"
+  },
+  {
+   "rid": "R215",
+   "doi": "10.3390/risks10090168",
+   "year": 2022,
+   "title": "Does the Adaptive Market Hypothesis Reconcile the Behavioral Finance and the Efficient Market Hypothesis?"
+  },
+  {
+   "rid": "R216",
+   "doi": "10.1016/j.jbef.2022.100682",
+   "year": 2022,
+   "title": "Disposition bias among Borsa Istanbul investors: What do we know about type, size and trading frequency?"
+  },
+  {
+   "rid": "R217",
+   "doi": "10.3390/su141610072",
+   "year": 2022,
+   "title": "Do Investor Overconfidence and Loss Aversion Drive Saudi Firm Market Performance? The Moderating Effect of Corporate Governance"
+  },
+  {
+   "rid": "R218",
+   "doi": "10.1108/MRR-02-2021-0139",
+   "year": 2022,
+   "title": "Behavioural biases affecting investors’ decision-making process: a scale development approach"
+  },
+  {
+   "rid": "R229",
+   "doi": "10.1002/mar.21550",
+   "year": 2021,
+   "title": "Why retail investors traded equity during the pandemic? An application of artificial neural networks to examine behavioral biases"
+  },
+  {
+   "rid": "R230",
+   "doi": "10.3390/app112210916",
+   "year": 2021,
+   "title": "Cognitive biases on the iran stock exchange: Unsupervised learning approach to examining feature bundles in investors’ portfolios"
+  },
+  {
+   "rid": "R231",
+   "doi": "10.17010/ijf/2021/v15i5-7/164491",
+   "year": 2021,
+   "title": "Experimental evidences for prospect theory in Vietnam"
+  },
+  {
+   "rid": "R232",
+   "doi": "10.1111/fire.12252",
+   "year": 2021,
+   "title": "Are mutual fund investors loss averse? Evidence from China"
+  },
+  {
+   "rid": "R239",
+   "doi": "10.13106/jafeb.2021.vol8.no3.1231",
+   "year": 2021,
+   "title": "Behavioral Biases on Investment Decision: A Case Study in Indonesia"
+  },
+  {
+   "rid": "R240",
+   "doi": "10.1007/978-3-030-58669-0_9",
+   "year": 2021,
+   "title": "The Impact of the Behavioral Factors on Investment Decision-Making: A Systemic Review on Financial Institutions"
+  },
+  {
+   "rid": "R242",
+   "doi": "10.3390/jrfm14010029",
+   "year": 2021,
+   "title": "Reference Prices and Turnover: Evidence from Small-Capitalization Stocks"
+  },
+  {
+   "rid": "R243",
+   "doi": "10.3905/jwm.2021.1.128",
+   "year": 2021,
+   "title": "The behavior of the various personalities of secondary equity investors: Big five personality model"
+  },
+  {
+   "rid": "R245",
+   "doi": "10.1016/j.physa.2019.123909",
+   "year": 2020,
+   "title": "Loss aversion, overconfidence and their effects on a virtual stock exchange"
+  },
+  {
+   "rid": "R247",
+   "doi": "10.1108/RBF-03-2019-0044",
+   "year": 2020,
+   "title": "Evaluation of behavioral biases affecting investment decision making of individual equity investors by fuzzy analytic hierarchy process"
+  },
+  {
+   "rid": "R251",
+   "doi": NaN,
+   "year": 2020,
+   "title": "Role of emotional bias on investment decision from behavioural finance perspective"
+  },
+  {
+   "rid": "R252",
+   "doi": "10.1080/14697688.2019.1655784",
+   "year": 2020,
+   "title": "Loss aversion in an agent-based asset pricing model"
+  },
+  {
+   "rid": "R253",
+   "doi": "10.1007/s10898-019-00782-1",
+   "year": 2020,
+   "title": "Preference-based evolutionary multi-objective optimization for portfolio selection: a new credibilistic model under investor preferences"
+  },
+  {
+   "rid": "R258",
+   "doi": "10.3905/jwm.2019.1.077",
+   "year": 2019,
+   "title": "How much is behavioral advice worth?"
+  },
+  {
+   "rid": "R259",
+   "doi": "10.1371/journal.pone.0214062",
+   "year": 2019,
+   "title": "Personality traits and investor profile analysis: A behavioral finance study"
+  },
+  {
+   "rid": "R262",
+   "doi": "10.3390/ijfs7030042",
+   "year": 2019,
+   "title": "What are investors afraid of? Finding the big bad wolf"
+  },
+  {
+   "rid": "R263",
+   "doi": NaN,
+   "year": 2019,
+   "title": "Impact of behavioral finance on stock investment decisions applied study on a sample of investors at Amman Stock Exchange"
+  },
+  {
+   "rid": "R265",
+   "doi": "10.1007/978-3-030-02804-6_131",
+   "year": 2019,
+   "title": "The EGARCH effect test of chinese stock market from the perspective of behavioral finance"
+  },
+  {
+   "rid": "R266",
+   "doi": "10.26794/2587-5671-2019-23-4-99-116",
+   "year": 2019,
+   "title": "Investment portfolio optimization on russian stock market in context of behavioral theory"
+  },
+  {
+   "rid": "R269",
+   "doi": "10.1111/ijcs.70110",
+   "year": 2025,
+   "title": "Consumer Investment Behaviour: A Systematic Review Using TCM and ADO Frameworks"
+  },
+  {
+   "rid": "R270",
+   "doi": "10.1016/j.japwor.2025.101311",
+   "year": 2025,
+   "title": "Regret aversion in Japanese and US stock markets: Analyzing the effects of market conditions"
+  },
+  {
+   "rid": "R275",
+   "doi": "10.1016/j.ribaf.2025.102828",
+   "year": 2025,
+   "title": "Can cryptocurrencies improve portfolio diversification? Evidence from the prospect risk perspective"
+  },
+  {
+   "rid": "R280",
+   "doi": "10.1137/22M1496943",
+   "year": 2023,
+   "title": "Relative Growth Rate Optimization Under Behavioral Criterion\\textbackslash{}ast"
+  },
+  {
+   "rid": "R282",
+   "doi": "10.1108/JEAS-05-2021-0100",
+   "year": 2023,
+   "title": "Humanoid psychological sentiments and enigma of investment"
+  },
+  {
+   "rid": "R286",
+   "doi": "10.1371/journal.pone.0299699",
+   "year": 2024,
+   "title": "Stochastic portfolio optimization: A regret-based approach on volatility risk measures: An empirical evidence from The New York stock market"
+  },
+  {
+   "rid": "R288",
+   "doi": "10.1287/mnsc.2022.03389",
+   "year": 2024,
+   "title": "Investor Regret and Stock Returns"
+  },
+  {
+   "rid": "R289",
+   "doi": "10.30784/epfad.1934878",
+   "year": 2026,
+   "title": "RISK PERCEPTION UNDER UNCERTAINTY: A BEHAVIORAL ANALYSIS OF SAFE-HAVEN ASSET RETURN RESPONSES"
+  },
+  {
+   "rid": "R290",
+   "doi": "10.1007/s00500-023-09030-x",
+   "year": 2023,
+   "title": "A multi-period fuzzy portfolio optimization model with investors' loss aversion"
+  },
+  {
+   "rid": "R291",
+   "doi": "10.1080/15427560.2024.2348558",
+   "year": 2025,
+   "title": "The Importance of Risk Preference Parameters in Prospect Theory: Evidence from Mutual Fund Flows"
+  },
+  {
+   "rid": "R296",
+   "doi": "10.3233/JIFS-201457",
+   "year": 2021,
+   "title": "Fuzzy portfolio selection with prospect consistency constraint based on possibility theory"
+  },
+  {
+   "rid": "R299",
+   "doi": "10.1016/j.pacfin.2021.101644",
+   "year": 2021,
+   "title": "Prospect theory and stock returns: Evidence from foreign share markets"
+  },
+  {
+   "rid": "R303",
+   "doi": "10.18137/cardiometry.2022.23.263271",
+   "year": 2022,
+   "title": "A study on stock market investors during COVID phase - prospect theory approach"
+  },
+  {
+   "rid": "R308",
+   "doi": "10.1016/j.actpsy.2024.104426",
+   "year": 2024,
+   "title": "The influence of emotional intelligence and behavioural biases on mutual fund churning frequency: Evidence from India"
+  },
+  {
+   "rid": "R309",
+   "doi": "10.30784/epfad.1435009",
+   "year": 2024,
+   "title": "NAVIGATING THE STOCK MARKET: MODELING WEALTH EXCHANGE AND NETWORK INTERACTION WITH LOSS AVERSION, DISPOSITION EFFECT AND ANCHORING AND ADJUSTMENT BIAS"
+  },
+  {
+   "rid": "R310",
+   "doi": "10.1080/15228916.2019.1625018",
+   "year": 2020,
+   "title": "Behavioural Portfolio Selection and Optimisation: Equities versus Cryptocurrencies"
+  },
+  {
+   "rid": "R311",
+   "doi": NaN,
+   "year": 2019,
+   "title": "Impact of Psychological Biases and Personality Traits on Investor Trading Behavior"
+  },
+  {
+   "rid": "R313",
+   "doi": "10.1016/j.gfj.2019.100508",
+   "year": 2020,
+   "title": "Is the disposition effect in bonds as strong as in stocks? Evidence from an emerging market"
+  },
+  {
+   "rid": "R319",
+   "doi": "10.1016/j.iimb.2024.06.004",
+   "year": 2024,
+   "title": "Financial risk propensity and investment decisions: An empirical analysis using behavioural biases"
+  },
+  {
+   "rid": "R322",
+   "doi": "10.55643/fcaptp.4.57.2024.4451",
+   "year": 2024,
+   "title": "IMPACT OF BEHAVIOURAL FINANCE ON RISK AND FINANCIAL DECISIONS OF MOROCCAN INVESTORS"
+  },
+  {
+   "rid": "R329",
+   "doi": "10.1016/j.irfa.2021.101712",
+   "year": 2021,
+   "title": "When do investors gamble in the stock market?"
+  },
+  {
+   "rid": "R335",
+   "doi": "10.1111/fire.70014",
+   "year": 2026,
+   "title": "Does Anticipated Regret Affect the Predictability of Stock Returns?"
+  },
+  {
+   "rid": "R337",
+   "doi": "10.17233/sosyoekonomi.2023.02.15",
+   "year": 2023,
+   "title": "Examining the Effect of Fear on Investment Decisions and Interpreting It with Psychological Factors: A Research on Turkiye2"
+  },
+  {
+   "rid": "R339",
+   "doi": "10.1108/K-05-2020-0278",
+   "year": 2021,
+   "title": "Moderation effect of pleasure seeking and loss aversion in the relationship between personality traits and risky investment intention"
+  },
+  {
+   "rid": "R341",
+   "doi": "10.1016/j.finmar.2019.100512",
+   "year": 2020,
+   "title": "Biased short: Short sellers' disposition effect and limits to arbitrage"
+  },
+  {
+   "rid": "R343",
+   "doi": NaN,
+   "year": 2019,
+   "title": "A test of market efficiency using stock market anomalies: a behavioural approach"
+  }
+ ],
+ "D6": [
+  {
+   "rid": "R007",
+   "doi": "10.3390/jrfm19070522",
+   "year": 2026,
+   "title": "Behavioral Biases and Investor Decision-Making in the Saudi Stock Market: The Moderating Roles of Overconfidence and Loss Aversion in an Islamic and Oil-Dependent Economy"
+  },
+  {
+   "rid": "R017",
+   "doi": "10.3390/risks14040088",
+   "year": 2026,
+   "title": "The Flow–Performance Relationship and Behavioral Biases: Evidence from Spanish Mutual Fund Flows"
+  },
+  {
+   "rid": "R023",
+   "doi": "10.55493/5003.v16i2.6035",
+   "year": 2026,
+   "title": "How information overload and heuristics shape digital investment decisions"
+  },
+  {
+   "rid": "R024",
+   "doi": "10.3390/risks14020040",
+   "year": 2026,
+   "title": "How Framing Susceptibility Is Associated with Investment Grip: Evidence from Japanese Retail Investors"
+  },
+  {
+   "rid": "R025",
+   "doi": "10.3390/math14040607",
+   "year": 2026,
+   "title": "Portfolio Construction Under Behavioral Distortions and Narrow Framing: A Machine Learning Approach"
+  },
+  {
+   "rid": "R029",
+   "doi": "10.1063/5.0298362",
+   "year": 2026,
+   "title": "Role of artificial intelligence (AI) in strengthening impact of behavioral factors on investment decision process of IT/ITES employee towards behavioral finance"
+  },
+  {
+   "rid": "R032",
+   "doi": "10.4324/9781003725084-10",
+   "year": 2026,
+   "title": "The role of behavioral biases in shaping investment decisions: an empirical analysis of the Indian investors"
+  },
+  {
+   "rid": "R037",
+   "doi": NaN,
+   "year": 2026,
+   "title": "Behavioral Biases in Financial Markets: Understanding the Impact of Cognitive Heuristic-Driven Biases and Emotional Biases in Shaping Investment Decisions"
+  },
+  {
+   "rid": "R040",
+   "doi": "10.21511/imfi.23(2).2026.24",
+   "year": 2026,
+   "title": "Antecedents of investment decisions among retail investors: Mediating risk perception and moderating investment horizon"
+  },
+  {
+   "rid": "R042",
+   "doi": "10.1201/9781779641410-9",
+   "year": 2026,
+   "title": "Digital Transformation in Wealth Management: Exploring How Robo-Advisors Moderate Behavioral Biases and Shape Investment Decisions"
+  },
+  {
+   "rid": "R043",
+   "doi": "10.1504/aajfa.2024.10068605",
+   "year": 2026,
+   "title": "Deciphering risk and behavioural biases in investment decision-making"
+  },
+  {
+   "rid": "R044",
+   "doi": "10.2139/ssrn.5245968",
+   "year": 2026,
+   "title": "Behavioral Biases in Investment Decisions"
+  },
+  {
+   "rid": "R045",
+   "doi": NaN,
+   "year": 2026,
+   "title": "From Rationality to Reality: Taxonomy of Biases and Mitigation Strategies for Investors"
+  },
+  {
+   "rid": "R047",
+   "doi": NaN,
+   "year": 2026,
+   "title": "The Psychology of Investing: Case Studies in Behavioral Finance"
+  },
+  {
+   "rid": "R049",
+   "doi": "10.1016/j.frl.2025.109026",
+   "year": 2026,
+   "title": "Non-home biased individuals' investment choices: the role of the birthplace of investors"
+  },
+  {
+   "rid": "R051",
+   "doi": "10.1108/QRFM-03-2025-0064",
+   "year": 2026,
+   "title": "Understanding the disposition effect: a phenomenological study of investor experiences in Nepal"
+  },
+  {
+   "rid": "R052",
+   "doi": "10.61093/bel.10(2).143-162.2026",
+   "year": 2026,
+   "title": "Business Leadership and Behavioral Economics: A Quantitative Assessment of Cognitive and Emotional Biases among Investors"
+  },
+  {
+   "rid": "R055",
+   "doi": NaN,
+   "year": 2026,
+   "title": "Exploring the Landscape of Behavioral Finance: A Review"
+  },
+  {
+   "rid": "R056",
+   "doi": "10.1007/s10479-026-07135-8",
+   "year": 2026,
+   "title": "Behavioral personae, narrow framing, and stochastic dominance in the cryptocurrency market"
+  },
+  {
+   "rid": "R058",
+   "doi": "10.1007/978-3-032-11276-7_3",
+   "year": 2026,
+   "title": "Masculinity and Financial Behavior: Understanding Biases and Empowering Resilience"
+  },
+  {
+   "rid": "R061",
+   "doi": "10.4018/979-8-2600-2233-7.ch006",
+   "year": 2026,
+   "title": "Financial Reporting, Investor Psychology and the Role of Data Governance in Equity Markets"
+  },
+  {
+   "rid": "R067",
+   "doi": "10.1007/s12232-025-00502-0",
+   "year": 2025,
+   "title": "The impact of behavioral biases on financial satisfaction: the mediating role of investment decisions"
+  },
+  {
+   "rid": "R071",
+   "doi": "10.1007/s43546-025-00986-6",
+   "year": 2025,
+   "title": "Artificial intelligence in behavioral finance: a global review of cognitive bias modeling in investor decision-making"
+  },
+  {
+   "rid": "R078",
+   "doi": "10.1007/s10690-024-09481-8",
+   "year": 2025,
+   "title": "Risk Perception as a Predictor of Heuristic Biases: The Role of Sex and Age"
+  },
+  {
+   "rid": "R079",
+   "doi": "10.1177/18724981251346316",
+   "year": 2025,
+   "title": "Behavioural factors in risk perception and financial decision making"
+  },
+  {
+   "rid": "R080",
+   "doi": "10.3390/jrfm18090493",
+   "year": 2025,
+   "title": "Investor Emotions and Cognitive Biases in a Bearish Market Simulation: A Qualitative Study"
+  },
+  {
+   "rid": "R082",
+   "doi": "10.14419/jn051k29",
+   "year": 2025,
+   "title": "The Psychological and Behavioural Determinants of Mutual Fund Investment Decisions in Bengaluru: A Mixed-Method Approach"
+  },
+  {
+   "rid": "R084",
+   "doi": "10.2139/ssrn.5265809",
+   "year": 2025,
+   "title": "Psychological Factors and Investment Decision Making"
+  },
+  {
+   "rid": "R087",
+   "doi": "10.31893/multirev.2025233",
+   "year": 2025,
+   "title": "Bibliometric review of behavioral finance and risk: A scientometric analysis using biblioshiny"
+  },
+  {
+   "rid": "R088",
+   "doi": "10.1016/j.actpsy.2025.105048",
+   "year": 2025,
+   "title": "Cognitive biases, Robo advisor and investment decision psychology: An investor's perspective from New York stock exchange"
+  },
+  {
+   "rid": "R092",
+   "doi": "10.47857/irjms.2025.v06i02.03325",
+   "year": 2025,
+   "title": "Personality Traits as Moderator of Risk Perception and Investment Decision"
+  },
+  {
+   "rid": "R093",
+   "doi": "10.1108/IJOEM-02-2022-0263",
+   "year": 2025,
+   "title": "Gauging investors' investment decisions in the crypto market through the PRISM of behavioral biases: a fuzzy AHP approach"
+  },
+  {
+   "rid": "R095",
+   "doi": "10.2478/eoik-2025-0003",
+   "year": 2025,
+   "title": "THE INVESTMENT PUZZLE: UNVEILING BEHAVIORAL FINANCE, RISK PERCEPTION, AND FINANCIAL LITERACY"
+  },
+  {
+   "rid": "R099",
+   "doi": "10.1108/VJIKMS-08-2022-0253",
+   "year": 2025,
+   "title": "Does cognitive biased knowledge influence investor decisions? An empirical investigation using machine learning and artificial neural network"
+  },
+  {
+   "rid": "R101",
+   "doi": "10.1108/JRF-06-2024-0184",
+   "year": 2025,
+   "title": "Embedding behavioral biases into robo-advisory platforms-case of UAE investors"
+  },
+  {
+   "rid": "R107",
+   "doi": "10.4337/9781035339723.00022",
+   "year": 2025,
+   "title": "Irrational investors"
+  },
+  {
+   "rid": "R109",
+   "doi": "10.26794/2587-5671-2025-29-5-1456-01",
+   "year": 2025,
+   "title": "Impact of Anchoring, Herding and Loss-Aversion on Working Women’s Investment Decision-Making"
+  },
+  {
+   "rid": "R110",
+   "doi": "10.21511/imfi.22(1).2025.33",
+   "year": 2025,
+   "title": "Heuristic bias and investment decision: Exploring the mediating role of investors' risk perceptions"
+  },
+  {
+   "rid": "R111",
+   "doi": "10.53555/jab.v11i4.365",
+   "year": 2025,
+   "title": "A Bibliometric Analysis on Behaviour Biases and Investment Decisions Among Retail Investors"
+  },
+  {
+   "rid": "R115",
+   "doi": "10.5256/f1000research.185331.r426000",
+   "year": 2025,
+   "title": "Unpacking Investor Psychology: A Systematic Review and Meta-Analysis of Behavioural Biases Shaping Investment Decisions*"
+  },
+  {
+   "rid": "R116",
+   "doi": "10.22495/rgcv15i4p9",
+   "year": 2025,
+   "title": "THE PSYCHOLOGY OF THE MARKET: ARE COGNITIVE ILLUSIONS DRIVING RISK-RELATED INVESTOR BEHAVIOUR?"
+  },
+  {
+   "rid": "R117",
+   "doi": "10.1201/9781003606185-15",
+   "year": 2025,
+   "title": "The influence of behavioral biases on the decisionmaking process about investments in the stock market"
+  },
+  {
+   "rid": "R118",
+   "doi": NaN,
+   "year": 2025,
+   "title": "Decoding Investor Sentiments in the Indian Stock Market: A Structural Equation Modelling Approach"
+  },
+  {
+   "rid": "R120",
+   "doi": "10.1007/978-981-96-6998-1_2",
+   "year": 2025,
+   "title": "Empirical Evidence of Behavioral Biases in Investment: Should We Be Looking for Financial Variables to Moderate Them?"
+  },
+  {
+   "rid": "R121",
+   "doi": "10.1108/JEAS-09-2024-0334",
+   "year": 2025,
+   "title": "Research marking and yield in behavioural finance literature review: observations from bibliometric analysis using R"
+  },
+  {
+   "rid": "R122",
+   "doi": "10.1007/s10479-025-06630-8",
+   "year": 2025,
+   "title": "Measuring contextuality in investment preferences"
+  },
+  {
+   "rid": "R123",
+   "doi": "10.1177/09722629251329995",
+   "year": 2025,
+   "title": "Decoding Investor’s Irrationality: A Fuzzy AHP Exploration of Behavioural Biases"
+  },
+  {
+   "rid": "R128",
+   "doi": NaN,
+   "year": 2025,
+   "title": "Behavioural finance"
+  },
+  {
+   "rid": "R129",
+   "doi": "10.1080/12460125.2025.2537076",
+   "year": 2025,
+   "title": "Artificial intelligence and behavioural finance biases: improving Lebanese investors decision-making"
+  },
+  {
+   "rid": "R130",
+   "doi": "10.1080/1351847X.2024.2388776",
+   "year": 2025,
+   "title": "Portfolio choice with narrow framing and loss aversion: a simplified approach"
+  },
+  {
+   "rid": "R133",
+   "doi": "10.1007/978-3-031-87584-7_170",
+   "year": 2025,
+   "title": "Influence of Behavioral Biases on Women Investor’s Portfolio Performance"
+  },
+  {
+   "rid": "R144",
+   "doi": "10.1007/s10479-022-05142-z",
+   "year": 2024,
+   "title": "The analysis of the impact of the framing effect on the choice of financial products: an analytical hierarchical process approach"
+  },
+  {
+   "rid": "R147",
+   "doi": NaN,
+   "year": 2024,
+   "title": "Behavioural Biases Affecting Financial Risk Tolerance of Working Women Investors: Evidence from the Indian Stock Market"
+  },
+  {
+   "rid": "R152",
+   "doi": "10.1108/RBF-11-2023-0311",
+   "year": 2024,
+   "title": "Framing effect and disposition effect: investment decisions tools to understand bounded rationality"
+  },
+  {
+   "rid": "R154",
+   "doi": "10.1108/QRFM-05-2022-0090",
+   "year": 2024,
+   "title": "Measuring behavioral biases in individual investors decision-making and sociodemographic correlations: a systematic review"
+  },
+  {
+   "rid": "R157",
+   "doi": "10.1108/RBF-09-2022-0210",
+   "year": 2024,
+   "title": "Do heuristics affect Brazilian investors’ decision-making process?"
+  },
+  {
+   "rid": "R168",
+   "doi": NaN,
+   "year": 2024,
+   "title": "Biases in Capital Market Instrument Investing Decisions: A Study from India"
+  },
+  {
+   "rid": "R169",
+   "doi": "10.1007/s13198-024-02534-1",
+   "year": 2024,
+   "title": "Impact of gender, age, and education on investors’ behavior: An empirical study of Delhi-NCR"
+  },
+  {
+   "rid": "R170",
+   "doi": "10.1504/GBER.2024.139314",
+   "year": 2024,
+   "title": "Psychological biases and contextual factors as the determinants of financial satisfaction: an evidence-based study on individual investment decisions"
+  },
+  {
+   "rid": "R186",
+   "doi": "10.1063/5.0154194",
+   "year": 2023,
+   "title": "Behavioral biases of investors in the cryptocurrency market"
+  },
+  {
+   "rid": "R187",
+   "doi": NaN,
+   "year": 2023,
+   "title": "Examining the Effect of Fear on Investment Decisions and Interpreting It with Psychological Factors: A Research on Türkiye | Korkunun Yatırım Kararları Üzerindeki Etkisinin İncelenmesi ve Psikolojik Faktörler ile Yorumlanması: Türkiye Üzerine Bir Araştırma"
+  },
+  {
+   "rid": "R188",
+   "doi": NaN,
+   "year": 2023,
+   "title": "Impact of Availability and Loss Aversion Bias on Investment Decision Making of Individual Investors in Tamil Nadu"
+  },
+  {
+   "rid": "R189",
+   "doi": "10.1016/j.bir.2022.11.012",
+   "year": 2023,
+   "title": "Exploring the Gaussian investor sentiment process"
+  },
+  {
+   "rid": "R194",
+   "doi": "10.1177/09721509231192229",
+   "year": 2023,
+   "title": "The Behavioural Pattern of Investment in the Financial Market: A Study of the Individual Investors"
+  },
+  {
+   "rid": "R195",
+   "doi": "10.1007/978-3-031-43300-9_31",
+   "year": 2023,
+   "title": "Does Cognitive Bias and Risk Perception Impact Investment Decision? Women Investors’ Perspective"
+  },
+  {
+   "rid": "R197",
+   "doi": "10.21511/imfi.20(2).2023.13",
+   "year": 2023,
+   "title": "Behavioral biases affecting investment decisions of capital market investors in Bangladesh: A behavioral finance approach"
+  },
+  {
+   "rid": "R201",
+   "doi": NaN,
+   "year": 2023,
+   "title": "Demography of Investors and Behavioral Biases - An Empirical Study"
+  },
+  {
+   "rid": "R203",
+   "doi": "10.1561/105.00000177",
+   "year": 2023,
+   "title": "Financial Literacy and Heuristic Driven Biases: The Role of Risk Perception"
+  },
+  {
+   "rid": "R204",
+   "doi": "10.22495/cbsrv4i2art1",
+   "year": 2023,
+   "title": "AN EMPIRICAL INVESTIGATION ON INVESTOR PSYCHOLOGICAL BIASES"
+  },
+  {
+   "rid": "R206",
+   "doi": "10.21511/imfi.20(1).2023.03",
+   "year": 2023,
+   "title": "Predicting the financial behavior of Indian salaried-class individuals"
+  },
+  {
+   "rid": "R207",
+   "doi": NaN,
+   "year": 2023,
+   "title": "Investor Behavior during Periods of Crises: The Chinese Funds Market during the 2020 Pandemic"
+  },
+  {
+   "rid": "R213",
+   "doi": NaN,
+   "year": 2022,
+   "title": "Behavioural Bias: Does it Affect an Investor's Rationality?"
+  },
+  {
+   "rid": "R218",
+   "doi": "10.1108/MRR-02-2021-0139",
+   "year": 2022,
+   "title": "Behavioural biases affecting investors’ decision-making process: a scale development approach"
+  },
+  {
+   "rid": "R223",
+   "doi": "10.1016/j.jbankfin.2021.106351",
+   "year": 2022,
+   "title": "History matters: How short-term price charts hurt investment performance"
+  },
+  {
+   "rid": "R225",
+   "doi": "10.1080/03772063.2021.2016507",
+   "year": 2022,
+   "title": "Stock Market Investment Behavior Based on Behavioral Finance Based on Data Fusion Algorithm"
+  },
+  {
+   "rid": "R229",
+   "doi": "10.1002/mar.21550",
+   "year": 2021,
+   "title": "Why retail investors traded equity during the pandemic? An application of artificial neural networks to examine behavioral biases"
+  },
+  {
+   "rid": "R230",
+   "doi": "10.3390/app112210916",
+   "year": 2021,
+   "title": "Cognitive biases on the iran stock exchange: Unsupervised learning approach to examining feature bundles in investors’ portfolios"
+  },
+  {
+   "rid": "R231",
+   "doi": "10.17010/ijf/2021/v15i5-7/164491",
+   "year": 2021,
+   "title": "Experimental evidences for prospect theory in Vietnam"
+  },
+  {
+   "rid": "R233",
+   "doi": "10.1590/1808-057x202111290",
+   "year": 2021,
+   "title": "Framing effects of information on investment risk perception"
+  },
+  {
+   "rid": "R239",
+   "doi": "10.13106/jafeb.2021.vol8.no3.1231",
+   "year": 2021,
+   "title": "Behavioral Biases on Investment Decision: A Case Study in Indonesia"
+  },
+  {
+   "rid": "R240",
+   "doi": "10.1007/978-3-030-58669-0_9",
+   "year": 2021,
+   "title": "The Impact of the Behavioral Factors on Investment Decision-Making: A Systemic Review on Financial Institutions"
+  },
+  {
+   "rid": "R242",
+   "doi": "10.3390/jrfm14010029",
+   "year": 2021,
+   "title": "Reference Prices and Turnover: Evidence from Small-Capitalization Stocks"
+  },
+  {
+   "rid": "R243",
+   "doi": "10.3905/jwm.2021.1.128",
+   "year": 2021,
+   "title": "The behavior of the various personalities of secondary equity investors: Big five personality model"
+  },
+  {
+   "rid": "R247",
+   "doi": "10.1108/RBF-03-2019-0044",
+   "year": 2020,
+   "title": "Evaluation of behavioral biases affecting investment decision making of individual equity investors by fuzzy analytic hierarchy process"
+  },
+  {
+   "rid": "R249",
+   "doi": NaN,
+   "year": 2020,
+   "title": "Impact of behavioral biases on investment decisions: A study on selected risk averse investors in india"
+  },
+  {
+   "rid": "R251",
+   "doi": NaN,
+   "year": 2020,
+   "title": "Role of emotional bias on investment decision from behavioural finance perspective"
+  },
+  {
+   "rid": "R258",
+   "doi": "10.3905/jwm.2019.1.077",
+   "year": 2019,
+   "title": "How much is behavioral advice worth?"
+  },
+  {
+   "rid": "R269",
+   "doi": "10.1111/ijcs.70110",
+   "year": 2025,
+   "title": "Consumer Investment Behaviour: A Systematic Review Using TCM and ADO Frameworks"
+  },
+  {
+   "rid": "R278",
+   "doi": "10.1007/s11846-022-00544-6",
+   "year": 2023,
+   "title": "Paralyzed by shock: the portfolio formation behavior of peer-to-business lending investors"
+  },
+  {
+   "rid": "R281",
+   "doi": "10.1108/RBF-05-2020-0087",
+   "year": 2022,
+   "title": "Development and validation of behavioral biases scale: a SEM approach"
+  },
+  {
+   "rid": "R282",
+   "doi": "10.1108/JEAS-05-2021-0100",
+   "year": 2023,
+   "title": "Humanoid psychological sentiments and enigma of investment"
+  },
+  {
+   "rid": "R304",
+   "doi": "10.1016/j.obhdp.2019.06.001",
+   "year": 2019,
+   "title": "Easy, breezy, risky: Lay investors fail to diversify because correlated assets feel more fluent and less risky"
+  },
+  {
+   "rid": "R306",
+   "doi": "10.1108/K-04-2023-0662",
+   "year": 2025,
+   "title": "How do the determinants of investment decisions get prioritized? Peeking into the minds of investors"
+  },
+  {
+   "rid": "R307",
+   "doi": "10.3846/jbem.2024.22314",
+   "year": 2024,
+   "title": "A COMPREHENSIVE REVIEW OF BEHAVIORAL BIASES IN FINANCIAL DECISION-MAKING: FROM CLASSICAL FINANCE TO BEHAVIORAL FINANCE PERSPECTIVES"
+  },
+  {
+   "rid": "R309",
+   "doi": "10.30784/epfad.1435009",
+   "year": 2024,
+   "title": "NAVIGATING THE STOCK MARKET: MODELING WEALTH EXCHANGE AND NETWORK INTERACTION WITH LOSS AVERSION, DISPOSITION EFFECT AND ANCHORING AND ADJUSTMENT BIAS"
+  },
+  {
+   "rid": "R312",
+   "doi": "10.1016/j.ememar.2022.100988",
+   "year": 2023,
+   "title": "Salience theory and mutual fund flows: Empirical evidence from China"
+  },
+  {
+   "rid": "R317",
+   "doi": "10.26650/ibr.2023.52.955732",
+   "year": 2023,
+   "title": "The Relationship between Behavioral Tendencies and Stock Market Participation: A Study for Accounting and Finance Academics"
+  },
+  {
+   "rid": "R319",
+   "doi": "10.1016/j.iimb.2024.06.004",
+   "year": 2024,
+   "title": "Financial risk propensity and investment decisions: An empirical analysis using behavioural biases"
+  },
+  {
+   "rid": "R326",
+   "doi": "10.1016/j.obhdp.2022.104150",
+   "year": 2022,
+   "title": "Tangibility bias in investment risk judgments"
+  },
+  {
+   "rid": "R337",
+   "doi": "10.17233/sosyoekonomi.2023.02.15",
+   "year": 2023,
+   "title": "Examining the Effect of Fear on Investment Decisions and Interpreting It with Psychological Factors: A Research on Turkiye2"
+  },
+  {
+   "rid": "R342",
+   "doi": NaN,
+   "year": 2020,
+   "title": "Pricing Efficiency and Bounded Rationality: Evidence Based on the Responses Surrounding GICS Real Estate Category Creation"
+  },
+  {
+   "rid": "R343",
+   "doi": NaN,
+   "year": 2019,
+   "title": "A test of market efficiency using stock market anomalies: a behavioural approach"
+  }
+ ],
+ "D7": [
+  {
+   "rid": "R008",
+   "doi": "10.1063/5.0318722",
+   "year": 2026,
+   "title": "Optimizing commodity investor decision-making: A metaheuristic approach to addressing behavioral biases in finance"
+  },
+  {
+   "rid": "R015",
+   "doi": "10.1145/3772363.3798970",
+   "year": 2026,
+   "title": "Towards Understanding Financial Decision-Making in Equity Markets Among German and Indian Participants: Survey-based Findings"
+  },
+  {
+   "rid": "R016",
+   "doi": "10.48161/qaj.v6n2a2403",
+   "year": 2026,
+   "title": "Intergenerational Shifts in Equity Investment Behavior: From Traditional Media to Social Media Among Family Business Investors"
+  },
+  {
+   "rid": "R026",
+   "doi": "10.1016/j.frl.2025.109349",
+   "year": 2026,
+   "title": "Do match surprises move fan token prices? Evidence from UEFA competitions"
+  },
+  {
+   "rid": "R033",
+   "doi": "10.1002/9781394315048.ch7",
+   "year": 2026,
+   "title": "Investors’ Emotional Intelligence, Personality Traits, and Risk Tolerance: A Measure of Investment Decisions"
+  },
+  {
+   "rid": "R034",
+   "doi": NaN,
+   "year": 2026,
+   "title": "Emotional Biases and Their Impact on Investment Decisions: A Behavioral Finance Perspective"
+  },
+  {
+   "rid": "R038",
+   "doi": "10.1108/JIMA-12-2023-0393",
+   "year": 2026,
+   "title": "The brain behind the portfolio: the neurological foundations of investment decisions"
+  },
+  {
+   "rid": "R045",
+   "doi": NaN,
+   "year": 2026,
+   "title": "From Rationality to Reality: Taxonomy of Biases and Mitigation Strategies for Investors"
+  },
+  {
+   "rid": "R051",
+   "doi": "10.1108/QRFM-03-2025-0064",
+   "year": 2026,
+   "title": "Understanding the disposition effect: a phenomenological study of investor experiences in Nepal"
+  },
+  {
+   "rid": "R058",
+   "doi": "10.1007/978-3-032-11276-7_3",
+   "year": 2026,
+   "title": "Masculinity and Financial Behavior: Understanding Biases and Empowering Resilience"
+  },
+  {
+   "rid": "R076",
+   "doi": "10.3390/ijfs13030175",
+   "year": 2025,
+   "title": "The Role of Fear of Missing out (FOMO), Loss Aversion, and Herd Behavior in Gold Investment Decisions: A Study in the Vietnamese Market"
+  },
+  {
+   "rid": "R080",
+   "doi": "10.3390/jrfm18090493",
+   "year": 2025,
+   "title": "Investor Emotions and Cognitive Biases in a Bearish Market Simulation: A Qualitative Study"
+  },
+  {
+   "rid": "R084",
+   "doi": "10.2139/ssrn.5265809",
+   "year": 2025,
+   "title": "Psychological Factors and Investment Decision Making"
+  },
+  {
+   "rid": "R085",
+   "doi": "10.4018/979-8-3373-1250-7.ch014",
+   "year": 2025,
+   "title": "Leveraging Generative AI to Address Behavioral Biases in the Investment Decisions of Gen Z and Millennials"
+  },
+  {
+   "rid": "R102",
+   "doi": "10.1108/IJSE-08-2023-0626",
+   "year": 2025,
+   "title": "Unveiling investment behavior: through emotional intelligence, social stigma, financial literacy and risk tolerance"
+  },
+  {
+   "rid": "R108",
+   "doi": "10.1109/autocom64127.2025.10956259",
+   "year": 2025,
+   "title": "The Role of Behavioral Finance In Investment Decision-Making Using Machine Learning-Understanding the Psychology Behind Stock Market Trends"
+  },
+  {
+   "rid": "R113",
+   "doi": "10.1504/aajfa.2025.143504",
+   "year": 2025,
+   "title": "The impact of behavioural biases on the behaviours of informed and uninformed individual stock investors: case of the Egyptian Stock Exchange"
+  },
+  {
+   "rid": "R115",
+   "doi": "10.5256/f1000research.185331.r426000",
+   "year": 2025,
+   "title": "Unpacking Investor Psychology: A Systematic Review and Meta-Analysis of Behavioural Biases Shaping Investment Decisions*"
+  },
+  {
+   "rid": "R117",
+   "doi": "10.1201/9781003606185-15",
+   "year": 2025,
+   "title": "The influence of behavioral biases on the decisionmaking process about investments in the stock market"
+  },
+  {
+   "rid": "R118",
+   "doi": NaN,
+   "year": 2025,
+   "title": "Decoding Investor Sentiments in the Indian Stock Market: A Structural Equation Modelling Approach"
+  },
+  {
+   "rid": "R128",
+   "doi": NaN,
+   "year": 2025,
+   "title": "Behavioural finance"
+  },
+  {
+   "rid": "R137",
+   "doi": "10.1108/RBF-06-2025-0239",
+   "year": 2026,
+   "title": "The Fe ar Z Function: modeling asymmetric volatility decay across market shock categories"
+  },
+  {
+   "rid": "R138",
+   "doi": "10.1108/JABES-10-2024-0473",
+   "year": 2025,
+   "title": "The effect of investors’ emotional and depressive states on perceived returns and risk"
+  },
+  {
+   "rid": "R141",
+   "doi": "10.1108/JFRC-01-2024-0010",
+   "year": 2024,
+   "title": "All are interesting to invest, I fear of missing out (FOMO): a comparative study among self-employed and salaried investors"
+  },
+  {
+   "rid": "R153",
+   "doi": "10.1057/s41260-024-00355-2",
+   "year": 2024,
+   "title": "A century of asset allocation crash risk"
+  },
+  {
+   "rid": "R155",
+   "doi": "10.1007/s11135-023-01739-z",
+   "year": 2024,
+   "title": "“All are investing in Crypto, I fear of being missed out”: examining the influence of herding, loss aversion, and overconfidence in the cryptocurrency market with the mediating effect of FOMO"
+  },
+  {
+   "rid": "R170",
+   "doi": "10.1504/GBER.2024.139314",
+   "year": 2024,
+   "title": "Psychological biases and contextual factors as the determinants of financial satisfaction: an evidence-based study on individual investment decisions"
+  },
+  {
+   "rid": "R173",
+   "doi": "10.1007/978-3-031-53998-5_27",
+   "year": 2024,
+   "title": "Behavioral Finance in Psycho-Social Approaches: A Literature Review"
+  },
+  {
+   "rid": "R174",
+   "doi": NaN,
+   "year": 2024,
+   "title": "The Influence of Emotions and Social Value Orientation on Risk Tolerance and Sustainable Investment Choices"
+  },
+  {
+   "rid": "R179",
+   "doi": "10.24294/jipd.v8i9.6419",
+   "year": 2024,
+   "title": "Analysis of factors affecting investors’ decision towards cryptocurrency investments in Saudia Arabia: A moderating role of fear of missing out (FOMO) on decision-making"
+  },
+  {
+   "rid": "R187",
+   "doi": NaN,
+   "year": 2023,
+   "title": "Examining the Effect of Fear on Investment Decisions and Interpreting It with Psychological Factors: A Research on Türkiye | Korkunun Yatırım Kararları Üzerindeki Etkisinin İncelenmesi ve Psikolojik Faktörler ile Yorumlanması: Türkiye Üzerine Bir Araştırma"
+  },
+  {
+   "rid": "R189",
+   "doi": "10.1016/j.bir.2022.11.012",
+   "year": 2023,
+   "title": "Exploring the Gaussian investor sentiment process"
+  },
+  {
+   "rid": "R208",
+   "doi": "10.1080/1351847X.2022.2086478",
+   "year": 2023,
+   "title": "Is the investor's reliance on cognition and emotional regulation predict preference for selecting value versus growth stocks?"
+  },
+  {
+   "rid": "R227",
+   "doi": "10.1108/QRFM-10-2020-0199",
+   "year": 2021,
+   "title": "Artificial intelligence in financial services: a qualitative research to discover robo-advisory services"
+  },
+  {
+   "rid": "R237",
+   "doi": "10.1891/JFCP-19-00033",
+   "year": 2021,
+   "title": "Risk Tolerance Profiling Measure: Testing Its Reliability and Validities"
+  },
+  {
+   "rid": "R251",
+   "doi": NaN,
+   "year": 2020,
+   "title": "Role of emotional bias on investment decision from behavioural finance perspective"
+  },
+  {
+   "rid": "R268",
+   "doi": "10.1108/MRR-06-2019-0254",
+   "year": 2020,
+   "title": "Influence of investor sentiment and its antecedent on investment decision-making using partial least square technique"
+  },
+  {
+   "rid": "R273",
+   "doi": "10.1002/ijfe.2591",
+   "year": 2023,
+   "title": "The importance of staying positive: The impact of emotions on attitude to risk"
+  },
+  {
+   "rid": "R274",
+   "doi": "10.1111/joes.12706",
+   "year": 2026,
+   "title": "Interconnectedness of Emotions With Investment Decision-Making: A Conceptual Framework"
+  },
+  {
+   "rid": "R281",
+   "doi": "10.1108/RBF-05-2020-0087",
+   "year": 2022,
+   "title": "Development and validation of behavioral biases scale: a SEM approach"
+  },
+  {
+   "rid": "R293",
+   "doi": "10.1016/j.iref.2022.04.002",
+   "year": 2022,
+   "title": "Investor sentiment, credit rating, and stock returns"
+  },
+  {
+   "rid": "R305",
+   "doi": "10.1177/21582440231206900",
+   "year": 2023,
+   "title": "The Impact of Emotional Finance, and Market Knowledge and Investor Protection on Investment Performance in Stock and Real Estate Markets"
+  },
+  {
+   "rid": "R308",
+   "doi": "10.1016/j.actpsy.2024.104426",
+   "year": 2024,
+   "title": "The influence of emotional intelligence and behavioural biases on mutual fund churning frequency: Evidence from India"
+  },
+  {
+   "rid": "R312",
+   "doi": "10.1016/j.ememar.2022.100988",
+   "year": 2023,
+   "title": "Salience theory and mutual fund flows: Empirical evidence from China"
+  },
+  {
+   "rid": "R327",
+   "doi": "10.3389/fpsyg.2022.914649",
+   "year": 2022,
+   "title": "Mediating Role of Optimism Bias and Risk Perception Between Emotional Intelligence and Decision-Making: A Serial Mediation Model"
+  },
+  {
+   "rid": "R328",
+   "doi": "10.1080/15427560.2023.2257344",
+   "year": 2025,
+   "title": "Anxiety in Returns"
+  },
+  {
+   "rid": "R337",
+   "doi": "10.17233/sosyoekonomi.2023.02.15",
+   "year": 2023,
+   "title": "Examining the Effect of Fear on Investment Decisions and Interpreting It with Psychological Factors: A Research on Turkiye2"
+  },
+  {
+   "rid": "R340",
+   "doi": "10.1002/asi.24173",
+   "year": 2019,
+   "title": "Analyzing stock market trends using social media user moods and social influence"
+  }
+ ],
+ "D8": [
+  {
+   "rid": "R002",
+   "doi": "10.1186/s40854-026-00930-z",
+   "year": 2026,
+   "title": "Behavioral portfolio decisions in a GARCH world"
+  },
+  {
+   "rid": "R014",
+   "doi": "10.1016/j.bir.2026.100800",
+   "year": 2026,
+   "title": "Machine learning for risk profiling: An analysis of pension fund participants"
+  },
+  {
+   "rid": "R024",
+   "doi": "10.3390/risks14020040",
+   "year": 2026,
+   "title": "How Framing Susceptibility Is Associated with Investment Grip: Evidence from Japanese Retail Investors"
+  },
+  {
+   "rid": "R040",
+   "doi": "10.21511/imfi.23(2).2026.24",
+   "year": 2026,
+   "title": "Antecedents of investment decisions among retail investors: Mediating risk perception and moderating investment horizon"
+  },
+  {
+   "rid": "R139",
+   "doi": "10.21003/ea.V212-09",
+   "year": 2024,
+   "title": "Economic and psychological determination in civil servants' investment decisions ahead of retirement: empirical evidence from Indonesia"
+  },
+  {
+   "rid": "R153",
+   "doi": "10.1057/s41260-024-00355-2",
+   "year": 2024,
+   "title": "A century of asset allocation crash risk"
+  },
+  {
+   "rid": "R156",
+   "doi": "10.1111/joes.12583",
+   "year": 2024,
+   "title": "Finance and intelligence: An overview of the literature"
+  },
+  {
+   "rid": "R185",
+   "doi": "10.1108/RBF-05-2021-0087",
+   "year": 2023,
+   "title": "Influence of bull and bear market phase on financial risk tolerance of urban individual investors in an emerging economy"
+  },
+  {
+   "rid": "R226",
+   "doi": "10.1080/15427560.2020.1841767",
+   "year": 2022,
+   "title": "Behavioral Heterogeneity in the Stock Market Revisited: What Factors Drive Investors as Fundamentalists or Chartists?"
+  },
+  {
+   "rid": "R250",
+   "doi": "10.3905/jwm.2019.1.089",
+   "year": 2020,
+   "title": "Do as i say, not as i do: An analysis of portfolio development recommendations made by financial advisors"
+  },
+  {
+   "rid": "R257",
+   "doi": "10.3905/joi.2019.1.098",
+   "year": 2019,
+   "title": "The efficient frontuzzle: What investment risk profiling still fails to solve"
+  },
+  {
+   "rid": "R320",
+   "doi": "10.1016/j.irfa.2025.104291",
+   "year": 2025,
+   "title": "Household aging, commercial insurance participation, and risky asset allocation"
+  }
+ ],
+ "D9": [
+  {
+   "rid": "R009",
+   "doi": "10.3390/jrfm19060418",
+   "year": 2026,
+   "title": "A PRISMA-Based Systematic Review of Behavioral Biases and Demographic Moderators in Investment Decision-Making"
+  },
+  {
+   "rid": "R020",
+   "doi": "10.1371/journal.pone.0345883",
+   "year": 2026,
+   "title": "Adaptability factors and behavioral biases of investors in frontier markets: An adaptive market hypothesis perspective"
+  },
+  {
+   "rid": "R046",
+   "doi": "10.1109/iitcee67948.2026.11394050",
+   "year": 2026,
+   "title": "AI Supported WealthTech Solutions for Personalized Financial Planning and Investment Decisions"
+  },
+  {
+   "rid": "R077",
+   "doi": "10.3390/ijfs13030176",
+   "year": 2025,
+   "title": "Generational Insights into Herding Behavior: The Moderating Role of Investment Experience in Shaping Decisions Among Generations X, Y, and Z"
+  },
+  {
+   "rid": "R135",
+   "doi": "10.18488/73.v13i1.4045",
+   "year": 2025,
+   "title": "The determinants of perceived risk: A moderating role of investor sophistication"
+  },
+  {
+   "rid": "R190",
+   "doi": "10.3390/bs13020115",
+   "year": 2023,
+   "title": "Effects of Investment Experience on the Stock Investment Task: The Mediating Role of Risk Perception"
+  },
+  {
+   "rid": "R196",
+   "doi": NaN,
+   "year": 2023,
+   "title": "The Factors Influencing Investor’s Decision towards Invest in Equity Shares in Tumkur District"
+  },
+  {
+   "rid": "R202",
+   "doi": "10.1109/bigdata59044.2023.10386644",
+   "year": 2023,
+   "title": "Harnessing Behavioral Traits to Enhance Financial Stock Recommender Systems: Tackling the User Cold Start Problem"
+  },
+  {
+   "rid": "R228",
+   "doi": "10.1108/QRFM-07-2020-0135",
+   "year": 2021,
+   "title": "Examining drivers and deterrents of individuals’ investment intentions: a qualitative multistage analysis"
+  },
+  {
+   "rid": "R230",
+   "doi": "10.3390/app112210916",
+   "year": 2021,
+   "title": "Cognitive biases on the iran stock exchange: Unsupervised learning approach to examining feature bundles in investors’ portfolios"
+  },
+  {
+   "rid": "R232",
+   "doi": "10.1111/fire.12252",
+   "year": 2021,
+   "title": "Are mutual fund investors loss averse? Evidence from China"
+  },
+  {
+   "rid": "R278",
+   "doi": "10.1007/s11846-022-00544-6",
+   "year": 2023,
+   "title": "Paralyzed by shock: the portfolio formation behavior of peer-to-business lending investors"
+  },
+  {
+   "rid": "R295",
+   "doi": "10.1016/j.iref.2020.12.029",
+   "year": 2021,
+   "title": "Unusual investor behavior under tacit and endogenous market signals"
+  }
+ ],
+ "D10": [
+  {
+   "rid": "R015",
+   "doi": "10.1145/3772363.3798970",
+   "year": 2026,
+   "title": "Towards Understanding Financial Decision-Making in Equity Markets Among German and Indian Participants: Survey-based Findings"
+  },
+  {
+   "rid": "R180",
+   "doi": "10.1109/TCSS.2022.3195816",
+   "year": 2023,
+   "title": "Loss Aversion Robust Optimization Model Under Distribution and Mean Return Ambiguity"
+  },
+  {
+   "rid": "R187",
+   "doi": NaN,
+   "year": 2023,
+   "title": "Examining the Effect of Fear on Investment Decisions and Interpreting It with Psychological Factors: A Research on Türkiye | Korkunun Yatırım Kararları Üzerindeki Etkisinin İncelenmesi ve Psikolojik Faktörler ile Yorumlanması: Türkiye Üzerine Bir Araştırma"
+  },
+  {
+   "rid": "R256",
+   "doi": "10.2139/ssrn.3458976",
+   "year": 2020,
+   "title": "Affective portfolio analysis: Risk, ambiguity and (IR)rationality"
+  },
+  {
+   "rid": "R289",
+   "doi": "10.30784/epfad.1934878",
+   "year": 2026,
+   "title": "RISK PERCEPTION UNDER UNCERTAINTY: A BEHAVIORAL ANALYSIS OF SAFE-HAVEN ASSET RETURN RESPONSES"
+  },
+  {
+   "rid": "R337",
+   "doi": "10.17233/sosyoekonomi.2023.02.15",
+   "year": 2023,
+   "title": "Examining the Effect of Fear on Investment Decisions and Interpreting It with Psychological Factors: A Research on Turkiye2"
+  }
+ ],
+ "D11": [
+  {
+   "rid": "R004",
+   "doi": "10.31538/munaddhomah.v6i4.2298",
+   "year": 2026,
+   "title": "Islamic Values and Gen Z's Investment Behavior in the Sharia Stock Market: Beyond Rationality"
+  },
+  {
+   "rid": "R005",
+   "doi": "10.1016/j.ribaf.2026.103562",
+   "year": 2026,
+   "title": "A cultural finance perspective on the low volatility anomaly"
+  },
+  {
+   "rid": "R037",
+   "doi": NaN,
+   "year": 2026,
+   "title": "Behavioral Biases in Financial Markets: Understanding the Impact of Cognitive Heuristic-Driven Biases and Emotional Biases in Shaping Investment Decisions"
+  },
+  {
+   "rid": "R058",
+   "doi": "10.1007/978-3-032-11276-7_3",
+   "year": 2026,
+   "title": "Masculinity and Financial Behavior: Understanding Biases and Empowering Resilience"
+  },
+  {
+   "rid": "R059",
+   "doi": "10.1108/JIMA-08-2024-0350",
+   "year": 2026,
+   "title": "Analysis of Islamic Unit Trust Funds Investors in Malaysia using the Kohonen self-organizing maps"
+  },
+  {
+   "rid": "R060",
+   "doi": NaN,
+   "year": 2026,
+   "title": "Gender and the Brain on Finance: Are Men and Women Wired for Different Risks?"
+  },
+  {
+   "rid": "R096",
+   "doi": "10.1142/S1094406024500215",
+   "year": 2025,
+   "title": "Country-Level Loss Aversion and the Market Response to Earnings News"
+  },
+  {
+   "rid": "R124",
+   "doi": "10.1109/icbiti65527.2025.11501156",
+   "year": 2025,
+   "title": "The Role of Digital Technology in Influencing Investor Psychology and Promoting Sustainable Investment in the Indian Financial Market"
+  },
+  {
+   "rid": "R140",
+   "doi": "10.1108/SRJ-11-2023-0671",
+   "year": 2024,
+   "title": "Dissecting investment frequency: examining the role of social influence, investors’ perception of gender discrimination, involvement, access to information and risk tolerance"
+  },
+  {
+   "rid": "R145",
+   "doi": "10.55643/fcaptp.5.58.2024.4451",
+   "year": 2024,
+   "title": "IMPACT OF BEHAVIOURAL FINANCE ON RISK PERCEPTION, PSYCHOLOGICAL BEHAVIOUR, AND FINANCIAL DECISIONS OF MOROCCAN INVESTORS"
+  },
+  {
+   "rid": "R173",
+   "doi": "10.1007/978-3-031-53998-5_27",
+   "year": 2024,
+   "title": "Behavioral Finance in Psycho-Social Approaches: A Literature Review"
+  },
+  {
+   "rid": "R174",
+   "doi": NaN,
+   "year": 2024,
+   "title": "The Influence of Emotions and Social Value Orientation on Risk Tolerance and Sustainable Investment Choices"
+  },
+  {
+   "rid": "R322",
+   "doi": "10.55643/fcaptp.4.57.2024.4451",
+   "year": 2024,
+   "title": "IMPACT OF BEHAVIOURAL FINANCE ON RISK AND FINANCIAL DECISIONS OF MOROCCAN INVESTORS"
+  },
+  {
+   "rid": "R323",
+   "doi": "10.1108/JIABR-04-2025-0223",
+   "year": 2026,
+   "title": "Moderator effect of income on sharia stock investment decisions on the Stockbit"
+  }
+ ],
+ "D12": [
+  {
+   "rid": "R007",
+   "doi": "10.3390/jrfm19070522",
+   "year": 2026,
+   "title": "Behavioral Biases and Investor Decision-Making in the Saudi Stock Market: The Moderating Roles of Overconfidence and Loss Aversion in an Islamic and Oil-Dependent Economy"
+  },
+  {
+   "rid": "R009",
+   "doi": "10.3390/jrfm19060418",
+   "year": 2026,
+   "title": "A PRISMA-Based Systematic Review of Behavioral Biases and Demographic Moderators in Investment Decision-Making"
+  },
+  {
+   "rid": "R016",
+   "doi": "10.48161/qaj.v6n2a2403",
+   "year": 2026,
+   "title": "Intergenerational Shifts in Equity Investment Behavior: From Traditional Media to Social Media Among Family Business Investors"
+  },
+  {
+   "rid": "R020",
+   "doi": "10.1371/journal.pone.0345883",
+   "year": 2026,
+   "title": "Adaptability factors and behavioral biases of investors in frontier markets: An adaptive market hypothesis perspective"
+  },
+  {
+   "rid": "R028",
+   "doi": "10.4324/9781003716617-8",
+   "year": 2026,
+   "title": "Exploring the role of simulated learning on portfolio management: enhancing investment decisions by addressing behavioural biases"
+  },
+  {
+   "rid": "R029",
+   "doi": "10.1063/5.0298362",
+   "year": 2026,
+   "title": "Role of artificial intelligence (AI) in strengthening impact of behavioral factors on investment decision process of IT/ITES employee towards behavioral finance"
+  },
+  {
+   "rid": "R030",
+   "doi": "10.1063/5.0298363",
+   "year": 2026,
+   "title": "Role of artificial intelligence in understanding psychological influences on investment decisions: A behavioral finance study among IT/ITES employees"
+  },
+  {
+   "rid": "R032",
+   "doi": "10.4324/9781003725084-10",
+   "year": 2026,
+   "title": "The role of behavioral biases in shaping investment decisions: an empirical analysis of the Indian investors"
+  },
+  {
+   "rid": "R034",
+   "doi": NaN,
+   "year": 2026,
+   "title": "Emotional Biases and Their Impact on Investment Decisions: A Behavioral Finance Perspective"
+  },
+  {
+   "rid": "R041",
+   "doi": "10.1109/iciptm69057.2026.11466023",
+   "year": 2026,
+   "title": "AI-Based Predictive Modelling of Digitalization Effects on Investment Decisions of Gen Z Investors"
+  },
+  {
+   "rid": "R042",
+   "doi": "10.1201/9781779641410-9",
+   "year": 2026,
+   "title": "Digital Transformation in Wealth Management: Exploring How Robo-Advisors Moderate Behavioral Biases and Shape Investment Decisions"
+  },
+  {
+   "rid": "R043",
+   "doi": "10.1504/aajfa.2024.10068605",
+   "year": 2026,
+   "title": "Deciphering risk and behavioural biases in investment decision-making"
+  },
+  {
+   "rid": "R044",
+   "doi": "10.2139/ssrn.5245968",
+   "year": 2026,
+   "title": "Behavioral Biases in Investment Decisions"
+  },
+  {
+   "rid": "R045",
+   "doi": NaN,
+   "year": 2026,
+   "title": "From Rationality to Reality: Taxonomy of Biases and Mitigation Strategies for Investors"
+  },
+  {
+   "rid": "R047",
+   "doi": NaN,
+   "year": 2026,
+   "title": "The Psychology of Investing: Case Studies in Behavioral Finance"
+  },
+  {
+   "rid": "R051",
+   "doi": "10.1108/QRFM-03-2025-0064",
+   "year": 2026,
+   "title": "Understanding the disposition effect: a phenomenological study of investor experiences in Nepal"
+  },
+  {
+   "rid": "R054",
+   "doi": "10.71086/iajse/v13i1/iajse1340",
+   "year": 2026,
+   "title": "ESG Investing and its Impact on Risk-Adjusted Portfolio Returns from a Behavioral Finance Perspective Using SEM"
+  },
+  {
+   "rid": "R055",
+   "doi": NaN,
+   "year": 2026,
+   "title": "Exploring the Landscape of Behavioral Finance: A Review"
+  },
+  {
+   "rid": "R061",
+   "doi": "10.4018/979-8-2600-2233-7.ch006",
+   "year": 2026,
+   "title": "Financial Reporting, Investor Psychology and the Role of Data Governance in Equity Markets"
+  },
+  {
+   "rid": "R064",
+   "doi": "10.1108/IJBM-04-2025-0285",
+   "year": 2026,
+   "title": "Navigating crypto markets: financial literacy, behavior and information channels"
+  },
+  {
+   "rid": "R071",
+   "doi": "10.1007/s43546-025-00986-6",
+   "year": 2025,
+   "title": "Artificial intelligence in behavioral finance: a global review of cognitive bias modeling in investor decision-making"
+  },
+  {
+   "rid": "R076",
+   "doi": "10.3390/ijfs13030175",
+   "year": 2025,
+   "title": "The Role of Fear of Missing out (FOMO), Loss Aversion, and Herd Behavior in Gold Investment Decisions: A Study in the Vietnamese Market"
+  },
+  {
+   "rid": "R077",
+   "doi": "10.3390/ijfs13030176",
+   "year": 2025,
+   "title": "Generational Insights into Herding Behavior: The Moderating Role of Investment Experience in Shaping Decisions Among Generations X, Y, and Z"
+  },
+  {
+   "rid": "R079",
+   "doi": "10.1177/18724981251346316",
+   "year": 2025,
+   "title": "Behavioural factors in risk perception and financial decision making"
+  },
+  {
+   "rid": "R080",
+   "doi": "10.3390/jrfm18090493",
+   "year": 2025,
+   "title": "Investor Emotions and Cognitive Biases in a Bearish Market Simulation: A Qualitative Study"
+  },
+  {
+   "rid": "R081",
+   "doi": "10.1016/j.najef.2025.102491",
+   "year": 2025,
+   "title": "Happiness and stock market participation"
+  },
+  {
+   "rid": "R082",
+   "doi": "10.14419/jn051k29",
+   "year": 2025,
+   "title": "The Psychological and Behavioural Determinants of Mutual Fund Investment Decisions in Bengaluru: A Mixed-Method Approach"
+  },
+  {
+   "rid": "R084",
+   "doi": "10.2139/ssrn.5265809",
+   "year": 2025,
+   "title": "Psychological Factors and Investment Decision Making"
+  },
+  {
+   "rid": "R085",
+   "doi": "10.4018/979-8-3373-1250-7.ch014",
+   "year": 2025,
+   "title": "Leveraging Generative AI to Address Behavioral Biases in the Investment Decisions of Gen Z and Millennials"
+  },
+  {
+   "rid": "R086",
+   "doi": "10.4018/979-8-3373-0613-1.ch006",
+   "year": 2025,
+   "title": "Optimization of sustainable portfolios considering behavioral biases: ESG risk management"
+  },
+  {
+   "rid": "R089",
+   "doi": "10.4018/979-8-3693-8166-3.ch002",
+   "year": 2025,
+   "title": "The role of behavioral finance in shaping economic decision-making: Insights from AI and big data integration"
+  },
+  {
+   "rid": "R090",
+   "doi": "10.1016/j.actpsy.2025.104964",
+   "year": 2025,
+   "title": "Herding behavior, disposition effect, and investment decisions: A multi-mediation analysis of risk perception and dividend policy"
+  },
+  {
+   "rid": "R092",
+   "doi": "10.47857/irjms.2025.v06i02.03325",
+   "year": 2025,
+   "title": "Personality Traits as Moderator of Risk Perception and Investment Decision"
+  },
+  {
+   "rid": "R093",
+   "doi": "10.1108/IJOEM-02-2022-0263",
+   "year": 2025,
+   "title": "Gauging investors' investment decisions in the crypto market through the PRISM of behavioral biases: a fuzzy AHP approach"
+  },
+  {
+   "rid": "R094",
+   "doi": NaN,
+   "year": 2025,
+   "title": "Analyzes of common behavioral bias among Indo-Arabian investors and how to better manage them"
+  },
+  {
+   "rid": "R095",
+   "doi": "10.2478/eoik-2025-0003",
+   "year": 2025,
+   "title": "THE INVESTMENT PUZZLE: UNVEILING BEHAVIORAL FINANCE, RISK PERCEPTION, AND FINANCIAL LITERACY"
+  },
+  {
+   "rid": "R101",
+   "doi": "10.1108/JRF-06-2024-0184",
+   "year": 2025,
+   "title": "Embedding behavioral biases into robo-advisory platforms-case of UAE investors"
+  },
+  {
+   "rid": "R107",
+   "doi": "10.4337/9781035339723.00022",
+   "year": 2025,
+   "title": "Irrational investors"
+  },
+  {
+   "rid": "R108",
+   "doi": "10.1109/autocom64127.2025.10956259",
+   "year": 2025,
+   "title": "The Role of Behavioral Finance In Investment Decision-Making Using Machine Learning-Understanding the Psychology Behind Stock Market Trends"
+  },
+  {
+   "rid": "R109",
+   "doi": "10.26794/2587-5671-2025-29-5-1456-01",
+   "year": 2025,
+   "title": "Impact of Anchoring, Herding and Loss-Aversion on Working Women’s Investment Decision-Making"
+  },
+  {
+   "rid": "R111",
+   "doi": "10.53555/jab.v11i4.365",
+   "year": 2025,
+   "title": "A Bibliometric Analysis on Behaviour Biases and Investment Decisions Among Retail Investors"
+  },
+  {
+   "rid": "R112",
+   "doi": "10.46585/sp33012242",
+   "year": 2025,
+   "title": "Herding Behavior, Risk Perception, and Investment Performance: A Serial Mediation Analysis"
+  },
+  {
+   "rid": "R114",
+   "doi": "10.2174/9798898810818125010015",
+   "year": 2025,
+   "title": "Behavioural Finance Factors and Investment Decisions: Risk Perception of Gender as a Mediating Factor"
+  },
+  {
+   "rid": "R115",
+   "doi": "10.5256/f1000research.185331.r426000",
+   "year": 2025,
+   "title": "Unpacking Investor Psychology: A Systematic Review and Meta-Analysis of Behavioural Biases Shaping Investment Decisions*"
+  },
+  {
+   "rid": "R117",
+   "doi": "10.1201/9781003606185-15",
+   "year": 2025,
+   "title": "The influence of behavioral biases on the decisionmaking process about investments in the stock market"
+  },
+  {
+   "rid": "R118",
+   "doi": NaN,
+   "year": 2025,
+   "title": "Decoding Investor Sentiments in the Indian Stock Market: A Structural Equation Modelling Approach"
+  },
+  {
+   "rid": "R121",
+   "doi": "10.1108/JEAS-09-2024-0334",
+   "year": 2025,
+   "title": "Research marking and yield in behavioural finance literature review: observations from bibliometric analysis using R"
+  },
+  {
+   "rid": "R124",
+   "doi": "10.1109/icbiti65527.2025.11501156",
+   "year": 2025,
+   "title": "The Role of Digital Technology in Influencing Investor Psychology and Promoting Sustainable Investment in the Indian Financial Market"
+  },
+  {
+   "rid": "R125",
+   "doi": "10.1007/978-3-031-80656-8_36",
+   "year": 2025,
+   "title": "A Behavioral Finance Analysis of Short-Term Loss Aversion and Herd Mentality in Personal Investing"
+  },
+  {
+   "rid": "R126",
+   "doi": "10.1002/isd2.12346",
+   "year": 2025,
+   "title": "Portfolio management with the help of AI: What drives retail Indian investors to robo-advisors?"
+  },
+  {
+   "rid": "R131",
+   "doi": "10.31893/multirev.2025ss0322",
+   "year": 2025,
+   "title": "Systematic review of behavioral finance contributions to financial risk management strategies"
+  },
+  {
+   "rid": "R132",
+   "doi": "10.1201/9781003684657-9",
+   "year": 2025,
+   "title": "Social Media Engagement as a Lens for Investor Behavior"
+  },
+  {
+   "rid": "R133",
+   "doi": "10.1007/978-3-031-87584-7_170",
+   "year": 2025,
+   "title": "Influence of Behavioral Biases on Women Investor’s Portfolio Performance"
+  },
+  {
+   "rid": "R134",
+   "doi": "10.1007/978-3-031-96530-2_75",
+   "year": 2025,
+   "title": "Generation Z to Millennials: A Study on Behaviour of Investors of Bengaluru City"
+  },
+  {
+   "rid": "R135",
+   "doi": "10.18488/73.v13i1.4045",
+   "year": 2025,
+   "title": "The determinants of perceived risk: A moderating role of investor sophistication"
+  },
+  {
+   "rid": "R139",
+   "doi": "10.21003/ea.V212-09",
+   "year": 2024,
+   "title": "Economic and psychological determination in civil servants' investment decisions ahead of retirement: empirical evidence from Indonesia"
+  },
+  {
+   "rid": "R140",
+   "doi": "10.1108/SRJ-11-2023-0671",
+   "year": 2024,
+   "title": "Dissecting investment frequency: examining the role of social influence, investors’ perception of gender discrimination, involvement, access to information and risk tolerance"
+  },
+  {
+   "rid": "R141",
+   "doi": "10.1108/JFRC-01-2024-0010",
+   "year": 2024,
+   "title": "All are interesting to invest, I fear of missing out (FOMO): a comparative study among self-employed and salaried investors"
+  },
+  {
+   "rid": "R147",
+   "doi": NaN,
+   "year": 2024,
+   "title": "Behavioural Biases Affecting Financial Risk Tolerance of Working Women Investors: Evidence from the Indian Stock Market"
+  },
+  {
+   "rid": "R149",
+   "doi": "10.1002/bse.3743",
+   "year": 2024,
+   "title": "Investing in our planet: Examining retail investors' preference for green bond investment"
+  },
+  {
+   "rid": "R150",
+   "doi": "10.1007/s10660-022-09612-1",
+   "year": 2024,
+   "title": "An empirical analysis of navigation behaviors across stock and cryptocurrency trading platforms: implications for targeting and segmentation strategies"
+  },
+  {
+   "rid": "R154",
+   "doi": "10.1108/QRFM-05-2022-0090",
+   "year": 2024,
+   "title": "Measuring behavioral biases in individual investors decision-making and sociodemographic correlations: a systematic review"
+  },
+  {
+   "rid": "R155",
+   "doi": "10.1007/s11135-023-01739-z",
+   "year": 2024,
+   "title": "“All are investing in Crypto, I fear of being missed out”: examining the influence of herding, loss aversion, and overconfidence in the cryptocurrency market with the mediating effect of FOMO"
+  },
+  {
+   "rid": "R157",
+   "doi": "10.1108/RBF-09-2022-0210",
+   "year": 2024,
+   "title": "Do heuristics affect Brazilian investors’ decision-making process?"
+  },
+  {
+   "rid": "R169",
+   "doi": "10.1007/s13198-024-02534-1",
+   "year": 2024,
+   "title": "Impact of gender, age, and education on investors’ behavior: An empirical study of Delhi-NCR"
+  },
+  {
+   "rid": "R177",
+   "doi": "10.1007/978-3-031-51997-0_8",
+   "year": 2024,
+   "title": "Conceptual Framework: Understanding the Influence of Monetary and Fiscal Policies on Investor Behavior in China’s Renewable Energy Sector"
+  },
+  {
+   "rid": "R179",
+   "doi": "10.24294/jipd.v8i9.6419",
+   "year": 2024,
+   "title": "Analysis of factors affecting investors’ decision towards cryptocurrency investments in Saudia Arabia: A moderating role of fear of missing out (FOMO) on decision-making"
+  },
+  {
+   "rid": "R186",
+   "doi": "10.1063/5.0154194",
+   "year": 2023,
+   "title": "Behavioral biases of investors in the cryptocurrency market"
+  },
+  {
+   "rid": "R187",
+   "doi": NaN,
+   "year": 2023,
+   "title": "Examining the Effect of Fear on Investment Decisions and Interpreting It with Psychological Factors: A Research on Türkiye | Korkunun Yatırım Kararları Üzerindeki Etkisinin İncelenmesi ve Psikolojik Faktörler ile Yorumlanması: Türkiye Üzerine Bir Araştırma"
+  },
+  {
+   "rid": "R193",
+   "doi": "10.1080/23322039.2023.2239032",
+   "year": 2023,
+   "title": "Behavioral finance factors and investment decisions: A mediating role of risk perception"
+  },
+  {
+   "rid": "R197",
+   "doi": "10.21511/imfi.20(2).2023.13",
+   "year": 2023,
+   "title": "Behavioral biases affecting investment decisions of capital market investors in Bangladesh: A behavioral finance approach"
+  },
+  {
+   "rid": "R200",
+   "doi": "10.17549/gbfr.2023.28.2.1",
+   "year": 2023,
+   "title": "Investigating the Antecedents of Investment Intention and the Mediating Effect of Investment Self-efficacy among Young Adults in Shandong, China"
+  },
+  {
+   "rid": "R201",
+   "doi": NaN,
+   "year": 2023,
+   "title": "Demography of Investors and Behavioral Biases - An Empirical Study"
+  },
+  {
+   "rid": "R206",
+   "doi": "10.21511/imfi.20(1).2023.03",
+   "year": 2023,
+   "title": "Predicting the financial behavior of Indian salaried-class individuals"
+  },
+  {
+   "rid": "R207",
+   "doi": NaN,
+   "year": 2023,
+   "title": "Investor Behavior during Periods of Crises: The Chinese Funds Market during the 2020 Pandemic"
+  },
+  {
+   "rid": "R212",
+   "doi": "10.47750/QAS/23.191.10",
+   "year": 2022,
+   "title": "The Influence of Social and Personal Factors in Individual Investment Decision Making"
+  },
+  {
+   "rid": "R218",
+   "doi": "10.1108/MRR-02-2021-0139",
+   "year": 2022,
+   "title": "Behavioural biases affecting investors’ decision-making process: a scale development approach"
+  },
+  {
+   "rid": "R228",
+   "doi": "10.1108/QRFM-07-2020-0135",
+   "year": 2021,
+   "title": "Examining drivers and deterrents of individuals’ investment intentions: a qualitative multistage analysis"
+  },
+  {
+   "rid": "R229",
+   "doi": "10.1002/mar.21550",
+   "year": 2021,
+   "title": "Why retail investors traded equity during the pandemic? An application of artificial neural networks to examine behavioral biases"
+  },
+  {
+   "rid": "R230",
+   "doi": "10.3390/app112210916",
+   "year": 2021,
+   "title": "Cognitive biases on the iran stock exchange: Unsupervised learning approach to examining feature bundles in investors’ portfolios"
+  },
+  {
+   "rid": "R239",
+   "doi": "10.13106/jafeb.2021.vol8.no3.1231",
+   "year": 2021,
+   "title": "Behavioral Biases on Investment Decision: A Case Study in Indonesia"
+  },
+  {
+   "rid": "R240",
+   "doi": "10.1007/978-3-030-58669-0_9",
+   "year": 2021,
+   "title": "The Impact of the Behavioral Factors on Investment Decision-Making: A Systemic Review on Financial Institutions"
+  },
+  {
+   "rid": "R241",
+   "doi": "10.1108/JIABR-06-2020-0194",
+   "year": 2022,
+   "title": "Market discipline in the behavioral finance perspective: a case of Sharia mutual funds in Indonesia"
+  },
+  {
+   "rid": "R247",
+   "doi": "10.1108/RBF-03-2019-0044",
+   "year": 2020,
+   "title": "Evaluation of behavioral biases affecting investment decision making of individual equity investors by fuzzy analytic hierarchy process"
+  },
+  {
+   "rid": "R248",
+   "doi": "10.17549/gbfr.2020.25.2.37",
+   "year": 2020,
+   "title": "An investigation of financial investment intention using covariance-based structural equation modelling"
+  },
+  {
+   "rid": "R263",
+   "doi": NaN,
+   "year": 2019,
+   "title": "Impact of behavioral finance on stock investment decisions applied study on a sample of investors at Amman Stock Exchange"
+  },
+  {
+   "rid": "R265",
+   "doi": "10.1007/978-3-030-02804-6_131",
+   "year": 2019,
+   "title": "The EGARCH effect test of chinese stock market from the perspective of behavioral finance"
+  },
+  {
+   "rid": "R268",
+   "doi": "10.1108/MRR-06-2019-0254",
+   "year": 2020,
+   "title": "Influence of investor sentiment and its antecedent on investment decision-making using partial least square technique"
+  },
+  {
+   "rid": "R282",
+   "doi": "10.1108/JEAS-05-2021-0100",
+   "year": 2023,
+   "title": "Humanoid psychological sentiments and enigma of investment"
+  },
+  {
+   "rid": "R308",
+   "doi": "10.1016/j.actpsy.2024.104426",
+   "year": 2024,
+   "title": "The influence of emotional intelligence and behavioural biases on mutual fund churning frequency: Evidence from India"
+  },
+  {
+   "rid": "R309",
+   "doi": "10.30784/epfad.1435009",
+   "year": 2024,
+   "title": "NAVIGATING THE STOCK MARKET: MODELING WEALTH EXCHANGE AND NETWORK INTERACTION WITH LOSS AVERSION, DISPOSITION EFFECT AND ANCHORING AND ADJUSTMENT BIAS"
+  },
+  {
+   "rid": "R314",
+   "doi": "10.1016/j.iref.2025.104828",
+   "year": 2026,
+   "title": "Financial risk tolerance within couples of retail bank clients"
+  },
+  {
+   "rid": "R317",
+   "doi": "10.26650/ibr.2023.52.955732",
+   "year": 2023,
+   "title": "The Relationship between Behavioral Tendencies and Stock Market Participation: A Study for Accounting and Finance Academics"
+  },
+  {
+   "rid": "R319",
+   "doi": "10.1016/j.iimb.2024.06.004",
+   "year": 2024,
+   "title": "Financial risk propensity and investment decisions: An empirical analysis using behavioural biases"
+  },
+  {
+   "rid": "R337",
+   "doi": "10.17233/sosyoekonomi.2023.02.15",
+   "year": 2023,
+   "title": "Examining the Effect of Fear on Investment Decisions and Interpreting It with Psychological Factors: A Research on Turkiye2"
+  },
+  {
+   "rid": "R340",
+   "doi": "10.1002/asi.24173",
+   "year": 2019,
+   "title": "Analyzing stock market trends using social media user moods and social influence"
+  }
+ ],
+ "D13": [
+  {
+   "rid": "R016",
+   "doi": "10.48161/qaj.v6n2a2403",
+   "year": 2026,
+   "title": "Intergenerational Shifts in Equity Investment Behavior: From Traditional Media to Social Media Among Family Business Investors"
+  },
+  {
+   "rid": "R041",
+   "doi": "10.1109/iciptm69057.2026.11466023",
+   "year": 2026,
+   "title": "AI-Based Predictive Modelling of Digitalization Effects on Investment Decisions of Gen Z Investors"
+  },
+  {
+   "rid": "R051",
+   "doi": "10.1108/QRFM-03-2025-0064",
+   "year": 2026,
+   "title": "Understanding the disposition effect: a phenomenological study of investor experiences in Nepal"
+  },
+  {
+   "rid": "R063",
+   "doi": "10.64211/oidaijsd190302",
+   "year": 2026,
+   "title": "Crypto Investment Trends in the Digital Age: The Impact of Online Information on Risk Perception"
+  },
+  {
+   "rid": "R132",
+   "doi": "10.1201/9781003684657-9",
+   "year": 2025,
+   "title": "Social Media Engagement as a Lens for Investor Behavior"
+  },
+  {
+   "rid": "R135",
+   "doi": "10.18488/73.v13i1.4045",
+   "year": 2025,
+   "title": "The determinants of perceived risk: A moderating role of investor sophistication"
+  },
+  {
+   "rid": "R340",
+   "doi": "10.1002/asi.24173",
+   "year": 2019,
+   "title": "Analyzing stock market trends using social media user moods and social influence"
+  }
+ ],
+ "D14": [
+  {
+   "rid": "R016",
+   "doi": "10.48161/qaj.v6n2a2403",
+   "year": 2026,
+   "title": "Intergenerational Shifts in Equity Investment Behavior: From Traditional Media to Social Media Among Family Business Investors"
+  },
+  {
+   "rid": "R020",
+   "doi": "10.1371/journal.pone.0345883",
+   "year": 2026,
+   "title": "Adaptability factors and behavioral biases of investors in frontier markets: An adaptive market hypothesis perspective"
+  },
+  {
+   "rid": "R023",
+   "doi": "10.55493/5003.v16i2.6035",
+   "year": 2026,
+   "title": "How information overload and heuristics shape digital investment decisions"
+  },
+  {
+   "rid": "R027",
+   "doi": "10.3390/economies14020061",
+   "year": 2026,
+   "title": "Global Attention and Market Resilience: Evidence from the Gaza Conflict and Israeli Financial Assets"
+  },
+  {
+   "rid": "R035",
+   "doi": "10.1109/iciptm69057.2026.11465506",
+   "year": 2026,
+   "title": "Machine Learning Modelling of Digitalization in Gen Z Decisions: Financial Literacy and Risk Tolerance"
+  },
+  {
+   "rid": "R041",
+   "doi": "10.1109/iciptm69057.2026.11466023",
+   "year": 2026,
+   "title": "AI-Based Predictive Modelling of Digitalization Effects on Investment Decisions of Gen Z Investors"
+  },
+  {
+   "rid": "R051",
+   "doi": "10.1108/QRFM-03-2025-0064",
+   "year": 2026,
+   "title": "Understanding the disposition effect: a phenomenological study of investor experiences in Nepal"
+  },
+  {
+   "rid": "R063",
+   "doi": "10.64211/oidaijsd190302",
+   "year": 2026,
+   "title": "Crypto Investment Trends in the Digital Age: The Impact of Online Information on Risk Perception"
+  },
+  {
+   "rid": "R064",
+   "doi": "10.1108/IJBM-04-2025-0285",
+   "year": 2026,
+   "title": "Navigating crypto markets: financial literacy, behavior and information channels"
+  },
+  {
+   "rid": "R071",
+   "doi": "10.1007/s43546-025-00986-6",
+   "year": 2025,
+   "title": "Artificial intelligence in behavioral finance: a global review of cognitive bias modeling in investor decision-making"
+  },
+  {
+   "rid": "R072",
+   "doi": "10.1007/s43621-025-02243-0",
+   "year": 2025,
+   "title": "Mutual fund investment in Nepal and its dual analysis of economic impact and investor behavior"
+  },
+  {
+   "rid": "R083",
+   "doi": "10.15187/adr.2025.08.38.3.149",
+   "year": 2025,
+   "title": "Optimizing Communication Design for Robo-Advisors: The Effects of Investor Types and Information Strategies on Trust and Engagement during Financial Losses"
+  },
+  {
+   "rid": "R140",
+   "doi": "10.1108/SRJ-11-2023-0671",
+   "year": 2024,
+   "title": "Dissecting investment frequency: examining the role of social influence, investors’ perception of gender discrimination, involvement, access to information and risk tolerance"
+  },
+  {
+   "rid": "R178",
+   "doi": NaN,
+   "year": 2024,
+   "title": "The Impact of Media News on Investors' Decision-Making According to their Degree of Risk-Taking"
+  },
+  {
+   "rid": "R227",
+   "doi": "10.1108/QRFM-10-2020-0199",
+   "year": 2021,
+   "title": "Artificial intelligence in financial services: a qualitative research to discover robo-advisory services"
+  },
+  {
+   "rid": "R248",
+   "doi": "10.17549/gbfr.2020.25.2.37",
+   "year": 2020,
+   "title": "An investigation of financial investment intention using covariance-based structural equation modelling"
+  },
+  {
+   "rid": "R268",
+   "doi": "10.1108/MRR-06-2019-0254",
+   "year": 2020,
+   "title": "Influence of investor sentiment and its antecedent on investment decision-making using partial least square technique"
+  },
+  {
+   "rid": "R269",
+   "doi": "10.1111/ijcs.70110",
+   "year": 2025,
+   "title": "Consumer Investment Behaviour: A Systematic Review Using TCM and ADO Frameworks"
+  },
+  {
+   "rid": "R279",
+   "doi": "10.1111/fire.12337",
+   "year": 2023,
+   "title": "Investor attention and the use of leverage"
+  },
+  {
+   "rid": "R321",
+   "doi": "10.1504/IJICBM.2024.138994",
+   "year": 2024,
+   "title": "Impact of financial communication practices on investors' risk perception and decision-making"
+  },
+  {
+   "rid": "R336",
+   "doi": "10.1108/IJOEM-07-2024-1110",
+   "year": 2025,
+   "title": "An insight of financial literacy and artificial intelligence to mitigate behavioral biases: a bibliometric and systematic review analysis using SPAR-4-SLR"
+  }
+ ]
+}

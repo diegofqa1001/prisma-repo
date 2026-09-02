@@ -1,0 +1,2029 @@
+[
+ {
+  "rid": "R003",
+  "dims": [
+   "D3",
+   "D5"
+  ],
+  "tipo": "computacional_ML",
+  "poblacion": "mixta_no_especificada",
+  "region": "NA",
+  "activo": "mixto_general",
+  "propone_tipologia": false,
+  "notas": "Evalua cripto y DJIA: activo mixto_general"
+ },
+ {
+  "rid": "R005",
+  "dims": [
+   "D3",
+   "D5",
+   "D11"
+  ],
+  "tipo": "datos_transaccionales",
+  "poblacion": "mixta_no_especificada",
+  "region": "NA",
+  "activo": "acciones",
+  "propone_tipologia": false,
+  "notas": "UAI es dimension cultural, no ambiguedad; excluye D10"
+ },
+ {
+  "rid": "R006",
+  "dims": [
+   "D1",
+   "D2"
+  ],
+  "tipo": "encuesta",
+  "poblacion": "minoristas",
+  "region": "NA",
+  "activo": "mixto_general",
+  "propone_tipologia": false,
+  "notas": "Confianza institucional no es emocion medida; sin D7"
+ },
+ {
+  "rid": "R008",
+  "dims": [
+   "D1",
+   "D7"
+  ],
+  "tipo": "encuesta",
+  "poblacion": "minoristas",
+  "region": "NA",
+  "activo": "otro",
+  "propone_tipologia": false,
+  "notas": "Resumen afirma decisiones basadas en emociones: D7 procede"
+ },
+ {
+  "rid": "R009",
+  "dims": [
+   "D2",
+   "D3",
+   "D5",
+   "D9",
+   "D12"
+  ],
+  "tipo": "revision",
+  "poblacion": "mixta_no_especificada",
+  "region": "NA",
+  "activo": "mixto_general",
+  "propone_tipologia": false,
+  "notas": "Experiencia inversora analizada como moderador: D9 incluida"
+ },
+ {
+  "rid": "R012",
+  "dims": [
+   "D1"
+  ],
+  "tipo": "encuesta",
+  "poblacion": "minoristas",
+  "region": "Brasil",
+  "activo": "mixto_general",
+  "propone_tipologia": false,
+  "notas": "Sugiere refinar perfilamiento pero no propone tipologia"
+ },
+ {
+  "rid": "R014",
+  "dims": [
+   "D1",
+   "D8"
+  ],
+  "tipo": "computacional_ML",
+  "poblacion": "minoristas",
+  "region": "Turquía",
+  "activo": "fondos",
+  "propone_tipologia": true,
+  "notas": "Valida modelos de perfilamiento de riesgo de participantes"
+ },
+ {
+  "rid": "R016",
+  "dims": [
+   "D7",
+   "D12",
+   "D13",
+   "D14"
+  ],
+  "tipo": "encuesta",
+  "poblacion": "minoristas",
+  "region": "NA",
+  "activo": "acciones",
+  "propone_tipologia": false,
+  "notas": "Sentiment y credibilidad de medios: D7 y D14 anadidas"
+ },
+ {
+  "rid": "R019",
+  "dims": [
+   "D1"
+  ],
+  "tipo": "encuesta",
+  "poblacion": "mixta_no_especificada",
+  "region": "NA",
+  "activo": "mixto_general",
+  "propone_tipologia": false,
+  "notas": "Muestra no especificada; escala, no tipologia de inversores"
+ },
+ {
+  "rid": "R021",
+  "dims": [
+   "D5"
+  ],
+  "tipo": "revision",
+  "poblacion": "mixta_no_especificada",
+  "region": "NA",
+  "activo": "mixto_general",
+  "propone_tipologia": false,
+  "notas": "Bibliometria con analisis de contenido discute D5 sustantivamente"
+ },
+ {
+  "rid": "R024",
+  "dims": [
+   "D1",
+   "D2",
+   "D6",
+   "D8"
+  ],
+  "tipo": "encuesta",
+  "poblacion": "minoristas",
+  "region": "Japón",
+  "activo": "mixto_general",
+  "propone_tipologia": false,
+  "notas": "Tolerancia a perdidas y objetivos de largo plazo: D1 y D8"
+ },
+ {
+  "rid": "R029",
+  "dims": [
+   "D3",
+   "D5",
+   "D6",
+   "D12"
+  ],
+  "tipo": "encuesta",
+  "poblacion": "minoristas",
+  "region": "India",
+  "activo": "mixto_general",
+  "propone_tipologia": false,
+  "notas": "Heuristicas explicitas; empleados inversores individuales"
+ },
+ {
+  "rid": "R030",
+  "dims": [
+   "D4",
+   "D5",
+   "D12"
+  ],
+  "tipo": "encuesta",
+  "poblacion": "minoristas",
+  "region": "India",
+  "activo": "mixto_general",
+  "propone_tipologia": false,
+  "notas": "Confianza propia (D4); cuestionario Likert es encuesta"
+ },
+ {
+  "rid": "R035",
+  "dims": [
+   "D1",
+   "D2",
+   "D14"
+  ],
+  "tipo": "computacional_ML",
+  "poblacion": "minoristas",
+  "region": "NA",
+  "activo": "mixto_general",
+  "propone_tipologia": false,
+  "notas": "Digitalizacion y contenido algoritmico como IV: D14"
+ },
+ {
+  "rid": "R036",
+  "dims": [
+   "D1",
+   "D5"
+  ],
+  "tipo": "datos_transaccionales",
+  "poblacion": "mixta_no_especificada",
+  "region": "Filipinas",
+  "activo": "acciones",
+  "propone_tipologia": false,
+  "notas": "Datos historicos de mercado; modela percepcion de riesgo"
+ },
+ {
+  "rid": "R037",
+  "dims": [
+   "D1",
+   "D3",
+   "D5",
+   "D6",
+   "D11"
+  ],
+  "tipo": "teorico_conceptual",
+  "poblacion": "mixta_no_especificada",
+  "region": "NA",
+  "activo": "acciones",
+  "propone_tipologia": false,
+  "notas": "Capitulo panoramico sin metodo de revision sistematica"
+ },
+ {
+  "rid": "R038",
+  "dims": [
+   "D1",
+   "D3",
+   "D7"
+  ],
+  "tipo": "experimento",
+  "poblacion": "minoristas",
+  "region": "NA",
+  "activo": "mixto_general",
+  "propone_tipologia": false,
+  "notas": "EEG mide arousal emocional y regulacion: D7"
+ },
+ {
+  "rid": "R039",
+  "dims": [
+   "D3",
+   "D5"
+  ],
+  "tipo": "teorico_conceptual",
+  "poblacion": "mixta_no_especificada",
+  "region": "NA",
+  "activo": "mixto_general",
+  "propone_tipologia": false,
+  "notas": "No describe muestra ni instrumento: no codificable como encuesta"
+ },
+ {
+  "rid": "R041",
+  "dims": [
+   "D1",
+   "D12",
+   "D13",
+   "D14"
+  ],
+  "tipo": "computacional_ML",
+  "poblacion": "minoristas",
+  "region": "NA",
+  "activo": "mixto_general",
+  "propone_tipologia": false,
+  "notas": "Comunidades financieras en linea: D13; modelado predictivo"
+ },
+ {
+  "rid": "R042",
+  "dims": [
+   "D3",
+   "D5",
+   "D6",
+   "D12"
+  ],
+  "tipo": "teorico_conceptual",
+  "poblacion": "mixta_no_especificada",
+  "region": "NA",
+  "activo": "mixto_general",
+  "propone_tipologia": false,
+  "notas": "Sesgo de confirmacion mencionado explicitamente: D6"
+ },
+ {
+  "rid": "R044",
+  "dims": [
+   "D3",
+   "D5",
+   "D6",
+   "D12"
+  ],
+  "tipo": "teorico_conceptual",
+  "poblacion": "mixta_no_especificada",
+  "region": "NA",
+  "activo": "mixto_general",
+  "propone_tipologia": false,
+  "notas": "Capitulo conceptual con casos, sin protocolo de revision"
+ },
+ {
+  "rid": "R045",
+  "dims": [
+   "D3",
+   "D6",
+   "D7",
+   "D12"
+  ],
+  "tipo": "teorico_conceptual",
+  "poblacion": "mixta_no_especificada",
+  "region": "NA",
+  "activo": "mixto_general",
+  "propone_tipologia": false,
+  "notas": "Autoengano equivale a exceso de confianza: D3"
+ },
+ {
+  "rid": "R051",
+  "dims": [
+   "D2",
+   "D3",
+   "D5",
+   "D6",
+   "D7",
+   "D12",
+   "D13",
+   "D14"
+  ],
+  "tipo": "encuesta",
+  "poblacion": "minoristas",
+  "region": "Nepal",
+  "activo": "acciones",
+  "propone_tipologia": false,
+  "notas": "Redes sociales citadas; cualitativo por entrevistas, no mixto"
+ },
+ {
+  "rid": "R054",
+  "dims": [
+   "D1",
+   "D3",
+   "D12"
+  ],
+  "tipo": "encuesta",
+  "poblacion": "mixta_no_especificada",
+  "region": "NA",
+  "activo": "mixto_general",
+  "propone_tipologia": false,
+  "notas": "Constructos perceptuales en SEM implican datos de encuesta"
+ },
+ {
+  "rid": "R056",
+  "dims": [
+   "D1",
+   "D5",
+   "D6"
+  ],
+  "tipo": "datos_transaccionales",
+  "poblacion": "mixta_no_especificada",
+  "region": "NA",
+  "activo": "mixto_general",
+  "propone_tipologia": false,
+  "notas": "Narrow framing (D6); arquetipos preexistentes, no propuestos"
+ },
+ {
+  "rid": "R057",
+  "dims": [
+   "D1",
+   "D2",
+   "D3",
+   "D4"
+  ],
+  "tipo": "encuesta",
+  "poblacion": "minoristas",
+  "region": "Estados Unidos",
+  "activo": "acciones",
+  "propone_tipologia": true,
+  "notas": "Divergencia conocimiento subjetivo/objetivo: D3 y D4"
+ },
+ {
+  "rid": "R058",
+  "dims": [
+   "D1",
+   "D3",
+   "D5",
+   "D6",
+   "D7",
+   "D11"
+  ],
+  "tipo": "revision",
+  "poblacion": "mixta_no_especificada",
+  "region": "NA",
+  "activo": "mixto_general",
+  "propone_tipologia": false,
+  "notas": "Toma de riesgo (D1) y presion emocional/estres (D7)"
+ },
+ {
+  "rid": "R060",
+  "dims": [
+   "D1",
+   "D11"
+  ],
+  "tipo": "teorico_conceptual",
+  "poblacion": "mixta_no_especificada",
+  "region": "NA",
+  "activo": "mixto_general",
+  "propone_tipologia": false,
+  "notas": "Factores socioculturales de genero: D11; capitulo conceptual"
+ },
+ {
+  "rid": "R061",
+  "dims": [
+   "D3",
+   "D5",
+   "D6",
+   "D12"
+  ],
+  "tipo": "mixto",
+  "poblacion": "mixta_no_especificada",
+  "region": "Indonesia",
+  "activo": "acciones",
+  "propone_tipologia": false,
+  "notas": "Perfiles trader/inversor son hallazgo, no tipologia propuesta"
+ },
+ {
+  "rid": "R062",
+  "dims": [
+   "D5"
+  ],
+  "tipo": "computacional_ML",
+  "poblacion": "mixta_no_especificada",
+  "region": "NA",
+  "activo": "acciones",
+  "propone_tipologia": false,
+  "notas": "Anclaje al punto de referencia forma parte de aversion a perdida"
+ },
+ {
+  "rid": "R063",
+  "dims": [
+   "D1",
+   "D2",
+   "D13",
+   "D14"
+  ],
+  "tipo": "encuesta",
+  "poblacion": "minoristas",
+  "region": "NA",
+  "activo": "cripto",
+  "propone_tipologia": false,
+  "notas": "Exposicion informativa, no manada ni influencia social medida"
+ },
+ {
+  "rid": "R064",
+  "dims": [
+   "D1",
+   "D2",
+   "D3",
+   "D12",
+   "D14"
+  ],
+  "tipo": "encuesta",
+  "poblacion": "minoristas",
+  "region": "España",
+  "activo": "cripto",
+  "propone_tipologia": true,
+  "notas": "Fuentes de informacion (D14) y perfil de tenedores de Bitcoin"
+ },
+ {
+  "rid": "R069",
+  "dims": [
+   "D1",
+   "D2"
+  ],
+  "tipo": "encuesta",
+  "poblacion": "minoristas",
+  "region": "India",
+  "activo": "mixto_general",
+  "propone_tipologia": false,
+  "notas": "No examina cultura; inversion sostenible transversal a activos"
+ },
+ {
+  "rid": "R071",
+  "dims": [
+   "D3",
+   "D5",
+   "D6",
+   "D12",
+   "D14"
+  ],
+  "tipo": "revision",
+  "poblacion": "mixta_no_especificada",
+  "region": "NA",
+  "activo": "mixto_general",
+  "propone_tipologia": false,
+  "notas": "Heuristica de disponibilidad explicita (D6); redes como fuente"
+ },
+ {
+  "rid": "R072",
+  "dims": [
+   "D1",
+   "D2",
+   "D14"
+  ],
+  "tipo": "mixto",
+  "poblacion": "minoristas",
+  "region": "Nepal",
+  "activo": "fondos",
+  "propone_tipologia": false,
+  "notas": "Disponibilidad de informacion es factor validado en SEM"
+ },
+ {
+  "rid": "R073",
+  "dims": [
+   "D1"
+  ],
+  "tipo": "computacional_ML",
+  "poblacion": "profesionales_asesores",
+  "region": "NA",
+  "activo": "mixto_general",
+  "propone_tipologia": false,
+  "notas": "Los sujetos comparados son expertos bancarios"
+ },
+ {
+  "rid": "R074",
+  "dims": [
+   "D5"
+  ],
+  "tipo": "datos_transaccionales",
+  "poblacion": "mixta_no_especificada",
+  "region": "NA",
+  "activo": "cripto",
+  "propone_tipologia": false,
+  "notas": "Regresiones sobre precios reales de 32 criptomonedas"
+ },
+ {
+  "rid": "R078",
+  "dims": [
+   "D1",
+   "D3",
+   "D6"
+  ],
+  "tipo": "encuesta",
+  "poblacion": "minoristas",
+  "region": "NA",
+  "activo": "acciones",
+  "propone_tipologia": false,
+  "notas": "Contexto bursatil explicito en implicaciones"
+ },
+ {
+  "rid": "R080",
+  "dims": [
+   "D3",
+   "D5",
+   "D6",
+   "D7",
+   "D12"
+  ],
+  "tipo": "experimento",
+  "poblacion": "estudiantes",
+  "region": "NA",
+  "activo": "mixto_general",
+  "propone_tipologia": false,
+  "notas": "Simulacion con portafolios virtuales sin activo especificado"
+ },
+ {
+  "rid": "R082",
+  "dims": [
+   "D2",
+   "D3",
+   "D5",
+   "D6",
+   "D12"
+  ],
+  "tipo": "mixto",
+  "poblacion": "minoristas",
+  "region": "India",
+  "activo": "fondos",
+  "propone_tipologia": false,
+  "notas": "Teoria prospectiva y aversion a perdidas explicitas: D5"
+ },
+ {
+  "rid": "R083",
+  "dims": [
+   "D1",
+   "D14"
+  ],
+  "tipo": "experimento",
+  "poblacion": "minoristas",
+  "region": "NA",
+  "activo": "mixto_general",
+  "propone_tipologia": false,
+  "notas": "Encuadre de mensajes de robo-advisor: D14; 79 inversores adultos"
+ },
+ {
+  "rid": "R085",
+  "dims": [
+   "D3",
+   "D5",
+   "D7",
+   "D12"
+  ],
+  "tipo": "teorico_conceptual",
+  "poblacion": "minoristas",
+  "region": "NA",
+  "activo": "mixto_general",
+  "propone_tipologia": false,
+  "notas": "Poblacion objetivo son jovenes inversores individuales"
+ },
+ {
+  "rid": "R088",
+  "dims": [
+   "D1",
+   "D3",
+   "D5",
+   "D6"
+  ],
+  "tipo": "encuesta",
+  "poblacion": "minoristas",
+  "region": "Estados Unidos",
+  "activo": "acciones",
+  "propone_tipologia": false,
+  "notas": "Robo-advisor es moderador tecnologico, no susceptibilidad mediatica"
+ },
+ {
+  "rid": "R089",
+  "dims": [
+   "D3",
+   "D5",
+   "D12"
+  ],
+  "tipo": "mixto",
+  "poblacion": "mixta_no_especificada",
+  "region": "NA",
+  "activo": "mixto_general",
+  "propone_tipologia": false,
+  "notas": "Solo dice inversores, sin especificar tipo"
+ },
+ {
+  "rid": "R091",
+  "dims": [
+   "D5"
+  ],
+  "tipo": "datos_transaccionales",
+  "poblacion": "mixta_no_especificada",
+  "region": "NA",
+  "activo": "acciones",
+  "propone_tipologia": false,
+  "notas": "Mercado de indice accionario spot y opciones"
+ },
+ {
+  "rid": "R093",
+  "dims": [
+   "D3",
+   "D5",
+   "D6",
+   "D12"
+  ],
+  "tipo": "encuesta",
+  "poblacion": "minoristas",
+  "region": "India",
+  "activo": "cripto",
+  "propone_tipologia": false,
+  "notas": "F-AHP aplicado a encuesta de 467 inversores"
+ },
+ {
+  "rid": "R095",
+  "dims": [
+   "D1",
+   "D2",
+   "D3",
+   "D5",
+   "D6",
+   "D12"
+  ],
+  "tipo": "encuesta",
+  "poblacion": "minoristas",
+  "region": "Arabia Saudita",
+  "activo": "acciones",
+  "propone_tipologia": false,
+  "notas": "Blue-chip bias es sesgo de familiaridad: D6"
+ },
+ {
+  "rid": "R098",
+  "dims": [
+   "D1"
+  ],
+  "tipo": "computacional_ML",
+  "poblacion": "mixta_no_especificada",
+  "region": "Estados Unidos",
+  "activo": "acciones",
+  "propone_tipologia": false,
+  "notas": "Predice VIX y ETF del S&P 500: mercado accionario"
+ },
+ {
+  "rid": "R099",
+  "dims": [
+   "D3",
+   "D5",
+   "D6"
+  ],
+  "tipo": "computacional_ML",
+  "poblacion": "minoristas",
+  "region": "NA",
+  "activo": "mixto_general",
+  "propone_tipologia": false,
+  "notas": "Efecto Barnum es sesgo cognitivo generico (D6); ANN"
+ },
+ {
+  "rid": "R102",
+  "dims": [
+   "D1",
+   "D2",
+   "D7"
+  ],
+  "tipo": "encuesta",
+  "poblacion": "minoristas",
+  "region": "India",
+  "activo": "acciones",
+  "propone_tipologia": false,
+  "notas": "Muestra definida por experiencia en mercado bursatil"
+ },
+ {
+  "rid": "R104",
+  "dims": [
+   "D1"
+  ],
+  "tipo": "computacional_ML",
+  "poblacion": "minoristas",
+  "region": "NA",
+  "activo": "mixto_general",
+  "propone_tipologia": true,
+  "notas": "Modelo estimativo de FRT; enfoque computacional, no mixto"
+ },
+ {
+  "rid": "R105",
+  "dims": [
+   "D1"
+  ],
+  "tipo": "mixto",
+  "poblacion": "mixta_no_especificada",
+  "region": "Alemania",
+  "activo": "mixto_general",
+  "propone_tipologia": true,
+  "notas": "Analiza robo-advisors, no muestra de inversores; once perfiles de riesgo"
+ },
+ {
+  "rid": "R107",
+  "dims": [
+   "D1",
+   "D3",
+   "D5",
+   "D6",
+   "D12"
+  ],
+  "tipo": "teorico_conceptual",
+  "poblacion": "mixta_no_especificada",
+  "region": "NA",
+  "activo": "mixto_general",
+  "propone_tipologia": false,
+  "notas": "Capitulo conceptual; discute aversion al riesgo ademas de sesgos"
+ },
+ {
+  "rid": "R113",
+  "dims": [
+   "D2",
+   "D7"
+  ],
+  "tipo": "encuesta",
+  "poblacion": "minoristas",
+  "region": "Egipto",
+  "activo": "acciones",
+  "propone_tipologia": true,
+  "notas": "Sesgos emocionales explicitos; clasifica informados/no informados"
+ },
+ {
+  "rid": "R114",
+  "dims": [
+   "D1",
+   "D2",
+   "D5",
+   "D12"
+  ],
+  "tipo": "encuesta",
+  "poblacion": "minoristas",
+  "region": "NA",
+  "activo": "mixto_general",
+  "propone_tipologia": false,
+  "notas": "Genero es demografico moderador, no valor cultural: sin D11"
+ },
+ {
+  "rid": "R117",
+  "dims": [
+   "D3",
+   "D5",
+   "D6",
+   "D7",
+   "D12"
+  ],
+  "tipo": "encuesta",
+  "poblacion": "minoristas",
+  "region": "NA",
+  "activo": "acciones",
+  "propone_tipologia": false,
+  "notas": "Examina sentimientos; contexto explicito de mercado accionario"
+ },
+ {
+  "rid": "R120",
+  "dims": [
+   "D3",
+   "D5",
+   "D6"
+  ],
+  "tipo": "encuesta",
+  "poblacion": "minoristas",
+  "region": "India",
+  "activo": "mixto_general",
+  "propone_tipologia": false,
+  "notas": "Conservadurismo y sesgos cognitivos justifican D6"
+ },
+ {
+  "rid": "R121",
+  "dims": [
+   "D3",
+   "D5",
+   "D6",
+   "D12"
+  ],
+  "tipo": "revision",
+  "poblacion": "mixta_no_especificada",
+  "region": "NA",
+  "activo": "mixto_general",
+  "propone_tipologia": false,
+  "notas": "Temas explicitos: manada, home bias, exceso de confianza, aversion perdida"
+ },
+ {
+  "rid": "R122",
+  "dims": [
+   "D1",
+   "D6"
+  ],
+  "tipo": "experimento",
+  "poblacion": "mixta_no_especificada",
+  "region": "NA",
+  "activo": "acciones",
+  "propone_tipologia": false,
+  "notas": "Familiaridad investigada como determinante: D6 procede"
+ },
+ {
+  "rid": "R124",
+  "dims": [
+   "D2",
+   "D3",
+   "D5",
+   "D11",
+   "D12"
+  ],
+  "tipo": "teorico_conceptual",
+  "poblacion": "minoristas",
+  "region": "India",
+  "activo": "mixto_general",
+  "propone_tipologia": false,
+  "notas": "Discute sustantivamente alfabetizacion financiera y cultura"
+ },
+ {
+  "rid": "R126",
+  "dims": [
+   "D2",
+   "D12"
+  ],
+  "tipo": "encuesta",
+  "poblacion": "minoristas",
+  "region": "India",
+  "activo": "mixto_general",
+  "propone_tipologia": false,
+  "notas": "Adopcion de robo-advisor no equivale a susceptibilidad mediatica"
+ },
+ {
+  "rid": "R128",
+  "dims": [
+   "D6",
+   "D7"
+  ],
+  "tipo": "teorico_conceptual",
+  "poblacion": "mixta_no_especificada",
+  "region": "NA",
+  "activo": "mixto_general",
+  "propone_tipologia": false,
+  "notas": "Capitulo conceptual; heuristicas cognitivas y emociones explicitas"
+ },
+ {
+  "rid": "R132",
+  "dims": [
+   "D12",
+   "D13"
+  ],
+  "tipo": "encuesta",
+  "poblacion": "mixta_no_especificada",
+  "region": "NA",
+  "activo": "mixto_general",
+  "propone_tipologia": false,
+  "notas": "Sentimiento de mercado, no emocion individual; poblacion no especificada"
+ },
+ {
+  "rid": "R133",
+  "dims": [
+   "D5",
+   "D6",
+   "D12"
+  ],
+  "tipo": "encuesta",
+  "poblacion": "minoristas",
+  "region": "NA",
+  "activo": "mixto_general",
+  "propone_tipologia": false,
+  "notas": "Cuestionario estructurado con AHP sigue siendo encuesta"
+ },
+ {
+  "rid": "R136",
+  "dims": [
+   "D1"
+  ],
+  "tipo": "encuesta",
+  "poblacion": "mixta_no_especificada",
+  "region": "NA",
+  "activo": "mixto_general",
+  "propone_tipologia": false,
+  "notas": "240 encuestados sin especificar caracter minorista"
+ },
+ {
+  "rid": "R138",
+  "dims": [
+   "D1",
+   "D7"
+  ],
+  "tipo": "encuesta",
+  "poblacion": "minoristas",
+  "region": "Tailandia",
+  "activo": "mixto_general",
+  "propone_tipologia": false,
+  "notas": "Percepcion de riesgo es variable dependiente central"
+ },
+ {
+  "rid": "R140",
+  "dims": [
+   "D1",
+   "D11",
+   "D12",
+   "D14"
+  ],
+  "tipo": "encuesta",
+  "poblacion": "minoristas",
+  "region": "India",
+  "activo": "mixto_general",
+  "propone_tipologia": false,
+  "notas": "Discriminacion de genero como identidad; acceso a informacion moderador"
+ },
+ {
+  "rid": "R141",
+  "dims": [
+   "D3",
+   "D5",
+   "D7",
+   "D12"
+  ],
+  "tipo": "encuesta",
+  "poblacion": "minoristas",
+  "region": "India",
+  "activo": "acciones",
+  "propone_tipologia": false,
+  "notas": "Mercado accionario indio explicito"
+ },
+ {
+  "rid": "R142",
+  "dims": [
+   "D1",
+   "D5"
+  ],
+  "tipo": "encuesta",
+  "poblacion": "mixta_no_especificada",
+  "region": "NA",
+  "activo": "mixto_general",
+  "propone_tipologia": true,
+  "notas": "Elicitacion en cuestionario; propone clasificacion conductual de clientes"
+ },
+ {
+  "rid": "R144",
+  "dims": [
+   "D1",
+   "D6"
+  ],
+  "tipo": "encuesta",
+  "poblacion": "minoristas",
+  "region": "Italia",
+  "activo": "otro",
+  "propone_tipologia": false,
+  "notas": "Prueba efecto framing sobre percepcion de riesgo; productos no accionarios"
+ },
+ {
+  "rid": "R152",
+  "dims": [
+   "D5",
+   "D6"
+  ],
+  "tipo": "experimento",
+  "poblacion": "mixta_no_especificada",
+  "region": "NA",
+  "activo": "acciones",
+  "propone_tipologia": false,
+  "notas": "Inversores Gen Z, no se declaran estudiantes"
+ },
+ {
+  "rid": "R154",
+  "dims": [
+   "D3",
+   "D5",
+   "D6",
+   "D12"
+  ],
+  "tipo": "revision",
+  "poblacion": "minoristas",
+  "region": "NA",
+  "activo": "mixto_general",
+  "propone_tipologia": false,
+  "notas": "Revision centrada explicitamente en inversores individuales"
+ },
+ {
+  "rid": "R156",
+  "dims": [
+   "D1",
+   "D5",
+   "D8"
+  ],
+  "tipo": "revision",
+  "poblacion": "mixta_no_especificada",
+  "region": "NA",
+  "activo": "mixto_general",
+  "propone_tipologia": false,
+  "notas": "Revisa aversion al riesgo, aversion a perdida y paciencia temporal"
+ },
+ {
+  "rid": "R158",
+  "dims": [
+   "D1"
+  ],
+  "tipo": "computacional_ML",
+  "poblacion": "minoristas",
+  "region": "NA",
+  "activo": "fondos",
+  "propone_tipologia": true,
+  "notas": "Metodo cuantitativo de perfilado y optimizacion de carteras ETF"
+ },
+ {
+  "rid": "R160",
+  "dims": [
+   "D1"
+  ],
+  "tipo": "computacional_ML",
+  "poblacion": "mixta_no_especificada",
+  "region": "Indonesia",
+  "activo": "otro",
+  "propone_tipologia": true,
+  "notas": "Datos de sukuk, sin muestra de inversores"
+ },
+ {
+  "rid": "R165",
+  "dims": [
+   "D1"
+  ],
+  "tipo": "computacional_ML",
+  "poblacion": "mixta_no_especificada",
+  "region": "NA",
+  "activo": "mixto_general",
+  "propone_tipologia": true,
+  "notas": "Encuestados sin especificar tipo de inversor"
+ },
+ {
+  "rid": "R166",
+  "dims": [
+   "D1"
+  ],
+  "tipo": "teorico_conceptual",
+  "poblacion": "mixta_no_especificada",
+  "region": "India",
+  "activo": "mixto_general",
+  "propone_tipologia": true,
+  "notas": "Marco sin datos empiricos; propone puntaje de perfil de riesgo"
+ },
+ {
+  "rid": "R169",
+  "dims": [
+   "D3",
+   "D5",
+   "D6",
+   "D12"
+  ],
+  "tipo": "encuesta",
+  "poblacion": "minoristas",
+  "region": "India",
+  "activo": "acciones",
+  "propone_tipologia": false,
+  "notas": "Muestra de inversores bursatiles minoristas"
+ },
+ {
+  "rid": "R172",
+  "dims": [
+   "D1",
+   "D2",
+   "D5"
+  ],
+  "tipo": "encuesta",
+  "poblacion": "minoristas",
+  "region": "Vietnam",
+  "activo": "acciones",
+  "propone_tipologia": false,
+  "notas": "Arrepentimiento incluido; experiencia solo criterio muestral"
+ },
+ {
+  "rid": "R174",
+  "dims": [
+   "D1",
+   "D7",
+   "D11"
+  ],
+  "tipo": "encuesta",
+  "poblacion": "minoristas",
+  "region": "India",
+  "activo": "fondos",
+  "propone_tipologia": false,
+  "notas": "Orientacion de valor social es constructo de valores: D11"
+ },
+ {
+  "rid": "R175",
+  "dims": [
+   "D2",
+   "D3",
+   "D5"
+  ],
+  "tipo": "mixto",
+  "poblacion": "minoristas",
+  "region": "Estados Unidos",
+  "activo": "fondos",
+  "propone_tipologia": false,
+  "notas": "Examina sesgos y efecto sobre alfabetizacion financiera"
+ },
+ {
+  "rid": "R176",
+  "dims": [
+   "D2"
+  ],
+  "tipo": "revision",
+  "poblacion": "minoristas",
+  "region": "NA",
+  "activo": "mixto_general",
+  "propone_tipologia": false,
+  "notas": "Tolerancia al riesgo solo termino de busqueda, no analizada"
+ },
+ {
+  "rid": "R177",
+  "dims": [
+   "D1",
+   "D12"
+  ],
+  "tipo": "teorico_conceptual",
+  "poblacion": "mixta_no_especificada",
+  "region": "China",
+  "activo": "mixto_general",
+  "propone_tipologia": false,
+  "notas": "Sector renovable amplio, no solo acciones"
+ },
+ {
+  "rid": "R180",
+  "dims": [
+   "D5",
+   "D10"
+  ],
+  "tipo": "teorico_conceptual",
+  "poblacion": "mixta_no_especificada",
+  "region": "NA",
+  "activo": "mixto_general",
+  "propone_tipologia": false,
+  "notas": "Cartera generica de activos riesgosos"
+ },
+ {
+  "rid": "R189",
+  "dims": [
+   "D5",
+   "D6",
+   "D7"
+  ],
+  "tipo": "datos_transaccionales",
+  "poblacion": "mixta_no_especificada",
+  "region": "Turquía",
+  "activo": "acciones",
+  "propone_tipologia": false,
+  "notas": "Estudio de eventos con retornos bursatiles reales"
+ },
+ {
+  "rid": "R191",
+  "dims": [
+   "D1"
+  ],
+  "tipo": "experimento",
+  "poblacion": "mixta_no_especificada",
+  "region": "NA",
+  "activo": "mixto_general",
+  "propone_tipologia": false,
+  "notas": "Participantes no descritos como minoristas"
+ },
+ {
+  "rid": "R194",
+  "dims": [
+   "D1",
+   "D3",
+   "D6"
+  ],
+  "tipo": "encuesta",
+  "poblacion": "minoristas",
+  "region": "India",
+  "activo": "mixto_general",
+  "propone_tipologia": false,
+  "notas": "Sesgo cognitivo medido como determinante significativo"
+ },
+ {
+  "rid": "R198",
+  "dims": [
+   "D1",
+   "D2",
+   "D3"
+  ],
+  "tipo": "encuesta",
+  "poblacion": "minoristas",
+  "region": "NA",
+  "activo": "mixto_general",
+  "propone_tipologia": false,
+  "notas": "Decisiones de inversion individuales; pais no identificado"
+ },
+ {
+  "rid": "R199",
+  "dims": [
+   "D1"
+  ],
+  "tipo": "computacional_ML",
+  "poblacion": "mixta_no_especificada",
+  "region": "Malasia",
+  "activo": "acciones",
+  "propone_tipologia": true,
+  "notas": "Modelo difuso con tipos de inversor teoricos, sin muestra"
+ },
+ {
+  "rid": "R202",
+  "dims": [
+   "D1",
+   "D9"
+  ],
+  "tipo": "computacional_ML",
+  "poblacion": "minoristas",
+  "region": "Japón",
+  "activo": "acciones",
+  "propone_tipologia": false,
+  "notas": "Aporte central es el modelo de recomendacion IRAD"
+ },
+ {
+  "rid": "R206",
+  "dims": [
+   "D4",
+   "D6",
+   "D12"
+  ],
+  "tipo": "encuesta",
+  "poblacion": "minoristas",
+  "region": "India",
+  "activo": "mixto_general",
+  "propone_tipologia": false,
+  "notas": "Inversores asalariados individuales: minoristas"
+ },
+ {
+  "rid": "R208",
+  "dims": [
+   "D7"
+  ],
+  "tipo": "encuesta",
+  "poblacion": "mixta_no_especificada",
+  "region": "NA",
+  "activo": "acciones",
+  "propone_tipologia": false,
+  "notas": "Individuos sin especificacion de perfil minorista"
+ },
+ {
+  "rid": "R212",
+  "dims": [
+   "D1",
+   "D2",
+   "D12"
+  ],
+  "tipo": "encuesta",
+  "poblacion": "mixta_no_especificada",
+  "region": "NA",
+  "activo": "mixto_general",
+  "propone_tipologia": false,
+  "notas": "Riesgo de poligamia tratado explicitamente como factor social"
+ },
+ {
+  "rid": "R220",
+  "dims": [
+   "D1"
+  ],
+  "tipo": "encuesta",
+  "poblacion": "minoristas",
+  "region": "India",
+  "activo": "acciones",
+  "propone_tipologia": false,
+  "notas": "Foco explicito en participacion en mercado accionario"
+ },
+ {
+  "rid": "R223",
+  "dims": [
+   "D1",
+   "D6"
+  ],
+  "tipo": "experimento",
+  "poblacion": "minoristas",
+  "region": "NA",
+  "activo": "mixto_general",
+  "propone_tipologia": false,
+  "notas": "Marco temporal del grafico es manipulacion de encuadre"
+ },
+ {
+  "rid": "R224",
+  "dims": [
+   "D1"
+  ],
+  "tipo": "encuesta",
+  "poblacion": "minoristas",
+  "region": "India",
+  "activo": "mixto_general",
+  "propone_tipologia": true,
+  "notas": "Analisis discriminante clasifica inversores por tolerancia al riesgo"
+ },
+ {
+  "rid": "R225",
+  "dims": [
+   "D6"
+  ],
+  "tipo": "mixto",
+  "poblacion": "minoristas",
+  "region": "NA",
+  "activo": "acciones",
+  "propone_tipologia": false,
+  "notas": "Cuestionarios mas algoritmo de fusion: diseno mixto"
+ },
+ {
+  "rid": "R226",
+  "dims": [
+   "D8"
+  ],
+  "tipo": "datos_transaccionales",
+  "poblacion": "mixta_no_especificada",
+  "region": "NA",
+  "activo": "acciones",
+  "propone_tipologia": false,
+  "notas": "Usa tipologia previa fundamentalista/chartista, no la propone"
+ },
+ {
+  "rid": "R227",
+  "dims": [
+   "D7",
+   "D14"
+  ],
+  "tipo": "mixto",
+  "poblacion": "minoristas",
+  "region": "India",
+  "activo": "acciones",
+  "propone_tipologia": false,
+  "notas": "Emociones y sentimientos surgen como tema central del analisis"
+ },
+ {
+  "rid": "R228",
+  "dims": [
+   "D2",
+   "D4",
+   "D9",
+   "D12"
+  ],
+  "tipo": "mixto",
+  "poblacion": "minoristas",
+  "region": "India",
+  "activo": "acciones",
+  "propone_tipologia": true,
+  "notas": "Autoeficacia, literacidad operativa, experiencia propia y de pares"
+ },
+ {
+  "rid": "R230",
+  "dims": [
+   "D3",
+   "D5",
+   "D6",
+   "D9",
+   "D12"
+  ],
+  "tipo": "computacional_ML",
+  "poblacion": "minoristas",
+  "region": "Irán",
+  "activo": "acciones",
+  "propone_tipologia": true,
+  "notas": "Dunning-Kruger=sobreconfianza y bandwagon=manada; cuatro perfiles"
+ },
+ {
+  "rid": "R231",
+  "dims": [
+   "D3",
+   "D5",
+   "D6"
+  ],
+  "tipo": "experimento",
+  "poblacion": "mixta_no_especificada",
+  "region": "Vietnam",
+  "activo": "mixto_general",
+  "propone_tipologia": false,
+  "notas": "Correlación con sobreconfianza examinada explícitamente"
+ },
+ {
+  "rid": "R237",
+  "dims": [
+   "D1",
+   "D7"
+  ],
+  "tipo": "encuesta",
+  "poblacion": "minoristas",
+  "region": "NA",
+  "activo": "mixto_general",
+  "propone_tipologia": false,
+  "notas": "Valida escala, no tipología; predice ansiedad tras pérdida"
+ },
+ {
+  "rid": "R239",
+  "dims": [
+   "D3",
+   "D5",
+   "D6",
+   "D12"
+  ],
+  "tipo": "encuesta",
+  "poblacion": "minoristas",
+  "region": "Indonesia",
+  "activo": "mixto_general",
+  "propone_tipologia": false,
+  "notas": "Resumen no especifica clase de activo"
+ },
+ {
+  "rid": "R241",
+  "dims": [
+   "D1",
+   "D2",
+   "D12"
+  ],
+  "tipo": "encuesta",
+  "poblacion": "minoristas",
+  "region": "Indonesia",
+  "activo": "fondos",
+  "propone_tipologia": false,
+  "notas": "Normas subjetivas del TPB equivalen a influencia social"
+ },
+ {
+  "rid": "R242",
+  "dims": [
+   "D5",
+   "D6"
+  ],
+  "tipo": "datos_transaccionales",
+  "poblacion": "mixta_no_especificada",
+  "region": "India",
+  "activo": "acciones",
+  "propone_tipologia": false,
+  "notas": "Datos de panel firma-nivel; inversores no especificados"
+ },
+ {
+  "rid": "R243",
+  "dims": [
+   "D3",
+   "D5",
+   "D6"
+  ],
+  "tipo": "encuesta",
+  "poblacion": "minoristas",
+  "region": "India",
+  "activo": "acciones",
+  "propone_tipologia": true,
+  "notas": "Sobreconfianza medida explícitamente; perfiles de personalidad"
+ },
+ {
+  "rid": "R244",
+  "dims": [
+   "D1"
+  ],
+  "tipo": "computacional_ML",
+  "poblacion": "mixta_no_especificada",
+  "region": "Turquía",
+  "activo": "mixto_general",
+  "propone_tipologia": true,
+  "notas": "Muestra de estudiantes y personal; clasificación en tres perfiles"
+ },
+ {
+  "rid": "R246",
+  "dims": [
+   "D1"
+  ],
+  "tipo": "encuesta",
+  "poblacion": "minoristas",
+  "region": "Zona Euro (16 países)",
+  "activo": "mixto_general",
+  "propone_tipologia": true,
+  "notas": "Taxonomía jerárquica de perfiles de hogares inconsistentes"
+ },
+ {
+  "rid": "R247",
+  "dims": [
+   "D3",
+   "D5",
+   "D6",
+   "D12"
+  ],
+  "tipo": "encuesta",
+  "poblacion": "minoristas",
+  "region": "India",
+  "activo": "acciones",
+  "propone_tipologia": false,
+  "notas": "Encuesta con AHP difuso como técnica de análisis"
+ },
+ {
+  "rid": "R251",
+  "dims": [
+   "D3",
+   "D5",
+   "D6",
+   "D7"
+  ],
+  "tipo": "revision",
+  "poblacion": "mixta_no_especificada",
+  "region": "India",
+  "activo": "mixto_general",
+  "propone_tipologia": false,
+  "notas": "Revisión sin población empírica especificada"
+ },
+ {
+  "rid": "R254",
+  "dims": [
+   "D1"
+  ],
+  "tipo": "experimento",
+  "poblacion": "mixta_no_especificada",
+  "region": "NA",
+  "activo": "mixto_general",
+  "propone_tipologia": false,
+  "notas": "Individuos con interés financiero, no minoristas confirmados"
+ },
+ {
+  "rid": "R255",
+  "dims": [
+   "D1"
+  ],
+  "tipo": "encuesta",
+  "poblacion": "minoristas",
+  "region": "India",
+  "activo": "mixto_general",
+  "propone_tipologia": true,
+  "notas": "Modelo discriminante clasifica inversores por tolerancia al riesgo"
+ },
+ {
+  "rid": "R257",
+  "dims": [
+   "D1",
+   "D8"
+  ],
+  "tipo": "encuesta",
+  "poblacion": "profesionales_asesores",
+  "region": "NA",
+  "activo": "mixto_general",
+  "propone_tipologia": false,
+  "notas": "Escenarios idénticos sin manipulación; regla 100-menos-edad"
+ },
+ {
+  "rid": "R259",
+  "dims": [
+   "D1",
+   "D5"
+  ],
+  "tipo": "experimento",
+  "poblacion": "mixta_no_especificada",
+  "region": "NA",
+  "activo": "mixto_general",
+  "propone_tipologia": true,
+  "notas": "Compara y valida paradigmas de perfil de riesgo del inversor"
+ },
+ {
+  "rid": "R264",
+  "dims": [
+   "D1"
+  ],
+  "tipo": "encuesta",
+  "poblacion": "minoristas",
+  "region": "India",
+  "activo": "mixto_general",
+  "propone_tipologia": false,
+  "notas": "Hallazgos sobre patrón general de inversión y ahorro"
+ },
+ {
+  "rid": "R269",
+  "dims": [
+   "D1",
+   "D5",
+   "D6",
+   "D14"
+  ],
+  "tipo": "revision",
+  "poblacion": "minoristas",
+  "region": "NA",
+  "activo": "mixto_general",
+  "propone_tipologia": false,
+  "notas": "Antecedentes: teoría prospectiva, sesgos, riesgo, plataformas digitales"
+ },
+ {
+  "rid": "R271",
+  "dims": [
+   "D1",
+   "D2",
+   "D3"
+  ],
+  "tipo": "encuesta",
+  "poblacion": "minoristas",
+  "region": "Estados Unidos",
+  "activo": "mixto_general",
+  "propone_tipologia": false,
+  "notas": "Compra de valores en margen, sin clase de activo específica"
+ },
+ {
+  "rid": "R272",
+  "dims": [
+   "D1"
+  ],
+  "tipo": "encuesta",
+  "poblacion": "minoristas",
+  "region": "Sudáfrica",
+  "activo": "mixto_general",
+  "propone_tipologia": true,
+  "notas": "Modelo SEM para perfilar inversoras según rasgos y riesgo"
+ },
+ {
+  "rid": "R274",
+  "dims": [
+   "D1",
+   "D7"
+  ],
+  "tipo": "revision",
+  "poblacion": "mixta_no_especificada",
+  "region": "NA",
+  "activo": "mixto_general",
+  "propone_tipologia": false,
+  "notas": "Las emociones influyen en la valoración del riesgo"
+ },
+ {
+  "rid": "R275",
+  "dims": [
+   "D5"
+  ],
+  "tipo": "datos_transaccionales",
+  "poblacion": "mixta_no_especificada",
+  "region": "NA",
+  "activo": "cripto",
+  "propone_tipologia": false,
+  "notas": "Foco central en criptoactivos y riesgo prospectivo"
+ },
+ {
+  "rid": "R277",
+  "dims": [
+   "D1"
+  ],
+  "tipo": "computacional_ML",
+  "poblacion": "mixta_no_especificada",
+  "region": "China",
+  "activo": "mixto_general",
+  "propone_tipologia": false,
+  "notas": "Modelo de optimización, no tipología empírica de inversores"
+ },
+ {
+  "rid": "R278",
+  "dims": [
+   "D6",
+   "D9"
+  ],
+  "tipo": "datos_transaccionales",
+  "poblacion": "minoristas",
+  "region": "NA",
+  "activo": "otro",
+  "propone_tipologia": false,
+  "notas": "Default shock bias es sesgo cognitivo; experiencia analizada"
+ },
+ {
+  "rid": "R282",
+  "dims": [
+   "D3",
+   "D5",
+   "D6",
+   "D12"
+  ],
+  "tipo": "mixto",
+  "poblacion": "minoristas",
+  "region": "Pakistán",
+  "activo": "acciones",
+  "propone_tipologia": false,
+  "notas": "Foco en inversores individuales de la PSX"
+ },
+ {
+  "rid": "R284",
+  "dims": [
+   "D1",
+   "D3"
+  ],
+  "tipo": "encuesta",
+  "poblacion": "minoristas",
+  "region": "Japón",
+  "activo": "mixto_general",
+  "propone_tipologia": false,
+  "notas": "Alfabetización no examinada como dimensión propia"
+ },
+ {
+  "rid": "R293",
+  "dims": [
+   "D7"
+  ],
+  "tipo": "datos_transaccionales",
+  "poblacion": "minoristas",
+  "region": "NA",
+  "activo": "acciones",
+  "propone_tipologia": false,
+  "notas": "Mide compras netas de inversores individuales"
+ },
+ {
+  "rid": "R295",
+  "dims": [
+   "D1",
+   "D2",
+   "D9"
+  ],
+  "tipo": "teorico_conceptual",
+  "poblacion": "mixta_no_especificada",
+  "region": "NA",
+  "activo": "mixto_general",
+  "propone_tipologia": false,
+  "notas": "Modela heterogeneidad, no propone tipología validada"
+ },
+ {
+  "rid": "R300",
+  "dims": [
+   "D1"
+  ],
+  "tipo": "datos_transaccionales",
+  "poblacion": "mixta_no_especificada",
+  "region": "China",
+  "activo": "acciones",
+  "propone_tipologia": false,
+  "notas": "El resumen no identifica a los inversores como minoristas"
+ },
+ {
+  "rid": "R302",
+  "dims": [
+   "D1"
+  ],
+  "tipo": "datos_transaccionales",
+  "poblacion": "mixta_no_especificada",
+  "region": "NA",
+  "activo": "mixto_general",
+  "propone_tipologia": false,
+  "notas": "Sentimiento agregado de mercado, no emoción individual"
+ },
+ {
+  "rid": "R303",
+  "dims": [
+   "D1",
+   "D5"
+  ],
+  "tipo": "encuesta",
+  "poblacion": "minoristas",
+  "region": "India",
+  "activo": "acciones",
+  "propone_tipologia": false,
+  "notas": "Evalúa aversión al riesgo y a la pérdida en inversores"
+ },
+ {
+  "rid": "R304",
+  "dims": [
+   "D2",
+   "D6"
+  ],
+  "tipo": "mixto",
+  "poblacion": "minoristas",
+  "region": "NA",
+  "activo": "mixto_general",
+  "propone_tipologia": false,
+  "notas": "El resumen declara enfoque de método mixto"
+ },
+ {
+  "rid": "R307",
+  "dims": [
+   "D6"
+  ],
+  "tipo": "revision",
+  "poblacion": "mixta_no_especificada",
+  "region": "NA",
+  "activo": "mixto_general",
+  "propone_tipologia": false,
+  "notas": "Revisa sustantivamente sesgos cognitivos genéricos"
+ },
+ {
+  "rid": "R309",
+  "dims": [
+   "D5",
+   "D6",
+   "D12"
+  ],
+  "tipo": "computacional_ML",
+  "poblacion": "mixta_no_especificada",
+  "region": "NA",
+  "activo": "acciones",
+  "propone_tipologia": false,
+  "notas": "Interacción en red entre agentes sesgados"
+ },
+ {
+  "rid": "R310",
+  "dims": [
+   "D5"
+  ],
+  "tipo": "computacional_ML",
+  "poblacion": "mixta_no_especificada",
+  "region": "NA",
+  "activo": "mixto_general",
+  "propone_tipologia": false,
+  "notas": "Optimización con precios de mercado, no datos transaccionales"
+ },
+ {
+  "rid": "R312",
+  "dims": [
+   "D6",
+   "D7"
+  ],
+  "tipo": "datos_transaccionales",
+  "poblacion": "minoristas",
+  "region": "China",
+  "activo": "fondos",
+  "propone_tipologia": false,
+  "notas": "Saliencia es sesgo cognitivo; además sentimiento inversor"
+ },
+ {
+  "rid": "R317",
+  "dims": [
+   "D1",
+   "D3",
+   "D6",
+   "D12"
+  ],
+  "tipo": "encuesta",
+  "poblacion": "mixta_no_especificada",
+  "region": "NA",
+  "activo": "acciones",
+  "propone_tipologia": false,
+  "notas": "Académicos como inversores, no asesores profesionales"
+ },
+ {
+  "rid": "R319",
+  "dims": [
+   "D1",
+   "D5",
+   "D6",
+   "D12"
+  ],
+  "tipo": "encuesta",
+  "poblacion": "minoristas",
+  "region": "NA",
+  "activo": "mixto_general",
+  "propone_tipologia": false,
+  "notas": "Heurísticas incluidas como dimensión significativa"
+ },
+ {
+  "rid": "R321",
+  "dims": [
+   "D1",
+   "D14"
+  ],
+  "tipo": "teorico_conceptual",
+  "poblacion": "mixta_no_especificada",
+  "region": "NA",
+  "activo": "mixto_general",
+  "propone_tipologia": false,
+  "notas": "Sin método empírico descrito; comunicación financiera como información"
+ },
+ {
+  "rid": "R322",
+  "dims": [
+   "D1",
+   "D3",
+   "D5",
+   "D11"
+  ],
+  "tipo": "mixto",
+  "poblacion": "minoristas",
+  "region": "Marruecos",
+  "activo": "acciones",
+  "propone_tipologia": false,
+  "notas": "Modelo psicológico contextual, no clasificación de inversores"
+ },
+ {
+  "rid": "R324",
+  "dims": [
+   "D1",
+   "D3"
+  ],
+  "tipo": "mixto",
+  "poblacion": "minoristas",
+  "region": "India",
+  "activo": "mixto_general",
+  "propone_tipologia": false,
+  "notas": "Sesgo de optimismo codificado en familia de exceso de confianza"
+ },
+ {
+  "rid": "R325",
+  "dims": [
+   "D1"
+  ],
+  "tipo": "encuesta",
+  "poblacion": "minoristas",
+  "region": "India",
+  "activo": "acciones",
+  "propone_tipologia": false,
+  "notas": "Encuesta; la red neuronal es solo técnica de análisis"
+ },
+ {
+  "rid": "R326",
+  "dims": [
+   "D1",
+   "D6"
+  ],
+  "tipo": "experimento",
+  "poblacion": "mixta_no_especificada",
+  "region": "NA",
+  "activo": "mixto_general",
+  "propone_tipologia": false,
+  "notas": "Tangibilidad es sesgo cognitivo además de percepción de riesgo"
+ },
+ {
+  "rid": "R327",
+  "dims": [
+   "D7",
+   "D1",
+   "D3"
+  ],
+  "tipo": "encuesta",
+  "poblacion": "minoristas",
+  "region": "NA",
+  "activo": "otro",
+  "propone_tipologia": false,
+  "notas": "Sesgo de optimismo asimilado a exceso de confianza"
+ },
+ {
+  "rid": "R332",
+  "dims": [
+   "D1"
+  ],
+  "tipo": "computacional_ML",
+  "poblacion": "mixta_no_especificada",
+  "region": "NA",
+  "activo": "acciones",
+  "propone_tipologia": false,
+  "notas": "Optimización de carteras por nivel de aversión al riesgo"
+ },
+ {
+  "rid": "R334",
+  "dims": [
+   "D4"
+  ],
+  "tipo": "encuesta",
+  "poblacion": "minoristas",
+  "region": "NA",
+  "activo": "acciones",
+  "propone_tipologia": false,
+  "notas": "Tolerancia al riesgo solo en implicaciones, no examinada"
+ },
+ {
+  "rid": "R336",
+  "dims": [
+   "D2",
+   "D14"
+  ],
+  "tipo": "revision",
+  "poblacion": "mixta_no_especificada",
+  "region": "NA",
+  "activo": "mixto_general",
+  "propone_tipologia": false,
+  "notas": "IA y robo-advisory como información/tecnología"
+ },
+ {
+  "rid": "R339",
+  "dims": [
+   "D1",
+   "D5"
+  ],
+  "tipo": "encuesta",
+  "poblacion": "mixta_no_especificada",
+  "region": "NA",
+  "activo": "mixto_general",
+  "propone_tipologia": false,
+  "notas": "Examina aversión al riesgo general y aversión a la pérdida"
+ },
+ {
+  "rid": "R340",
+  "dims": [
+   "D7",
+   "D12",
+   "D13"
+  ],
+  "tipo": "computacional_ML",
+  "poblacion": "mixta_no_especificada",
+  "region": "China",
+  "activo": "acciones",
+  "propone_tipologia": false,
+  "notas": "Moods de microblog e influencia social, no cobertura mediática"
+ },
+ {
+  "rid": "R341",
+  "dims": [
+   "D5"
+  ],
+  "tipo": "datos_transaccionales",
+  "poblacion": "mixta_no_especificada",
+  "region": "NA",
+  "activo": "acciones",
+  "propone_tipologia": false,
+  "notas": "Tipo de vendedor en corto no especificado en el resumen"
+ }
+]

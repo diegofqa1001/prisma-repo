@@ -1,0 +1,15 @@
+codigo,dimension,dominio,n_resumenes,pct,kappa_AB,acuerdo_AB,decision,justificacion
+D1,Tolerancia / percepción del riesgo,Cognitivo,189,55.1,0.924,0.962,Retenida,
+D2,Alfabetización financiera,Cognitivo,58,16.9,0.947,0.985,Descartada,"Subsumida en D4 (confianza en aplicar el conocimiento, no conocimiento declarativo)"
+D3,Exceso de confianza,Cognitivo,98,28.6,0.934,0.974,Descartada,Solapamiento conceptual con D4 (confianza) y con D1 (co-ocurre en 32 de 98 resúmenes)
+D4,Autoeficacia financiera,Contextual-situacional,9,2.6,0.872,0.994,Retenida,
+D5,Aversión a la pérdida / teoría prospectiva,Emocional-afectivo,153,44.6,0.959,0.98,Retenida,
+D6,"Otros sesgos cognitivos (anclaje, disposición, etc.)",Cognitivo,102,29.7,0.874,0.95,Descartada,Demasiado amplia para un eje único; co-ocurre con D5 en 72 de 102 resúmenes
+D7,Emociones y regulación emocional,Emocional-afectivo,48,14.0,0.849,0.965,Retenida,
+D8,Horizonte de inversión,Contextual-situacional,12,3.5,0.853,0.991,Retenida,
+D9,Experiencia inversora,Contextual-situacional,13,3.8,0.914,0.994,Descartada,Correlaciona con horizonte y autoeficacia; escasa operacionalizabilidad como eje
+D10,Tolerancia a la ambigüedad,Cognitivo,6,1.7,0.922,0.997,Retenida,
+D11,Valores culturales / identidad,Sociocultural-identitario,14,4.1,0.807,0.985,Descartada,Integrada en D12
+D12,Influencia social percibida / manada,Sociocultural-identitario,96,28.0,0.949,0.98,Retenida,
+D13,Redes sociales y pares,Sociocultural-identitario,7,2.0,0.765,0.991,Descartada,Integrada en D12 (co-ocurre con D12 en 6 de 7)
+D14,Susceptibilidad mediática / información,Sociocultural-identitario,21,6.1,0.764,0.98,Descartada,Integrada en D12 (co-ocurre con D12 en 9 de 21)
