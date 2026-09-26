@@ -4,9 +4,10 @@ Repositorio de soporte para la revisión sistemática (PRISMA 2020) que sustenta
 taxonomía de perfiles de riesgo conductual propuesta en la tesis doctoral
 *"Modelo adaptativo de recomendación para el diseño de portafolios de inversión
 en renta variable bajo incertidumbre, mediante el operador OWA y perfiles
-conductuales de riesgo"*. Contiene la ecuación de búsqueda, los exports crudos
-de Scopus y Web of Science, el proceso de deduplicación y resolución de DOI, y
-el primer conteo auditable del diagrama de flujo PRISMA.
+conductuales de riesgo"*. Contiene la ecuación de búsqueda, los metadatos
+bibliográficos de identificación de los registros de Scopus y Web of Science,
+el proceso de deduplicación y resolución de DOI, las decisiones de cribado, la
+síntesis temática y el diagrama de flujo PRISMA.
 
 Se publica para que cualquier persona — director de tesis, jurado, par evaluador,
 lector— pueda reproducir la búsqueda y verificar cada número reportado en el
@@ -71,19 +72,38 @@ se derivan las siete dimensiones retenidas en el Capítulo 3 de la tesis
 revisor humano (fase de elegibilidad de PRISMA 2020) sigue pendiente y se
 declara como tal en la tesis y en la Figura 3.4 (`08-sintesis/fig_3_4_prisma_flujo.png`).
 
+## Qué no se publica, y por qué
+
+Los exports crudos de Scopus y Web of Science y los resúmenes de los
+registros no se redistribuyen: los términos de uso de Elsevier y Clarivate
+Analytics restringen la redistribución de exports masivos, y los resúmenes son
+contenido protegido por derechos de los editores. Es el mismo criterio que
+aplica el repositorio `capitulo2-cienciometria`. Se publican, en cambio, los
+metadatos bibliográficos de identificación de cada registro (título, autores,
+fuente, año, DOI con enlace `https://doi.org/`, identificador WoS) y todas las
+decisiones propias del proceso (deduplicación, resolución y verificación de
+DOI, cribado título/resumen, codificación y adjudicación de la síntesis). Los
+pasos que leen los exports o los resúmenes (1, 2, 3 y 5 de «Cómo reproducir»)
+requieren que el lector obtenga sus propios exports con acceso institucional
+y los coloque en `02-exports-crudos/` y `06-abstracts/` con los nombres de
+archivo que usan los scripts; el cribado (paso 6) y la extracción de
+resúmenes de Scopus son procedimientos manuales documentados en
+`07-cribado/metodologia.md` y `06-abstracts/metodologia.md`, cuyo resultado
+congelado es `07-cribado/resultados-cribado.csv`.
+
 ## Estructura
 
 ```
 01-protocolo-busqueda/   Ecuaciones de búsqueda exactas y fecha de ejecución
-02-exports-crudos/       Exports originales de Scopus y WoS, sin modificar
+02-exports-crudos/       Método de extracción (los exports crudos no se redistribuyen)
 03-deduplicacion/        Script y metodología de deduplicación cruzada
 04-resolucion-doi/       Script y resultados de resolución de DOI vía Crossref
 05-diagrama-flujo/       Diagrama de flujo PRISMA y conteos
-06-abstracts/            Abstracts (Scopus + WoS) + análisis exploratorio mínimo
+06-abstracts/            Metodología de extracción de resúmenes y análisis exploratorio (los resúmenes no se redistribuyen)
 07-cribado/              Criterios de cribado y resultados título/resumen (preliminar, IA)
 08-sintesis/             Síntesis temática de los 343 incluidos: libro de códigos, doble codificación, Kappa, adjudicación, matriz de evidencia, Figura 3.4
 scripts/                 Copia consolidada de todos los scripts (reproducibilidad)
-PRISMA_master_final.csv  Lista maestra: 560 registros, con DOI, abstract, procedencia y cribado
+PRISMA_master_final.csv  Lista maestra: 560 registros, con metadatos de identificación, DOI, procedencia y cribado
 ```
 
 ## Cómo reproducir
@@ -91,7 +111,8 @@ PRISMA_master_final.csv  Lista maestra: 560 registros, con DOI, abstract, proced
 1. **Búsqueda**: ejecutar las ecuaciones de `01-protocolo-busqueda/ecuaciones-busqueda.md`
    en Scopus y Web of Science Core Collection (requiere acceso institucional).
 2. **Export**: descargar resultados completos (todos los campos, todo el rango).
-   Los exports usados en esta versión están en `02-exports-crudos/`.
+   Los exports no se redistribuyen (ver «Qué no se publica»): colóquelos en
+   `02-exports-crudos/` con los nombres de archivo que leen los scripts.
 3. **Deduplicación**: `python3 scripts/dedup.py` reproduce `PRISMA_master_final.csv`
    a partir de los exports crudos.
 4. **Resolución de DOI**: `python3 scripts/resolve_dois.py` consulta la API pública
@@ -142,8 +163,9 @@ diferencias menores de formato. Detalle completo en
 - La extracción de abstracts y DOI nativo **de Scopus** (`06-abstracts/`)
   no es reproducible por script como el resto del pipeline: se hizo
   leyendo el DOM de la interfaz de Scopus con automatización de
-  navegador, no vía una API. El archivo `scopus_438_abstracts.json` es la
-  evidencia congelada de esa extracción. Los abstracts de WoS sí son
+  navegador, no vía una API. El archivo resultante (`scopus_438_abstracts.json`)
+  no se redistribuye; la columna `abstract_source` de
+  `PRISMA_master_final.csv` registra la procedencia del resumen de cada registro. Los abstracts de WoS sí son
   reproducibles por script (`scripts/extract_wos_abstracts.py`), porque
   vienen incluidos en el export `.bib` estándar.
 - 11 registros (2.0 %) tienen discrepancia entre el DOI resuelto por
@@ -159,6 +181,9 @@ diferencias menores de formato. Detalle completo en
   detectó y cómo se corrigió está documentado en
   `06-abstracts/metodologia.md` (sección "Bug de alineación detectado y
   corregido") por transparencia metodológica.
+- Al re-ejecutar los scripts con exports propios, `PRISMA_master_final.csv`
+  vuelve a incluir las columnas `abstract` y `scopusUrl`; esa versión local no
+  debe publicarse.
 - **El cribado título/resumen (`07-cribado/`) es preliminar**: fue
   ejecutado por IA (8 lotes de 70 registros, cada uno con los mismos
   criterios formales), no por dos revisores humanos independientes. Los 48
