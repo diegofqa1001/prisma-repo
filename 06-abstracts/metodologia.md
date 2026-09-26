@@ -99,10 +99,10 @@ const doiUrl = captured;
 window.open = origOpen;
 ```
 
-Las URL capturadas tienen la forma
-`https://doi.unalproxy.elogim.com/10.xxxx/...` (resolución vía el proxy
-institucional). El DOI nativo se obtiene quitando el prefijo del dominio
-proxy (todo lo anterior a `.com/`).
+Las URL capturadas apuntaban al resolvedor de DOI a través del proxy
+institucional; el DOI nativo se obtuvo quitando el prefijo del dominio del
+proxy. En los archivos publicados los enlaces se expresan con el resolvedor
+público `https://doi.org/`.
 
 **Propósito de esta extracción:** verificación cruzada, no reemplazo. El
 DOI nativo de Scopus se agrega como columna adicional (`doi_native_scopus`
