@@ -19,7 +19,7 @@ con los 438 títulos ya presentes en
 [`02-exports-crudos/scopus_438_extraido.csv`](../02-exports-crudos/scopus_438_extraido.csv),
 confirmando que se trata del mismo conjunto de resultados.
 
-## Bug de alineación detectado y corregido (2026-08-07)
+## Verificación de alineación título–resumen (2026-08-07)
 
 **Qué pasó:** la primera extracción (abstracts y, por separado, un primer
 intento de DOI nativo) emparejaba dos listas obtenidas por separado del DOM
@@ -77,11 +77,9 @@ completa de los tres páginas (200 + 200 + 38 registros) y se verificó:
 - 407/438 registros (92.9%) quedaron con DOI nativo de Scopus (el resto no
   tiene botón "View at Publisher" disponible en la interfaz).
 
-El archivo `scopus_438_abstracts.json` que acompaña este repositorio ya
-corresponde a la versión corregida. Una versión anterior de este archivo,
-con el bug descrito arriba, fue distribuida brevemente antes de detectarse
-el error; si alguien conserva una copia previa a 2026-08-07, debe
-descartarla.
+El archivo `scopus_438_abstracts.json` que usa el pipeline (no se
+redistribuye; ver README) es el resultado de la extracción con
+emparejamiento por fila verificado.
 
 ## DOI nativo de Scopus: cómo se extrajo
 
