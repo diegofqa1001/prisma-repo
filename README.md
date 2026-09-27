@@ -10,21 +10,16 @@ el proceso de deduplicación y resolución de DOI, las decisiones de cribado, la
 síntesis temática y el diagrama de flujo PRISMA.
 
 Se publica para que cualquier persona — director de tesis, jurado, par evaluador,
-lector— pueda reproducir la búsqueda y verificar cada número reportado en el
-capítulo metodológico, sin tener que confiar en la palabra de nadie.
+lector— pueda repetir la búsqueda y verificar cada número reportado en el
+capítulo metodológico.
 
 ## Por qué existe este repositorio
 
-Una revisión anterior asociada a este proyecto
-fue rechazada tras detectarse que 32 de 47 referencias citadas no existían o tenían
-metadatos inventados. Ese hallazgo obligó a reconstruir desde cero, con evidencia
-verificable en cada paso, el corpus bibliográfico que sustenta la taxonomía de
-perfiles de riesgo conductual de la tesis. Este repositorio es esa reconstrucción.
-
-Todo dato aquí es trazable a su fuente: cada registro tiene su DOI (resuelto contra
+Documenta de forma verificable cada paso de la revisión sistemática que
+sustenta el Capítulo 3 de la tesis: cada registro tiene su DOI (resuelto contra
 Crossref cuando la base de datos de origen no lo entregaba), cada script es
-ejecutable, y cada número del diagrama de flujo se puede recalcular desde los
-archivos crudos.
+ejecutable, y cada número del diagrama de flujo se recalcula desde
+`PRISMA_master_final.csv` (Figura 3.4: `python3 08-sintesis/fig_3_4_prisma_flujo.py`).
 
 ## Estado actual (2026-08-16)
 
@@ -42,24 +37,22 @@ archivos crudos.
 | DOI nativo vs. DOI resuelto: coinciden (`MATCH`) | 373 (66.6 %) |
 | DOI nativo vs. DOI resuelto: discrepancia (`MISMATCH`, revisión manual) | 11 (2.0 %) |
 | Cribado título/resumen — incluidos (provisional) | 343 (61.3 %) |
-| Cribado título/resumen — excluidos (161 criterio + 48 inciertos + 10 validación) | 217 (38.8 %) |
+| Cribado título/resumen — excluidos (161 por criterio + 48 inciertos + 8 incluidos que pasaron a excluidos tras la validación) | 217 (38.8 %) |
 | Validación por muestreo del cribado (Kappa de Cohen, IA-IA) | 0.799 ("sustancial") |
 | Síntesis temática a nivel de resumen (`08-sintesis/`, 2026-09-02) — registros codificados | 343 |
 | Dimensiones candidatas codificadas → retenidas | 14 → 7 |
 | Acuerdo entre codificadores por dimensión (Kappa de Cohen, doble pasada) | 0.76–0.96 (149 adjudicaciones) |
 
-El cribado título/resumen (ver `07-cribado/`) ya se ejecutó, los 48 casos
-que la IA marcó inciertos fueron resueltos por el autor de la tesis
-(decisión: excluir por precaución), y se validó con una segunda pasada
-ciega e independiente sobre una muestra del 20% (Kappa de Cohen = 0.799,
-acuerdo "sustancial" — ver `07-cribado/validacion.md`), resolviendo los 10
-desacuerdos encontrados con la misma regla de precaución. Los 343
-incluidos siguen siendo **provisionales**: la validación mide consistencia
-IA-IA, no reemplaza la doble revisión humana independiente que exige
-PRISMA 2020. Se recomienda que el autor revise una submuestra humana antes
-de reportar el número en el capítulo metodológico — ver
-`07-cribado/metodologia.md` y `07-cribado/validacion.md` para el detalle
-completo.
+El cribado título/resumen (ver `07-cribado/`) se ejecutó con asistencia de
+modelos de lenguaje: una primera pasada sobre los 560 registros y una segunda
+pasada ciega e independiente sobre una muestra estratificada del 20 % (102 de
+los 512 que la primera pasada decidió; Kappa de Cohen = 0.799, acuerdo
+"sustancial" — ver `07-cribado/validacion.md`). El autor de la tesis resolvió
+los 58 casos dudosos (48 inciertos y 10 desacuerdos) con una regla de
+precaución (excluir). Las 502 decisiones automáticas restantes (92 de ellas
+confirmadas por la segunda pasada) quedan **provisionales** hasta una
+verificación humana por submuestra: la validación mide consistencia IA-IA y
+no sustituye la doble revisión humana independiente que exige PRISMA 2020.
 
 **Actualización 2026-09-02 — síntesis temática ejecutada.** La fase de
 extracción y síntesis sobre los 343 registros incluidos ya se ejecutó a nivel
@@ -174,13 +167,10 @@ diferencias menores de formato. Detalle completo en
   Crossref había resuelto a una versión preprint (SSRN) en vez de la
   versión publicada. Quedan marcados para revisión manual antes de la
   redacción de la bibliografía — ver `06-abstracts/metodologia.md`.
-- Una versión anterior de la extracción de abstracts (commit `db0b492`)
-  tenía un error de alineación que asociaba el abstract de cada registro
-  con el título equivocado en 429 de los 438 casos. Fue detectado y
-  corregido antes de esta versión; el detalle completo del bug, cómo se
-  detectó y cómo se corrigió está documentado en
-  `06-abstracts/metodologia.md` (sección "Bug de alineación detectado y
-  corregido") por transparencia metodológica.
+- La extracción de abstracts de Scopus empareja título y resumen por fila
+  del DOM y se verificó registro por registro (438/438 títulos coincidentes);
+  el procedimiento está en `06-abstracts/metodologia.md` (sección
+  "Verificación de alineación título–resumen").
 - Al re-ejecutar los scripts con exports propios, `PRISMA_master_final.csv`
   vuelve a incluir las columnas `abstract` y `scopusUrl`; esa versión local no
   debe publicarse.
@@ -195,10 +185,10 @@ diferencias menores de formato. Detalle completo en
   acuerdo "sustancial"), resolviendo los 10 desacuerdos con la misma
   regla de precaución. La clasificación original de la IA se conserva sin
   sobrescribir (columna `cribado_decision_ia` en `PRISMA_master_final.csv`;
-  la decisión operativa está en `cribado_decision_final`). Sigue
-  recomendándose que el autor revise una submuestra humana de los 454
-  registros donde ambas pasadas de IA coincidieron, antes de citar estos
-  números en el capítulo metodológico. Ver `07-cribado/metodologia.md` y
+  la decisión operativa está en `cribado_decision_final`). Las 502
+  decisiones automáticas sin revisión humana (410 con una sola pasada y 92
+  confirmadas por la segunda) quedan provisionales hasta una verificación
+  humana por submuestra. Ver `07-cribado/metodologia.md` y
   `07-cribado/validacion.md`.
 
 ## Licencia
