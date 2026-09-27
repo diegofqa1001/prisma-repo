@@ -21,7 +21,7 @@ flowchart TD
     C --> D["Duplicados eliminados\n(cruce Scopus × WoS, título normalizado + difuso)\n(n = 167)"]
     C --> E["Registros únicos para cribado\ntítulo/resumen\n(n = 560)"]
     D -.-> E
-    E --> F["Excluidos en cribado título/resumen\n(161 por criterio + 48 inciertos + 10 de\nvalidacion, todos resueltos EXCLUDE)\n(n = 217)"]
+    E --> F["Excluidos en cribado título/resumen\n(161 por criterio + 48 inciertos + 8 incluidos\nque pasaron a excluidos tras la validación)\n(n = 217)"]
     E --> G["Incluidos (provisional)\n(n = 343)"]
     G --> H["Evaluación texto completo\n(PENDIENTE)"]
     H --> I["Estudios incluidos en la síntesis\n(PENDIENTE)"]
@@ -41,7 +41,7 @@ flowchart TD
 | **Únicos para cribado** | **560** | `PRISMA_master_final.csv` |
 | Excluidos en cribado título/resumen por criterio (IA, primera pasada) | 161 (28.8%) | `07-cribado/resultados-cribado.csv` |
 | Inciertos (IA), resueltos EXCLUDE por el autor | 48 (8.6%) | `07-cribado/resultados-cribado.csv` (columna `resolucion`) |
-| Desacuerdos IA-IA en validación por muestreo, resueltos EXCLUDE | 10 (de una muestra de 102) | `07-cribado/validacion.md` |
+| Desacuerdos IA-IA en validación por muestreo, resueltos EXCLUDE | 10 (de una muestra de 102): 8 eran INCLUDE en la primera pasada y 2 ya eran EXCLUDE, de modo que suman 8 excluidos nuevos | `07-cribado/validacion.md` |
 | **Excluidos, total (decisión final)** | **217 (38.8%)** | `cribado_decision_final` en `PRISMA_master_final.csv` |
 | **Incluidos (decisión final, provisional)** | **343 (61.3%)** | `cribado_decision_final` en `PRISMA_master_final.csv` |
 | Evaluados a texto completo | — | pendiente |
@@ -72,12 +72,13 @@ documenta el motivo de cada ajuste — por si en una fase posterior conviene
 reconsiderar alguno de estos 58 registros (48 + 10) que requirieron
 resolución.
 
-**Importante:** el conteo de incluidos (343) sigue siendo **preliminar**:
-la validación hecha (Kappa 0.799) mide consistencia IA-IA, no reemplaza
-una revisión humana independiente como exige el estándar PRISMA. Se
-recomienda que el autor de la tesis revise al menos una submuestra humana
-antes de citar este número en el capítulo metodológico — ver
-`07-cribado/metodologia.md` y `07-cribado/validacion.md`.
+**Importante:** el conteo de incluidos (343) es **provisional**: la
+validación hecha (Kappa 0.799) mide consistencia IA-IA y no sustituye una
+revisión humana independiente como exige el estándar PRISMA; las 502
+decisiones automáticas quedan pendientes de verificación humana por
+submuestra — ver `07-cribado/metodologia.md` y `07-cribado/validacion.md`.
+La Figura 3.4 de la tesis (flujo completo con la síntesis) se genera con
+`python3 08-sintesis/fig_3_4_prisma_flujo.py`.
 
 Todo número de identificación/deduplicación es recalculable ejecutando
 `scripts/dedup.py` sobre los archivos de `02-exports-crudos/`. Los conteos
