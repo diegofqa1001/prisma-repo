@@ -54,7 +54,7 @@ con la misma regla de precaución. Ver el detalle completo en
 | Decisión final | n | % |
 |---|---|---|
 | INCLUDE (provisional) | 343 | 61.3% |
-| EXCLUDE (161 por criterio + 48 por inciertos + 10 por validación) | 217 | 38.8% |
+| EXCLUDE (161 por criterio + 48 por inciertos + 8 incluidos que pasaron a excluidos tras la validación) | 217 | 38.8% |
 | **Total** | **560** | **100%** |
 
 ### Desglose de exclusiones por criterio
@@ -110,9 +110,9 @@ Esta es una limitación declarada, no un detalle menor:
   Cohen). Este cribado tiene revisión IA-IA validada (Kappa 0.799, ver
   `validacion.md`) y resolución humana de los casos dudosos (48 inciertos +
   10 desacuerdos de la validación = 58 registros), pero ningún humano ha
-  revisado todavía los 454 registros restantes donde ambas pasadas de IA
-  coincidieron.
-- **Las decisiones `INCLUDE`/`EXCLUDE` de esos 454 registros siguen siendo
+  revisado todavía los 502 registros restantes (560 − 58), de los cuales 92
+  tienen el acuerdo de las dos pasadas de IA y 410 una sola pasada.
+- **Las decisiones `INCLUDE`/`EXCLUDE` de esos 502 registros siguen siendo
   provisionales** hasta que el autor valide al menos una submuestra
   humana. Se recomienda revisar especialmente los casos marcados con
   criterio `E4` (riesgo corporativo/institucional) y `E6` (fuera de
@@ -122,7 +122,7 @@ Esta es una limitación declarada, no un detalle menor:
 ## Próximo paso recomendado
 
 1. Idealmente, el autor de la tesis revisa una submuestra humana (p.ej.
-   20-30 registros) de los 454 donde las dos pasadas de IA coincidieron,
+   20-30 registros) de los 502 con decisión automática,
    para tener también una medida de acuerdo humano-IA, no solo IA-IA.
 2. Una vez el cribado título/resumen se considere suficientemente validado,
    sigue la fase de evaluación a texto completo (PRISMA fase 3) sobre los
