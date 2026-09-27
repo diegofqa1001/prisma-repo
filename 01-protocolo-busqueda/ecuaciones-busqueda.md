@@ -9,12 +9,10 @@
 - **Scopus** (acceso institucional vía proxy, Universidad Nacional de Colombia)
 - **Web of Science Core Collection** (acceso institucional)
 
-## Decisión metodológica: reconstrucción desde cero
+## Ecuación documentada en cada etapa
 
-La ecuación usada en una versión anterior de la tesis no pudo verificarse (no
-había registro reproducible del equation string, los filtros aplicados, ni el
-número exacto de resultados en cada paso), así que se descartó por completo y
-se reconstruyó una ecuación nueva, documentada en cada etapa.
+La ecuación, los filtros aplicados y el número de resultados de cada base se
+registran a continuación para que la búsqueda pueda repetirse.
 
 ## Estructura conceptual (3 bloques + filtro temporal)
 
@@ -26,12 +24,26 @@ risk tolerance OR risk profil* OR risk perception OR loss aversion OR
 financial self-efficacy OR ambiguity toleran* OR investment horizon OR
 emotional regulation OR social influence
 
+> **Nota metodológica (marco a priori):** el Bloque 2 incluye como términos
+> las siete dimensiones del marco conceptual preliminar de la tesis (risk
+> tolerance, loss aversion, financial self-efficacy, ambiguity tolerance,
+> investment horizon, emotional regulation, social influence), más `risk
+> profil*` y `risk perception`. La revisión, por tanto, contrasta y
+> caracteriza el sustento empírico de un marco definido a priori; no es un
+> procedimiento de descubrimiento de dimensiones. Un registro entra al
+> corpus si menciona al menos una de esas nueve expresiones, de modo que la
+> frecuencia de cada dimensión en el corpus está condicionada por la propia
+> ecuación; las dimensiones que la literatura estudia con otros términos
+> quedan infrarrepresentadas. Esta implicación se declara como limitación en
+> la tesis (§3.2 y §3.5.1).
+
 **Bloque 3 — Marco de clasificación/perfilado:**
 behavioral finance OR behavioural finance OR classification OR typology OR
 profiling OR segmentation OR taxonomy
 
-**Filtro temporal:** PUBYEAR/año 2019–2027 (ventana de 8 años, documentada
-formalmente en el protocolo — no un "barrido total" sin acotar).
+**Filtro temporal:** PUBYEAR/año 2019–2027 (búsquedas ejecutadas entre el 4 y
+el 7 de agosto de 2026; un registro con año 2027 corresponde a publicación
+anticipada en línea).
 
 ## Ecuación exacta ejecutada en Scopus (TITLE-ABS-KEY)
 
@@ -73,16 +85,13 @@ TS=(
 ```
 Filtro de años de publicación: 2019–2027.
 
-Resultado: **289 documentos** (export completo en `02-exports-crudos/wos_289_savedrecs.bib`).
+Resultado: **289 documentos** (export completo `wos_289_savedrecs.bib`, no redistribuido; ver README).
 
 > **Nota de trazabilidad:** la cadena exacta de WoS no quedó capturada en texto
 > plano durante la ejecución interactiva (a diferencia de Scopus, cuyo query
 > string sí se extrajo literalmente de la interfaz — ver
 > `02-exports-crudos/scopus_query_string.txt`). La cadena de arriba es la
-> traducción funcionalmente equivalente de la misma lógica booleana. Se
-> recomienda que el autor de la tesis vuelva a ejecutar la búsqueda en WoS y
-> capture pantalla del query string exacto para dejar el protocolo 100 %
-> verificado en ambas bases antes de someter la tesis.
+> traducción funcionalmente equivalente de la misma lógica booleana.
 
 ## Decisiones metodológicas documentadas
 
