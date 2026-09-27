@@ -104,7 +104,7 @@ caja(ax, XR, 7.75, W, 1.4, f'Registros excluidos\nn = {n_excluidos}\n'
 flecha(ax, XL + W, 8.45, XR, 8.45)
 flecha(ax, XL + W / 2, 7.85, XL + W / 2, 7.2)
 caja(ax, XL, 5.45, W, 1.75, f'Registros incluidos\n(provisional, nivel resumen)\nn = {n_incluidos}\n'
-     f'Validación 20 % (IA-IA): κ = {KAPPA_VAL}', OI['verde'])
+     f'Acuerdo entre pasadas (20 %): κ = {KAPPA_VAL}', OI['verde'])
 caja(ax, XR, 5.3, W, 2.05, f'Cribado asistido por modelos de lenguaje:\n1.ª pasada sobre {n_unicos}; 2.ª pasada ciega\n'
      f'sobre {N_MUESTRA_VAL} (20 %). {n_inciertos + N_DESACUERDOS} casos dudosos ({n_inciertos} inciertos\n'
      f'y {N_DESACUERDOS} desacuerdos) resueltos por el autor;\n'
