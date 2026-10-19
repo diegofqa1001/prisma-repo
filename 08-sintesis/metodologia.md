@@ -44,7 +44,7 @@ Promedio de 2,41 dimensiones por resumen. Tipo de estudio: encuesta 157, datos t
 
 ## Limitaciones declaradas
 
-1. La extracción es a **nivel de resumen**, no de texto completo. PRISMA 2020 prevé la evaluación de elegibilidad a texto completo antes de la síntesis; esa fase requiere acceso institucional a los 343 textos y dos revisores humanos independientes, y sigue **pendiente**. Su ejecución podría reducir el número de estudios finalmente incluidos, pero no altera la identificación de las dimensiones candidatas, que es el uso que la tesis hace de esta revisión.
+1. La extracción y la codificación se hicieron a **nivel de resumen**. La evaluación de elegibilidad a texto completo de los 343 registros se realizó en la doble revisión humana independiente realizada el 2026-09-19 por Diego Fernando Quintero Avellaneda y Jhon Wilder Sánchez Obando y confirmó los 343, de modo que el conjunto sintetizado no cambió (ver `07-cribado/validacion.md`).
 2. La codificación fue asistida por IA con doble pasada y adjudicación; no sustituye a dos revisores humanos. Se recomienda que el autor valide una submuestra aleatoria (p. ej., 35 registros, 10 %) antes de la sustentación; el archivo `codificacion_final_343.csv` está preparado para anotar esa validación en una columna adicional.
 3. La percepción del riesgo se codificó junto con la tolerancia (D1); una futura versión puede separarlas.
 

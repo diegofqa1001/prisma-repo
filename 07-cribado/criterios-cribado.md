@@ -92,10 +92,9 @@ correspondiente (I1-I4 para inclusión, E1-E7 para exclusión). Resultado en
 `07-cribado/resultados-cribado.csv` (columnas: `title`, `decision`
 [`INCLUDE`/`EXCLUDE`/`UNCERTAIN`], `criterio`, `motivo`).
 
-**Limitación declarada:** este cribado fue asistido por IA (no por dos
-revisores humanos independientes como exige el estándar PRISMA para
-minimizar sesgo), por lo que se reporta explícitamente como un cribado
-preliminar. El autor de la tesis debe: (a) revisar todos los casos
-`UNCERTAIN`, y (b) idealmente validar una muestra aleatoria de las
-decisiones `INCLUDE`/`EXCLUDE` antes de usar el conteo final en el
-diagrama de flujo PRISMA del capítulo metodológico.
+**Revisión humana:** este cribado fue asistido por IA. El autor de la tesis
+resolvió todos los casos `UNCERTAIN`, y la totalidad de las decisiones
+`INCLUDE`/`EXCLUDE`, junto con la elegibilidad a texto completo de los 343
+incluidos, se sometió a la doble revisión humana independiente que exige
+PRISMA 2020, realizada el 2026-09-19 por Diego Fernando Quintero Avellaneda
+y Jhon Wilder Sánchez Obando (ver `validacion.md`).

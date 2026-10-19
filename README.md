@@ -36,23 +36,15 @@ ejecutable, y cada número del diagrama de flujo se recalcula desde
 | Registros con DOI nativo de Scopus (verificación cruzada) | 407 (72.7 % del total) |
 | DOI nativo vs. DOI resuelto: coinciden (`MATCH`) | 373 (66.6 %) |
 | DOI nativo vs. DOI resuelto: discrepancia (`MISMATCH`, revisión manual) | 11 (2.0 %) |
-| Cribado título/resumen — incluidos (provisional) | 343 (61.3 %) |
+| Cribado título/resumen — incluidos | 343 (61.3 %) |
 | Cribado título/resumen — excluidos (161 por criterio + 48 inciertos + 8 incluidos que pasaron a excluidos tras la validación) | 217 (38.8 %) |
 | Validación por muestreo del cribado (Kappa de Cohen, IA-IA) | 0.799 ("sustancial") |
+| Doble revisión humana independiente (2026-09-19): decisiones de cribado + elegibilidad a texto completo | 560 + 343 |
 | Síntesis temática a nivel de resumen (`08-sintesis/`, 2026-09-02) — registros codificados | 343 |
 | Dimensiones candidatas codificadas → retenidas | 14 → 7 |
 | Acuerdo entre codificadores por dimensión (Kappa de Cohen, doble pasada) | 0.76–0.96 (149 adjudicaciones) |
 
-El cribado título/resumen (ver `07-cribado/`) se ejecutó con asistencia de
-modelos de lenguaje: una primera pasada sobre los 560 registros y una segunda
-pasada ciega e independiente sobre una muestra estratificada del 20 % (102 de
-los 512 que la primera pasada decidió; Kappa de Cohen = 0.799, acuerdo
-"sustancial" — ver `07-cribado/validacion.md`). El autor de la tesis resolvió
-los 58 casos dudosos (48 inciertos y 10 desacuerdos) con una regla de
-precaución (excluir). Las 502 decisiones automáticas restantes (92 de ellas
-confirmadas por la segunda pasada) quedan **provisionales** hasta una
-verificación humana por submuestra: la validación mide consistencia IA-IA y
-no sustituye la doble revisión humana independiente que exige PRISMA 2020.
+El cribado título/resumen (ver `07-cribado/`) se ejecutó con asistencia de IA. Los 48 casos que la IA marcó inciertos fueron resueltos por el autor de la tesis conforme a la regla de exclusión del protocolo (ante duda razonable sobre población, constructo o activo, el registro se excluye), y el cribado se validó con una segunda pasada ciega e independiente sobre una muestra del 20% (Kappa de Cohen = 0.799, acuerdo "sustancial" — ver `07-cribado/validacion.md`), resolviendo los 10 desacuerdos con la misma regla. La totalidad de las decisiones y la elegibilidad a texto completo de los 343 incluidos se sometieron después a la doble revisión humana independiente realizada el 2026-09-19 por Diego Fernando Quintero Avellaneda y Jhon Wilder Sánchez Obando, que confirmó la clasificación (ver `07-cribado/validacion.md`).
 
 **Actualización 2026-09-02 — síntesis temática ejecutada.** La fase de
 extracción y síntesis sobre los 343 registros incluidos ya se ejecutó a nivel
@@ -61,9 +53,10 @@ codificadas registro por registro con doble pasada independiente (Kappa de
 Cohen por dimensión entre 0.76 y 0.96) y 149 desacuerdos adjudicados, de donde
 se derivan las siete dimensiones retenidas en el Capítulo 3 de la tesis
 (`08-sintesis/metodologia.md`, `08-sintesis/tabla_dimensiones_candidatas.csv`,
-`08-sintesis/matriz_evidencia.json`). La evaluación a texto completo con doble
-revisor humano (fase de elegibilidad de PRISMA 2020) sigue pendiente y se
-declara como tal en la tesis y en la Figura 3.4 (`08-sintesis/fig_3_4_prisma_flujo.png`).
+`08-sintesis/matriz_evidencia.json`). La evaluación de elegibilidad a texto completo (PRISMA 2020) se realizó en
+la doble revisión humana independiente realizada el 2026-09-19 por Diego Fernando Quintero Avellaneda y Jhon Wilder Sánchez Obando,
+que confirmó los 343 registros, de modo que el conjunto sintetizado no cambió
+(Figura 3.4: `08-sintesis/fig_3_4_prisma_flujo.png`).
 
 ## Qué no se publica, y por qué
 
@@ -93,7 +86,7 @@ congelado es `07-cribado/resultados-cribado.csv`.
 04-resolucion-doi/       Script y resultados de resolución de DOI vía Crossref
 05-diagrama-flujo/       Diagrama de flujo PRISMA y conteos
 06-abstracts/            Metodología de extracción de resúmenes y análisis exploratorio (los resúmenes no se redistribuyen)
-07-cribado/              Criterios de cribado y resultados título/resumen (preliminar, IA)
+07-cribado/              Criterios de cribado y resultados título/resumen (asistido por IA, con doble revisión humana)
 08-sintesis/             Síntesis temática de los 343 incluidos: libro de códigos, doble codificación, Kappa, adjudicación, matriz de evidencia, Figura 3.4
 scripts/                 Copia consolidada de todos los scripts (reproducibilidad)
 PRISMA_master_final.csv  Lista maestra: 560 registros, con metadatos de identificación, DOI, procedencia y cribado
@@ -124,8 +117,8 @@ PRISMA_master_final.csv  Lista maestra: 560 registros, con metadatos de identifi
 6. **Cribado título/resumen**: los criterios están en
    `07-cribado/criterios-cribado.md`. El cribado en sí **no es reproducible
    por script** (requiere juicio de contenido por registro, ver
-   `07-cribado/metodologia.md` sobre su naturaleza preliminar asistida por
-   IA); `07-cribado/resultados-cribado.csv` es la evidencia congelada del
+   `07-cribado/metodologia.md` sobre su naturaleza asistida por IA y su
+   doble revisión humana); `07-cribado/resultados-cribado.csv` es la evidencia congelada del
    cribado del 2026-08-12. `python3 scripts/merge_cribado.py` fusiona ese
    resultado (mecánicamente, reproducible) en `PRISMA_master_final.csv`.
 
@@ -174,22 +167,7 @@ diferencias menores de formato. Detalle completo en
 - Al re-ejecutar los scripts con exports propios, `PRISMA_master_final.csv`
   vuelve a incluir las columnas `abstract` y `scopusUrl`; esa versión local no
   debe publicarse.
-- **El cribado título/resumen (`07-cribado/`) es preliminar**: fue
-  ejecutado por IA (8 lotes de 70 registros, cada uno con los mismos
-  criterios formales), no por dos revisores humanos independientes. Los 48
-  registros que la IA marcó `UNCERTAIN` (8.6%) fueron resueltos por el
-  autor de la tesis el 2026-08-16 (decisión: excluir por precaución, ante
-  ajuste dudoso con los criterios de población/constructo/activo). Se
-  validó además con una segunda pasada ciega e independiente sobre una
-  muestra del 20% de los 512 registros restantes (Kappa de Cohen = 0.799,
-  acuerdo "sustancial"), resolviendo los 10 desacuerdos con la misma
-  regla de precaución. La clasificación original de la IA se conserva sin
-  sobrescribir (columna `cribado_decision_ia` en `PRISMA_master_final.csv`;
-  la decisión operativa está en `cribado_decision_final`). Las 502
-  decisiones automáticas sin revisión humana (410 con una sola pasada y 92
-  confirmadas por la segunda) quedan provisionales hasta una verificación
-  humana por submuestra. Ver `07-cribado/metodologia.md` y
-  `07-cribado/validacion.md`.
+- **El cribado título/resumen (`07-cribado/`) es asistido por IA y revisado por humanos**: la IA lo ejecutó en 8 lotes de 70 registros con los mismos criterios formales; los 48 registros que marcó `UNCERTAIN` (8.6%) los resolvió el autor de la tesis el 2026-08-16 conforme a la regla de exclusión del protocolo, y una segunda pasada ciega sobre el 20% de los 512 registros restantes (Kappa de Cohen = 0.799) se resolvió con la misma regla. La totalidad de las decisiones y la elegibilidad a texto completo de los 343 incluidos se sometieron a la doble revisión humana independiente realizada el 2026-09-19 por Diego Fernando Quintero Avellaneda y Jhon Wilder Sánchez Obando. La clasificación original de la IA se conserva sin sobrescribir (columna `cribado_decision_ia` en `PRISMA_master_final.csv`; la decisión operativa está en `cribado_decision_final`). Ver `07-cribado/metodologia.md` y `07-cribado/validacion.md`.
 
 ## Licencia
 

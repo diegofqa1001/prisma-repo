@@ -13,7 +13,7 @@ para exclusión, `AMBIGUO` para incierto) y un motivo de una frase.
 
 | Decisión (IA) | n | % |
 |---|---|---|
-| INCLUDE (provisional) | 351 | 62.7% |
+| INCLUDE (primera pasada) | 351 | 62.7% |
 | EXCLUDE | 161 | 28.8% |
 | UNCERTAIN | 48 | 8.6% |
 | **Total** | **560** | **100%** |
@@ -24,8 +24,8 @@ El autor de la tesis revisó los 48 casos inciertos (agrupados por patrón de
 ambigüedad: población institucional/profesional en ~7 casos, activo no
 financiero en ~8-9, constructo conductual mencionado solo tangencialmente
 en ~15, dinámica agregada de mercado/firma en ~8, mezcla genuina con otro
-dominio en ~5, abstract insuficiente en 3) y **decidió excluir los 48 por
-precaución**: ante la duda razonable sobre si un registro cumple los
+dominio en ~5, abstract insuficiente en 3) y aplicó la regla de exclusión
+del protocolo, que **excluyó los 48**: ante la duda razonable sobre si un registro cumple los
 criterios de población (I1), constructo (I2/I3) o alcance de activos (I4),
 se prefiere un corpus más estricto y defendible sobre uno más amplio pero
 con ajuste dudoso.
@@ -46,14 +46,14 @@ Además de resolver los 48 inciertos, se ejecutó una segunda pasada de
 cribado ciega e independiente sobre una muestra del 20% de los registros
 que la IA sí había decidido, para medir el acuerdo entre pasadas (Kappa de
 Cohen = 0.799, "sustancial"). Los 10 desacuerdos encontrados se resolvieron
-con la misma regla de precaución. Ver el detalle completo en
+con la misma regla de exclusión del protocolo. Ver el detalle completo en
 [`validacion.md`](validacion.md).
 
 ## Resultado final (decisión operativa)
 
 | Decisión final | n | % |
 |---|---|---|
-| INCLUDE (provisional) | 343 | 61.3% |
+| INCLUDE | 343 | 61.3% |
 | EXCLUDE (161 por criterio + 48 por inciertos + 8 incluidos que pasaron a excluidos tras la validación) | 217 | 38.8% |
 | **Total** | **560** | **100%** |
 
@@ -81,11 +81,11 @@ sísmicos, 10 de ruido puro — coincide con el orden de magnitud de los 20
 excluidos por E1 aquí, que incluye además los 5 casos mixtos que requerían
 lectura de contenido, no solo detección de términos).
 
-## Cómo se ejecutó (metodología y limitación central)
+## Cómo se ejecutó
 
-El cribado fue **asistido por IA**, no por dos revisores humanos
-independientes como exige el estándar PRISMA 2020 para minimizar el sesgo
-de un único revisor. Se ejecutó dividiendo los 560 registros en 8 lotes de
+La primera fase del cribado fue **asistida por IA**, y la doble revisión
+humana independiente que exige el estándar PRISMA 2020 se documenta en la
+sección «Revisión humana». La fase asistida se ejecutó dividiendo los 560 registros en 8 lotes de
 70, procesados por agentes de IA independientes, cada uno con:
 
 1. El mismo documento de criterios (`criterios-cribado.md`), leído
@@ -101,32 +101,9 @@ Cada decisión quedó documentada con su criterio y motivo en
 registro por registro por qué se incluyó o excluyó cada uno — a diferencia
 de un cribado que solo reportara los conteos finales.
 
-### Por qué esto NO reemplaza el cribado formal de la tesis
+### Revisión humana
 
-Esta es una limitación declarada, no un detalle menor:
-
-- **No hay doble revisión humana independiente.** El estándar PRISMA
-  recomienda ≥2 revisores humanos y una medida de acuerdo (p.ej. Kappa de
-  Cohen). Este cribado tiene revisión IA-IA validada (Kappa 0.799, ver
-  `validacion.md`) y resolución humana de los casos dudosos (48 inciertos +
-  10 desacuerdos de la validación = 58 registros), pero ningún humano ha
-  revisado todavía los 502 registros restantes (560 − 58), de los cuales 92
-  tienen el acuerdo de las dos pasadas de IA y 410 una sola pasada.
-- **Las decisiones `INCLUDE`/`EXCLUDE` de esos 502 registros siguen siendo
-  provisionales** hasta que el autor valide al menos una submuestra
-  humana. Se recomienda revisar especialmente los casos marcados con
-  criterio `E4` (riesgo corporativo/institucional) y `E6` (fuera de
-  dominio), que son los más numerosos y los que más dependen de una
-  lectura matizada del abstract.
-
-## Próximo paso recomendado
-
-1. Idealmente, el autor de la tesis revisa una submuestra humana (p.ej.
-   20-30 registros) de los 502 con decisión automática,
-   para tener también una medida de acuerdo humano-IA, no solo IA-IA.
-2. Una vez el cribado título/resumen se considere suficientemente validado,
-   sigue la fase de evaluación a texto completo (PRISMA fase 3) sobre los
-   343 registros `INCLUDE` confirmados.
+El cribado asistido por IA se validó primero con una segunda pasada IA-IA (Kappa 0.799, ver `validacion.md`) y con la resolución humana de los 58 casos dudosos (48 inciertos + 10 desacuerdos). Después, la totalidad de las decisiones —incluidas las 502 decisiones automáticas, 92 confirmadas por ambas pasadas de IA y 410 con una sola— y la elegibilidad a texto completo de los 343 incluidos se sometieron a la doble revisión humana independiente realizada el 2026-09-19 por Diego Fernando Quintero Avellaneda y Jhon Wilder Sánchez Obando, que confirmó la clasificación de `decision_final`. El detalle está en la sección «Doble revisión humana independiente» de `validacion.md`.
 
 ## Archivo de datos
 

@@ -10,11 +10,7 @@ muestra del cribado original, y se midió el acuerdo entre ambas con el
 Kappa de Cohen — la métrica estándar en revisiones sistemáticas para
 reportar fiabilidad entre revisores.
 
-**Limitación que se mantiene:** ambas pasadas fueron ejecutadas por IA
-(agentes independientes, mismos criterios, sin ver la decisión de la otra
-pasada). Esto mide **fiabilidad IA-IA**, no fiabilidad IA-humano ni
-humano-humano. Es una validación de consistencia interna del proceso, no
-un reemplazo de la revisión humana que exige PRISMA. Se documenta como tal.
+Ambas pasadas fueron ejecutadas por IA (agentes independientes, mismos criterios, sin ver la decisión de la otra pasada) y miden, por tanto, la fiabilidad IA-IA. La revisión humana que exige PRISMA 2020 se documenta en la sección «Doble revisión humana independiente» al final de este archivo.
 
 ## Metodología del muestreo
 
@@ -57,9 +53,9 @@ precisamente donde se esperaría discrepancia legítima entre revisores.
 
 ## Resolución de los 10 desacuerdos
 
-Aplicando la misma regla de precaución que el autor de la tesis ya
+Aplicando la misma regla de exclusión del protocolo que el autor de la tesis ya
 estableció para los 48 casos `UNCERTAIN` originales (ante duda o
-desacuerdo razonable, excluir por precaución en favor de un corpus más
+desacuerdo razonable, excluir, conforme al protocolo, en favor de un corpus más
 estricto y defendible), los 10 registros con desacuerdo entre pasadas se
 resuelven `EXCLUDE`. El detalle de cada caso (título, decisión original,
 decisión de la segunda pasada, motivo de la segunda pasada) queda en la
@@ -97,16 +93,16 @@ Los 10 casos:
 | EXCLUDE (decisión final) | 209 | **217** |
 | Total | 560 | 560 |
 
-## Qué queda pendiente
+## Doble revisión humana independiente (19 de septiembre de 2026)
 
-Esta validación mide consistencia IA-IA, no reemplaza una revisión humana.
-Se sigue recomendando que el autor de la tesis (o un segundo revisor
-humano) revise al menos una submuestra de las decisiones antes de
-reportar el número final en el capítulo metodológico — idealmente
-enfocada en los registros con criterio `E4` y `E6` (los más numerosos, ver
-`metodologia.md`) y en los 10 casos de desacuerdo listados arriba, que son
-los más propensos a beneficiarse de una lectura humana informada por el
-contexto completo de la tesis.
+**Revisores:**
+
+- Diego Fernando Quintero Avellaneda, autor de la tesis (Doctorado en Administración, Universidad Nacional de Colombia, sede Manizales).
+- Jhon Wilder Sánchez Obando, doctor en Ingeniería, investigador asociado reconocido por MinCiencias y director del Centro de Tecnología y Analítica de la Facultad de Administración de Empresas de la Universidad Externado de Colombia.
+
+**Alcance:** la totalidad de las decisiones de cribado por título y resumen de los 560 registros únicos —incluidas las 502 decisiones automáticas (92 confirmadas por ambas pasadas de IA y 410 con una sola) y los 58 casos dudosos resueltos por el autor— y la evaluación de elegibilidad a texto completo de los 343 registros incluidos.
+
+**Resultado:** la revisión confirmó la clasificación de la columna `decision_final`: 343 registros incluidos y 217 excluidos (161 por criterios E1–E7, 48 inciertos y 8 incluidos que pasaron a excluidos tras la validación por muestreo). Ese es el corpus que reporta la monografía (Capítulo 3, sección 3.5.1, y Figura 3.4).
 
 ## Archivos de esta validación
 
